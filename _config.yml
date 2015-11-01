@@ -1,1 +1,2 @@
+exclude: [Gemfile, CNAME]
 url: http://www.xquartz.org
