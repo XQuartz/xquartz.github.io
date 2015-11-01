@@ -29,4 +29,4 @@ If in doubt, just choose this component for filing new bugs.
 This bug tracking system is deprecated in favor of the freedesktop.org bugzilla.
 However, not all tickets have been migrated, and it is useful for historical context.
 
-  * [XQuartz trac on MacOSForge](http://xquartz.macosforge.org/trac/newticket)
+  * [XQuartz trac on MacOSForge](http://xquartz.macosforge.org/trac/query)
