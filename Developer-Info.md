@@ -11,8 +11,6 @@ Starting with Leopard (Mac OS-X 10.5), the version of X11 shipped with Apple's O
 
 If you'd like to help out with development, please join the [xquartz-dev mailing list](https://github.com/XQuartz/XQuartz/wiki/Mailing-Lists).  Patches are greatly appreciated.  Please send them in a format that can be easily applied with patch.  You can do this with `diff -Naurp <original source tree> <new source tree>` or by using `git diff`.
 
-You should setup an account at macosforge.org, so you can submit and comment in bugs.  Click on the link in the upper right corner of this page.
-
 If you are planning on doing substantial work for Xquartz, you should get git commit access. You will need a [freedesktop.org account](http://www.freedesktop.org/wiki/AccountRequests) to do that.
 
 ### Package Installation ###
