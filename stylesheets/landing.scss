@@ -43,19 +43,11 @@
         text-align: left;
     }
 
-    a:link, a:visited, a:hover {
-        color: black;
-    }
-
-    a:active {
-        color: red;
-    }
-
     p {
         margin: 0;
     }
 
-    a, tt {
+    tt {
         white-space: nowrap;
     }
 
