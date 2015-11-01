@@ -113,6 +113,15 @@ h2.title {
     p {
         margin: 0.5em;
     }
+
+    pre {
+        margin: 0.25em 1.5em;
+        padding: 0.25em;
+        text-align: left;
+        font-family: Menlo, Consolas, Courier, Courier New, FreeMono, monospace;
+        font-size: 92%;
+        background-color: #eeeeee;
+    }
 }
 
 #credit {
