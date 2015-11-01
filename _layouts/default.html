@@ -1,10 +1,24 @@
 {% include header.html %}
 
-<div id="content">
+<div class="w3-row w3-container w3-margin-0 w3-padding-0 w3-center">
 {% include top.html %}
+</div>
 
+<div class="w3-row w3-margin-0 w3-padding-0">
+  <div class="w3-col l2 m2 w3-container w3-margin-0 w3-padding-0">
+{% include leftnav.html %}
+  </div>
+
+  <div class="w3-col l10 m10 w3-container w3-margin-0 w3-padding-0">
+	{% if page.title %}<h2 class="title">{{ page.title }}</h2>{% endif %}
+
+    <div id="content">
 {{ content }}
+    </div>
+  </div>
+</div>
 
+<div class="w3-row w3-container w3-margin-0 w3-padding-0">
 {% include credit.html %}
 </div>
 

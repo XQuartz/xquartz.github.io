@@ -25,93 +25,28 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-* {
-    font-family: Times, Times New Roman, FreeSerif, serif;
-}
-
-h1, h1 *, h2, h3, h4, h5, h6, th, table caption {
-    font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
-    font-weight: normal;
-}
-
-#toplogo a {
-    font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
-    font-weight: normal;
-    text-decoration: none;
-}
-
-tt, pre {
-    font-family: Menlo, Consolas, Courier, Courier New, FreeMono, monospace;
-    font-size: 92%;
-}
-pre {
-    text-align: left;
+html {
+  font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  font-weight: normal;
 }
 
 body {
-    color: black;
-    background-color: white;
-    text-align: center;
+    color: #000000;
+    background-color: #ffffff;
 }
 
-a:link, a:visited, a:hover {
-    color: black;
-}
-
-a:active {
-    color: red;
-}
-
-#content {
-    display: inline-block;
-    max-width: 90ex;
-    text-align: justify;
-    position: relative;
-}
-
-p {
+#toplogo {
+    padding: 0;
     margin: 0;
 }
 
-a, tt {
-    white-space: nowrap;
+#toplogo a {
+    text-decoration: none;
 }
 
-li {
-    margin-bottom: 0.5em;
-}
-
-li li {
-    margin-bottom: 0;
-}
-
-.nowrap {
-    white-space: nowrap;
-}
-
-.description {
-    font-size: 1.2em; margin: 1.5em 0; font-style: italic;
-}
-
-.overview {
-    xmargin-bottom: 1.5em;
-}
-
-h2 {
-    margin: 0;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-}
-
-.download {
-    float: right;
-}
-
-.beta {
-    font-size: 85%;
-}
-
-.caplogo {
+#toplogo .caplogo {
     vertical-align: baseline;
     zmargin-right: -2px;
     border: 0;
@@ -120,76 +55,59 @@ h2 {
     height: 48px;
 }
 
-.textlogo {
+#toplogo .textlogo {
+    font-weight: normal;
     vertical-align: baseline;
     font-size: 48px;
 }
 
-.inset {
-    margin: 0 2.5ex;
+#leftnav {
+    background-color: #eeeeee;
+    padding: 0;
+    margin: 0;
 }
 
-.download-icon {
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    vertical-align: baseline;
-    background-image: url(download.png);
-    margin-right: 2px;
+#leftnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-table.download-list {
-    border-collapse: separate;
-    border-spacing: 1.25ex 0;
+#leftnav a {
+    display: block;
     width: 100%;
-    margin-bottom: 0.5em;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 4px;
 }
 
-table.download-list > * > tr > td:first-child,
-table.download-list > * > tr > td:first-child + td,
-table.download-list > * > tr > td:first-child + td + td {
-    white-space: nowrap;
+#leftnav a:hover {
+    background-color: #dddddd;
 }
 
-table {
-    text-align: left;
+h2.title {
+    margin: 0;
+    padding: 0 10px;
 }
 
-tr.header th {
-    border-bottom: thin solid black;
-}
-
-tr.separator {
-    height: 0.25em;
-}
-
-th {
-    text-align: left;
-    vertical-align: bottom;
-    white-space: nowrap;
-}
-
-th, td {
-    padding: 0 0.5ex;
-    vertical-align: baseline;
-}
-
-table caption {
-    margin-bottom: 0.25em;
-}
-
-.collapsed {
-    display: none;
+#content {
+    padding: 0 20px
 }
 
 #credit {
-    margin-top: 1.75em;
+    margin-top: 1.5em;
     display: block;
     width: 100%;
     text-align: center;
 }
 
 #credit span {
-    color: gray;
+    color: #888888;
     font-size: 60%;
+}
+
+div.debugshadow {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
