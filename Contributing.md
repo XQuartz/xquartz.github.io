@@ -34,6 +34,15 @@ so it's easy to fork the site and send pull requests.
 Take a look at the [GitHub's Jekyll Documentation](https://help.github.com/articles/using-jekyll-with-pages)
 for setting up jekyll for local testing, and then send us your pull requests.
 
+### Build System ###
+
+The current build system is a hack of perl scripts and Makefiles, patching and
+building each upstream project their tarball releases.  We can certainly do
+better.  If you are passionate about build engineering, continuous integration,
+and infrastructure, there is a lot of room for improvement in this area.  Join
+our [mailing lists](Mailing-Lists.html), read our [developer information](Developer-Info.html),
+and let's buidl a new build system for XQuartz.
+
 ### Fixing Bugs ###
 
 If you've got the chops for coding, fix the bugs that irritate you, add features
