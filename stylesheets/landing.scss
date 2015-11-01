@@ -29,21 +29,9 @@
 // SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #content {
-    h1, h1 *, h2, h3, h4, h5, h6, th, table caption {
-        font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
-        font-weight: normal;
-    }
-
-    tt, pre {
+    tt {
         font-family: Menlo, Consolas, Courier, Courier New, FreeMono, monospace;
         font-size: 92%;
-    }
-
-    pre {
-        text-align: left;
-    }
-
-    tt {
         white-space: nowrap;
     }
 
@@ -58,14 +46,6 @@
         white-space: nowrap;
     }
 
-    .description {
-        font-size: 1.2em; margin: 1.5em 0; font-style: italic;
-    }
-
-    .overview {
-        xmargin-bottom: 1.5em;
-    }
-
     h2 {
         margin: 0;
         margin-top: 1em;
@@ -74,14 +54,6 @@
 
     .download {
         float: right;
-    }
-
-    .beta {
-        font-size: 85%;
-    }
-
-    .inset {
-        margin: 0 2.5ex;
     }
 
     .download-icon {
@@ -121,15 +93,20 @@
         height: 0.25em;
     }
 
+    td {
+        padding: 0 0.5ex;
+        vertical-align: baseline;
+    }
+
     th {
+        @extend td;
+
         text-align: left;
         vertical-align: bottom;
         white-space: nowrap;
-    }
 
-    th, td {
-        padding: 0 0.5ex;
-        vertical-align: baseline;
+        font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
+        font-weight: normal;
     }
 
     .collapsed {
