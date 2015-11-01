@@ -34,7 +34,9 @@ h1, h1 *, h2, h3, h4, h5, h6, th, table caption {
     font-weight: normal;
 }
 
-h1 a {
+#toplogo a {
+    font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
+    font-weight: normal;
     text-decoration: none;
 }
 
