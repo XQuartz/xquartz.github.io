@@ -1,4 +1,5 @@
 # Copyright (C) 2012 Kyle J. McKay (mackyle a_t g_ma_il d_o_t _co_m)
+# Copyright (C) 2015 Jeremy Huddleston Sequoia
 # All rights reserved
 #
 # Redistribution and use in source and binary forms, with or without
@@ -29,7 +30,7 @@
 }
 
 h1, h1 *, h2, h3, h4, h5, h6, th, table caption {
-    font-family: Helvetica, Arial, FreeSans, sans-serif;
+    font-family: -apple-system, "Helvetica Neue", "Lucida Grande", Helvetica, Arial, FreeSans, sans-serif;
     font-weight: normal;
 }
 
