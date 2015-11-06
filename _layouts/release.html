@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% for release in site.releases %}
+    {% if release.version == page.version %}
+        {% capture header_include %}{% include release_header.md %}{% endcapture %}
+        {{ header_include | markdownify }}
+
+        {{ release.content }}
+    {% endif %}
+{% endfor %}

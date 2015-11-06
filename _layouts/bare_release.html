@@ -1,0 +1,16 @@
+{% include util.jeykll %}
+{% include header.html %}
+
+{% if page.title %}<h2 class="title">{{ page.title }}</h2>{% endif %}
+<div id="content">
+{% for release in site.releases %}
+    {% if release.version == page.version %}
+        {% capture header_include %}{% include release_header.md %}{% endcapture %}
+        {{ header_include | markdownify }}
+
+        {{ release.content }}
+    {% endif %}
+{% endfor %}
+</div>
+
+{% include footer.html %}

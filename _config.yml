@@ -1,2 +1,6 @@
 exclude: [Gemfile, CNAME]
 url: http://www.xquartz.org
+
+collections:
+  releases:
+    output: false
