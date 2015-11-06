@@ -1,0 +1,12 @@
+{% assign site_base = '' %}
+{% assign depth = page.url | split: '/' | size | minus: 1 %}
+{% if    depth == 1 %}{% assign site_base = '.' %}
+{% elsif depth == 2 %}{% assign site_base = '..' %}
+{% elsif depth == 3 %}{% assign site_base = '../..' %}
+{% elsif depth == 4 %}{% assign site_base = '../../../..' %}
+{% elsif depth == 5 %}{% assign site_base = '../../../../..' %}
+{% elsif depth == 6 %}{% assign site_base = '../../../../../..' %}
+{% elsif depth == 7 %}{% assign site_base = '../../../../../../..' %}
+{% elsif depth == 8 %}{% assign site_base = '../../../../../../../..' %}
+{% elsif depth == 9 %}{% assign site_base = '../../../../../../../../..' %}
+{% endif %}

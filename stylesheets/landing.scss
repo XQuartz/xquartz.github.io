@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include util.jeykll %}
+
 // Copyright (C) 2012 Kyle J. McKay (mackyle a_t g_ma_il d_o_t _co_m)
 // Copyright (C) 2015 Jeremy Huddleston Sequoia
 // All rights reserved
@@ -61,7 +63,7 @@
         width: 16px;
         height: 16px;
         vertical-align: baseline;
-        background-image: url(../download.png);
+        background-image: url({{ site_base }}/download.png);
         margin-right: 2px;
     }
 
