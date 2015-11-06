@@ -48,3 +48,10 @@ and let's buidl a new build system for XQuartz.
 If you've got the chops for coding, fix the bugs that irritate you, add features
 you're missing, or check out bugzilla to see what bugs users have reported.  Our
 [developer information page](Developer-Info.html) will help you get started.
+
+### Financial ###
+
+All of the software we package are developed through the hard work of the open
+source community.  If you would like to make a financial contribution to the
+continued efforts of this and related projects, please checkout the
+[Xorg Sponsorship Page](http://www.x.org/wiki/SponsorshipPage).
