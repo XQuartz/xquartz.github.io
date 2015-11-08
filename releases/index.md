@@ -5,8 +5,8 @@ stylesheet: releases.css
 ---
 
 #### Installer Packages ####
-
-{% for release in site.releases reversed %}
+{% assign releases = site.releases | sort:"date" %}
+{% for release in releases reversed %}
   {% if release.prerelease != true %}
   * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date }}{% if release.emphasis %} - **{{ release.emphasis }}**{% endif %}
   {% endif %}
