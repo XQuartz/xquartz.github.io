@@ -8,6 +8,7 @@ download_url: http://xquartz-dl.macosforge.org/SL/XQuartz-2.5.3.dmg
 leopard_filename: X11-2.5.3.dmg
 leopard_download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.5.3.dmg
 required_os_version: 10.6.3
+status: release
 ---
 
 ### Changes in {{ page.version }} ###

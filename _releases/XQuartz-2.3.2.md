@@ -6,6 +6,7 @@ date: 2009.01.02
 filename: XQuartz-2.3.2.dmg
 download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.3.2.dmg
 required_os_version: 10.5.5
+status: release
 ---
 
 ### Changes in {{ page.version }} ###

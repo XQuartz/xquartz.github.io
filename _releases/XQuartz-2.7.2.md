@@ -7,6 +7,7 @@ filename: XQuartz-2.7.2.dmg
 download_url: http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.2.dmg
 required_os_version: 10.6.3
 emphasis: First release supported on Mountain Lion
+status: release
 ---
 
 ### Changes in {{ page.version }} ###

@@ -6,6 +6,7 @@ date: 2008.04.14
 filename: XQuartz-2.2.0.1.pkg
 download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.2.0.1.pkg
 required_os_version: 10.5
+status: release
 ---
 
 ### Changes in {{ page.version }} ###

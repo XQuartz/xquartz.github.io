@@ -6,7 +6,7 @@ date: 2015.10.29
 filename: XQuartz-2.7.9_beta1.dmg
 download_url: http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.9_beta1.dmg
 required_os_version: 10.8.5
-prerelease: true
+status: prerelease
 ---
 
 ### Changes in {{ page.version }} ###

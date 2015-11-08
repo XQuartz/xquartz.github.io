@@ -1,11 +1,13 @@
 ---
 ---
 
-#installer-packages+ul {
+h4+ul, h5+ul {
+    margin: 5px;
+
     li {
         height: 15px;
 
-        p {
+        a, p {
             height: 15px;
             font-size: 12px;
         }
