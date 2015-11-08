@@ -2,7 +2,7 @@
 title: XQuartz 2.3.3.1
 
 version: 2.3.3.1
-date: 2009.05.17
+date: 2009.05.16
 filename: XQuartz-2.3.3.1.dmg
 download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.3.3.1.dmg
 required_os_version: 10.5.7
