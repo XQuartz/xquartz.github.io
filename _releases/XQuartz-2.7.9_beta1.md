@@ -20,4 +20,4 @@ status: prerelease
       * Binary compatibility maintained for existing clients of libXt.6.dylib
     * [xcb-util-keysyms 0.4.0](http://lists.freedesktop.org/archives/xcb/2014-October/009921.html)
   * server:
-    * [xorg-server 1.17.4](http://lists.x.org/archives/xorg-announce/2015-October/002650.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=server-1.17-apple)
+    * [xorg-server 1.17.4](http://lists.x.org/archives/xorg-announce/2015-October/002650.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.9_beta1)

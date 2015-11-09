@@ -44,7 +44,7 @@ status: release
     * [xextproto 7.0.3](http://lists.freedesktop.org/archives/xorg-announce/2008-May/000568.html)
     * [xproto 7.0.13](http://lists.freedesktop.org/archives/xorg-announce/2008-May/000567.html)
   * server:
-    * Xquartz fixes from [xorg-server-1.4.2-apple5](http://cgit.freedesktop.org/xorg/xserver/log/?h=30e077e0341daf371b851ce8a14138fe7d52cae7)
+    * Xquartz fixes from [xorg-server-1.4.2-apple5](https://github.com/XQuartz/xorg-server/commits/30e077e0341daf371b851ce8a14138fe7d52cae7)
       * xserver codebase updated to 1.4 branch
       * Support for tablets
       * Threading is more robust

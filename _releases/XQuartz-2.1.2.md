@@ -28,7 +28,7 @@ status: release
     * [inputproto-1.4.2.1](http://lists.freedesktop.org/archives/xorg-announce/2007-August/000371.html)
     * [renderproto-0.9.3](http://lists.freedesktop.org/archives/xorg-announce/2007-August/000372.html)
   * server:
-    * [xorg-server-1.3.0-apple7](http://cgit.freedesktop.org/xorg/xserver/log/?h=be7598b6202f1e09877509f09af41b0f89a95e57)
+    * [xorg-server-1.3.0-apple7](https://github.com/XQuartz/xorg-server/commits/be7598b6202f1e09877509f09af41b0f89a95e57)
       * XQuartz comes to the foreground later in the startup process to not cause 'XQuartz -version' to flash a dock icon
       * Fixed -depth command line argument to work properly (still no 8-bit support)
       * added 'startx_script' defaults option which defaults to /usr/X11/bin/startx.

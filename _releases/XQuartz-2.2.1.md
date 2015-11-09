@@ -35,7 +35,7 @@ status: release
   * quartz-wm:
     * Fixed "closing X11 window swaps spaces" bug
   * server:
-    * [xorg-server-1.3.0-apple20](http://cgit.freedesktop.org/xorg/xserver/log/?h=be8d218144ee657b8614e261d0c1f2fbab914717)
+    * [xorg-server-1.3.0-apple20](https://github.com/XQuartz/xorg-server/commits/be8d218144ee657b8614e261d0c1f2fbab914717)
       * Fixed multiple crash-causing bugs
       * Fixed cmd-tab to properly move all windows forward when entering X11.app
       * Enabled support for keyboard beep

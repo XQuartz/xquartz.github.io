@@ -30,7 +30,7 @@ status: release
       * [CVE-2011-2691](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2691)
       * [CVE-2011-2692](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2692)
   * server:
-    * [xorg-server 1.10.3](http://lists.freedesktop.org/archives/xorg-announce/2011-July/001710.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.6.3)
+    * [xorg-server 1.10.3](http://lists.freedesktop.org/archives/xorg-announce/2011-July/001710.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.3)
       * Fixed a crash in RandR when resizing while displays are asleep (#463)
       * Fixed a crash in RandR when launching X11 while displays are asleep
       * Fixed a crash in rootless when resizing to a larger display

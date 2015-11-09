@@ -57,7 +57,7 @@ status: release
     * [xextproto 7.0.4](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000718.html)
     * [xproto 7.0.14](http://lists.freedesktop.org/archives/xorg-announce/2008-October/000673.html)
   * server:
-    * Xquartz fixes from [xorg-server-1.4.2-apple31](http://cgit.freedesktop.org/xorg/xserver/log/?h=9f1c26ae8d9ccf81cba0ab946326968a701f8c36)
+    * Xquartz fixes from [xorg-server-1.4.2-apple31](https://github.com/XQuartz/xorg-server/commits/9f1c26ae8d9ccf81cba0ab946326968a701f8c36)
       * Send out AppleWMReloadPreferences notification to tell quartz-wm and xpbproxy to reload preferences
       * Fix a crash in RootlessNativeWindowMoved when compiled for 64bit
       * Fix a possible crash on startup due to TSM not being thread safe

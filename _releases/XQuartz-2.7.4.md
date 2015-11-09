@@ -20,5 +20,5 @@ status: release
       * Fix an issue with GLX pixmaps (#536) plaguing wine
   * server:
     * [xf86-video-dummy 0.3.6](http://lists.x.org/archives/xorg-announce/2012-July/002033.html)
-    * xorg-server 1.13.0 plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.4)
+    * xorg-server 1.13.0 plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.4)
       * Workaround for a deadlock issue plaguing wine on OS X 10.7.5 and 10.8.2 ([wine bug #31751](http://bugs.winehq.org/show_bug.cgi?id=31751), #649)

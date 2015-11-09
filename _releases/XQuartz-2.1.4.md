@@ -23,13 +23,13 @@ status: release
       * fix xinitrc to properly process .Xresources if dev tools are not installed
       * update FC cache on X11 start
     * Xvfb, Xnest, Xephyr, Xfake
-      * built using [xorg-server-1.4-apple](http://cgit.freedesktop.org/xorg/xserver/log/?h=1b22192e5079cec0e0b5e072415e93aae67d8593)
+      * built using [xorg-server-1.4-apple](https://github.com/XQuartz/xorg-server/commits/1b22192e5079cec0e0b5e072415e93aae67d8593)
     * quartz-wm
       * Updated to use org.x.X11 instead of com.apple.x11 for defaults
   * fonts:
     * made font caching more "automatic"
   * server:
-    * [xorg-server-1.3.0-apple10](http://cgit.freedesktop.org/xorg/xserver/log/?h=2e7a8396b7aeaf9ffe8f72a6d2f6da61bc1c1cf4)
+    * [xorg-server-1.3.0-apple10](https://github.com/XQuartz/xorg-server/commits/2e7a8396b7aeaf9ffe8f72a6d2f6da61bc1c1cf4)
       * Fixed Window menu to conform to OSX UI Guidelines
       * Fixed command-~ to reverse cycle through windows
       * Added option to preferences for quartz-wm click-through

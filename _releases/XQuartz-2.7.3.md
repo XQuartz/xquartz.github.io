@@ -41,4 +41,4 @@ status: release
     * Set XAuthLocation in /etc/ssh_config and /etc/sshd_config, so ssh can find xauth (#619)
   * server:
     * Xvfb should once again work on Snow Leopard (#588)
-    * [xorg-server 1.12.4](http://lists.freedesktop.org/archives/xorg-announce/2012-August/002062.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.3)
+    * [xorg-server 1.12.4](http://lists.freedesktop.org/archives/xorg-announce/2012-August/002062.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.3)

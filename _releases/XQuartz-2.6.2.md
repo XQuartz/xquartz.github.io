@@ -27,7 +27,7 @@ status: release
     * [applewmproto 1.4.2](http://lists.freedesktop.org/archives/xorg-announce/2011-April/001641.html)
     * [xproto 7.0.21](http://lists.freedesktop.org/archives/xorg-announce/2011-March/001631.html)
   * server:
-    * xorg-server 1.10.1 plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.6.2)
+    * xorg-server 1.10.1 plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.2)
       * Fixed an issue which could cause incorrect data to be proxied by pbproxy (#476)
       * Initial applications should have proper xrdb resources (#416)
       * Fixed a crash/corruption bug resulting from an incorrect offset in RootlessGlyphs

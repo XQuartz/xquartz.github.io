@@ -38,6 +38,6 @@ status: release
     * The installer should now allow downgrading to this release (Bug #532)
       * If you need to downgrade to 2.7.0, you should manually delete XQuartz.app first.
   * server:
-    * [xorg-server 1.11.4](http://lists.freedesktop.org/archives/xorg/2012-January/054045.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.1)
+    * [xorg-server 1.11.4](http://lists.freedesktop.org/archives/xorg/2012-January/054045.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.1)
       * While in fullscreen mode, hiding by using CMD-H now causes you to leave fullscreen mode first, as if by cmd-opt-a (Bug #478)
       * Release all mouse buttons when switching applications (Bug #486)

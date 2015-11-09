@@ -24,7 +24,7 @@ status: release
     * [x11proto git 2007.12.10](http://gitweb.freedesktop.org/?p=xorg/proto/x11proto.git;a=summary)
     * Changed references of _``_DARWIN_``_ to _``_APPLE_``_
   * server:
-    * [xorg-server-1.3.0-apple5](http://cgit.freedesktop.org/xorg/xserver/log/?h=56324ec518dbd5f7264147f3ae3fde492506710e)
+    * [xorg-server-1.3.0-apple5](https://github.com/XQuartz/xorg-server/commits/56324ec518dbd5f7264147f3ae3fde492506710e)
       * Crash and stability fixes
       * Fixed startup to check preferences set in org.x.X11 instead of com.apple.X11
       * Multiple dock-icons bug fixed

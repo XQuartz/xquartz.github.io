@@ -43,7 +43,7 @@ status: release
     * [xf86vidmodeproto 2.3.1](http://lists.freedesktop.org/archives/xorg-announce/2011-January/001581.html)
     * [xineramaproto 1.2.1](http://lists.freedesktop.org/archives/xorg-announce/2011-January/001582.html)
   * server:
-    * [xorg-server 1.9.5](http://lists.freedesktop.org/archives/xorg-announce/2011-March/001627.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.6.1)
+    * [xorg-server 1.9.5](http://lists.freedesktop.org/archives/xorg-announce/2011-March/001627.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.1)
     * fixed monitor hot-swapping regression (#460)
     * Windows have the correct color profile when first created (#425)
     * Localization updates

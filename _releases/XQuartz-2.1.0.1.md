@@ -38,7 +38,7 @@ status: release
     * [damageproto 1.1.0](http://lists.freedesktop.org/archives/xorg-announce/2007-January/000238.html)
     * [randrproto 1.2.1](http://lists.freedesktop.org/archives/xorg-announce/2007-February/000255.html)
   * server:
-    * [xorg-server-1.3.0-apple2](http://cgit.freedesktop.org/xorg/xserver/log/?h=b6a98afe614b512029d9f8b01ef82e4899817cb2)
+    * [xorg-server-1.3.0-apple2](https://github.com/XQuartz/xorg-server/commits/b6a98afe614b512029d9f8b01ef82e4899817cb2)
       * xserver codebase updated from 1.2.0 to 1.3 branch
         * Fixes [CVE-2007-1003](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-1003)
       * Fixed support for multiple displays (Xinerama)

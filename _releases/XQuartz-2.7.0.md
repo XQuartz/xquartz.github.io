@@ -62,7 +62,7 @@ status: release
     * [resourceproto 1.2.0](http://lists.freedesktop.org/archives/xorg-announce/2011-May/001674.html)
     * [xproto 7.0.22](http://lists.freedesktop.org/archives/xorg-announce/2011-June/001686.html)
   * server:
-    * [xorg-server 1.11.2](http://lists.freedesktop.org/archives/xorg-announce/2011-November/001751.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=server-1.11-apple)
+    * [xorg-server 1.11.2](http://lists.freedesktop.org/archives/xorg-announce/2011-November/001751.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.0)
       * Initial support for GCD in the server to increase performance on multi-core systems
       * Improved logging
       * [CVE-2011-4028](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4028)

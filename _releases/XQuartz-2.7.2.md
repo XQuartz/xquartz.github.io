@@ -132,7 +132,7 @@ status: release
   * server:
     * [xf86-input-void 1.4.0](http://lists.x.org/archives/xorg-announce/2011-May/001658.html)
     * [xf86-video-dummy 0.3.5](http://lists.x.org/archives/xorg-announce/2011-December/001785.html)
-    * [xorg-server 1.12.2](http://lists.freedesktop.org/archives/xorg-announce/2012-May/001963.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.2)
+    * [xorg-server 1.12.2](http://lists.freedesktop.org/archives/xorg-announce/2012-May/001963.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.2)
       * Xfake, Xvfb, Xfake are now using the same server version as XQuartz
       * Xephyr is still using 1.6.5-apple3
       * Xorg binary is now installed as well, for use with the dummy, nested, or vnc drivers (experts only, not yet fully supported)

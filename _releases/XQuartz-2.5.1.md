@@ -55,7 +55,7 @@ status: release
   * proto:
     * [xproto 7.0.17](http://lists.freedesktop.org/archives/xorg-announce/2010-May/001313.html)
   * server:
-    * [xorg-server 1.8.2](http://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.5.1)
+    * [xorg-server 1.8.2](http://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.5.1)
       * Move to the 1.8 branch
       * Fixed shift-arrow keys sending math symbols in wine (#295)
       * Added a preference to toggle between Alt_L, Alt_R and Mode_switch (#374)

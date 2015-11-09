@@ -24,6 +24,6 @@ status: release
       * [libXau 1.0.6](http://lists.x.org/archives/xorg-announce/2010-July/001355.html)
       * [mesa 7.8.2](http://www.mesa3d.org/relnotes-7.8.2.html)
   * server:
-    * [xorg-server 1.8.2](http://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.5.2)
+    * [xorg-server 1.8.2](http://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.5.2)
       * Fixed possible memory errors with cursor on ppc (#415)
       * Fixed a crash that can occur when changing to a higher resolution while in fullscreen

@@ -56,7 +56,7 @@ status: release
     * [xpyb 1.1](http://lists.freedesktop.org/archives/xorg-announce/2009-April/000815.html)
     * [xtrans 1.2.3](http://lists.freedesktop.org/archives/xorg-announce/2009-January/000743.html)
   * server:
-    * Xquartz fixes from [xorg-server-1.4.2-apple42](http://cgit.freedesktop.org/xorg/xserver/log/?h=9435fc5e20e25ce66ec85bde033daff51f39f69c)
+    * Xquartz fixes from [xorg-server-1.4.2-apple42](https://github.com/XQuartz/xorg-server/commits/9435fc5e20e25ce66ec85bde033daff51f39f69c)
       * DRI Updates for new libGL
       * Fix CapsLock
       * Fixed mouse tracking for games like Quake2, Halflife, etc in wine.

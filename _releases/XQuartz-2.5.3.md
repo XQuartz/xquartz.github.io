@@ -37,7 +37,7 @@ status: release
       * [xproto 7.0.18](http://lists.x.org/archives/xorg-announce/2010-August/001372.html)
       * [xextproto 7.1.2](http://lists.x.org/archives/xorg-announce/2010-August/001373.html)
   * server:
-    * [xorg-server 1.8.2](http://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.5.3)
+    * [xorg-server 1.8.2](http://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.5.3)
       * Finish cleanup of /tmp on server quit (#421)
       * Address an indirect GLX regressions introduced in 2.5.1 (#423, #426)
 

@@ -120,7 +120,7 @@ status: release
     * [xproto 7.0.28](http://lists.x.org/archives/xorg-announce/2015-July/002618.html)
   * server:
     * [xf86-input-void 1.4.1](http://lists.x.org/archives/xorg-announce/2015-April/002585.html)
-    * [xorg-server 1.16.4](http://lists.x.org/archives/xorg-announce/2015-February/002532.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.8)
+    * [xorg-server 1.16.4](http://lists.x.org/archives/xorg-announce/2015-February/002532.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.8)
       * [CVE-2014-8091](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8091)
       * [CVE-2014-8092](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8092)
       * [CVE-2014-8093](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8093)

@@ -190,7 +190,7 @@ status: release
     * [xineramaproto 1.2](http://lists.freedesktop.org/archives/xorg-announce/2009-October/001077.html)
     * [xproto 7.0.16](http://lists.freedesktop.org/archives/xorg-announce/2009-September/001058.html)
   * server:
-    * [xorg-server 1.7.6](http://lists.freedesktop.org/archives/xorg-announce/2010-March/001278.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.5.0)
+    * [xorg-server 1.7.6](http://lists.freedesktop.org/archives/xorg-announce/2010-March/001278.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.5.0)
       * Move to the 1.7 branch
       * 64bit fixes for pbproxy
       * Add support for side-by-side installation with system X11 (SnowLeopard Only)

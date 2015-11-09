@@ -62,7 +62,7 @@ status: release
   * util:
     * [util-macros 1.2.1](http://lists.freedesktop.org/archives/xorg-announce/2009-June/000865.html)
   * server:
-    * Xquartz fixes from [xorg-server-1.5.3-apple14](http://cgit.freedesktop.org/xorg/xserver/log/?h=b64310e3a48c23b1684aae02704c42dc8fa48c38)
+    * Xquartz fixes from [xorg-server-1.5.3-apple14](https://github.com/XQuartz/xorg-server/commits/b64310e3a48c23b1684aae02704c42dc8fa48c38)
       * xserver codebase updated to 1.5 branch
       * rewritten AIGLX dispatch code
       * Localization updates

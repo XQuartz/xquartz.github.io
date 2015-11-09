@@ -110,7 +110,7 @@ status: release
     * Added preference to control moving X11.app into the foreground when a new X11 window is created
     * Added preference to toggle shading of windows
   * server:
-    * [xorg-server-1.3.0-apple15](http://cgit.freedesktop.org/xorg/xserver/log/?h=68bb258fcaa59479f39eafab9c4b2bed37a553de)
+    * [xorg-server-1.3.0-apple15](https://github.com/XQuartz/xorg-server/commits/68bb258fcaa59479f39eafab9c4b2bed37a553de)
       * Added informational output when falling through to failsafe startup in X11.app
       * Unsetenv(DISPLAY) when falling through to failsafe startup in X11.app
       * Fixed "confirm on exit"

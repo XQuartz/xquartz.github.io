@@ -44,5 +44,5 @@ status: release
   * misc:
     * [util-macros 1.19.0](http://lists.x.org/archives/xorg-announce/2014-March/002411.html)
   * server:
-    * [xorg-server 1.14.6](http://lists.x.org/archives/xorg-announce/2014-April/002418.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.6)
+    * [xorg-server 1.14.6](http://lists.x.org/archives/xorg-announce/2014-April/002418.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.6)
       * Fix the deletion of display lock files (#823)

@@ -31,7 +31,7 @@ status: release
     * [inputproto 2.3.1](http://lists.x.org/archives/xorg-announce/2014-May/002437.html)
     * [xcb-proto 1.11](http://lists.x.org/archives/xorg-announce/2014-August/002468.html)
   * server:
-    * [xorg-server 1.15.2](http://lists.x.org/archives/xorg-announce/2014-June/002450.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.7)
+    * [xorg-server 1.15.2](http://lists.x.org/archives/xorg-announce/2014-June/002450.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.7)
       * Fixes multimonitor support on Mavericks (#832, #1876)
       * Fix Xephyr "failed to create root window" bug (#822)
       * Fix a crash resulting from a rare race condition in fd handoff (#869)

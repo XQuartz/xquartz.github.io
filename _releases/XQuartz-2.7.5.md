@@ -116,7 +116,7 @@ status: release
     * [util-macros 1.17.1](http://lists.x.org/archives/xorg-announce/2013-September/002301.html)
   * server:
     * [xf86-video-dummy 0.3.7](http://lists.x.org/archives/xorg-announce/2013-September/002318.html)
-    * [xorg-server 1.14.4](http://lists.x.org/archives/xorg/2013-November/056147.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.7.5)
+    * [xorg-server 1.14.4](http://lists.x.org/archives/xorg/2013-November/056147.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.5)
       * Don't force discreet graphics (#654)
       * Removed support for 15bit visuals which no longer work in Mountain Lion (#633)
       * Fix a rendering regression seen in pixman by reverting to old rendering code paths (#525)

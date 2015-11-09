@@ -12,7 +12,7 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.2.1](XQuartz-2.2.1.html) plus:
   * server:
-    * Xquartz fixes from [xorg-server-1.3.0-apple21](http://cgit.freedesktop.org/xorg/xserver/log/?h=b3373877b7c9fa35d02c052e6e753529943e4095)
+    * Xquartz fixes from [xorg-server-1.3.0-apple21](https://github.com/XQuartz/xorg-server/commits/b3373877b7c9fa35d02c052e6e753529943e4095)
       * Support monitor hotplugging
       * [CVE-2008-1377](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-1377)
       * [CVE-2008-1379](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-1379)

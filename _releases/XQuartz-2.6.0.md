@@ -179,7 +179,7 @@ status: release
     * [xproto 7.0.20](http://lists.freedesktop.org/archives/xorg-announce/2010-December/001559.html)
     * [xcmiscproto 1.2.1](http://lists.freedesktop.org/archives/xorg-announce/2010-October/001477.html)
   * server:
-    * [xorg-server 1.9.3](http://lists.freedesktop.org/archives/xorg-announce/2010-December/001567.html) plus [other patches](http://cgit.freedesktop.org/~jeremyhu/xserver/log/?h=XQuartz-2.6.0)
+    * [xorg-server 1.9.3](http://lists.freedesktop.org/archives/xorg-announce/2010-December/001567.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.0)
       * Initial RandR support (#6)
       * Fullscreen mode disables the Mac OS screensaver
       * Localization Updates
