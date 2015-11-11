@@ -2,208 +2,208 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>XQuartz Changelog</title>
-      <link>http://www.xquartz.org/releases/sparkle/release.xml</link>
+      <link>https://www.xquartz.org/releases/sparkle/release.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.8</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.8.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.8.html</sparkle:releaseNotesLink>
          <pubDate>Fri, 16 Oct 2015 09:11:38 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.8.dmg" sparkle:version="2.7.86" sparkle:shortVersionString="XQuartz-2.7.8" length="75948224" type="application/octet-stream" sparkle:dsaSignature="MCwCFARgvDFFm/AIjvTpRGv1GTYIu6s5AhQN/AmrbcRSJw4TXSYVijWFPrw2Dw==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.8.dmg" sparkle:version="2.7.86" sparkle:shortVersionString="XQuartz-2.7.8" length="75948224" type="application/octet-stream" sparkle:dsaSignature="MCwCFARgvDFFm/AIjvTpRGv1GTYIu6s5AhQN/AmrbcRSJw4TXSYVijWFPrw2Dw==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.7</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.7.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.7.html</sparkle:releaseNotesLink>
          <pubDate>Mon, 18 Aug 2014 17:06:29 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.7.dmg" sparkle:version="2.7.73" sparkle:shortVersionString="XQuartz-2.7.7" length="68231147" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCrFN4oGe2ibaTkY+5nCqGP1Orh1QIUK2DYX2CTsCtGD6t4ljOV02AeEYc=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.7.dmg" sparkle:version="2.7.73" sparkle:shortVersionString="XQuartz-2.7.7" length="68231147" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCrFN4oGe2ibaTkY+5nCqGP1Orh1QIUK2DYX2CTsCtGD6t4ljOV02AeEYc=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.6</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.6.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.6.html</sparkle:releaseNotesLink>
          <pubDate>Sat, 17 May 2014 07:48:34 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.6.dmg" sparkle:version="2.7.61" sparkle:shortVersionString="XQuartz-2.7.6" length="67966361" type="application/octet-stream" sparkle:dsaSignature="MCwCFHApBoxdgeBqgnLq4gVLU9eMCT94AhQeO9tgIHLstSP3HOl5a76nWZ99jg==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.6.dmg" sparkle:version="2.7.61" sparkle:shortVersionString="XQuartz-2.7.6" length="67966361" type="application/octet-stream" sparkle:dsaSignature="MCwCFHApBoxdgeBqgnLq4gVLU9eMCT94AhQeO9tgIHLstSP3HOl5a76nWZ99jg==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.5</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.5.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.5.html</sparkle:releaseNotesLink>
          <pubDate>Mon, 11 Nov 2013 00:20:01 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.5.dmg" sparkle:version="2.7.54" sparkle:shortVersionString="XQuartz-2.7.5" length="67440114" type="application/octet-stream" sparkle:dsaSignature="MCwCFAftnj6MlR1jXHnE2YiPsULDkIAhAhRr18zx4zyzBkvMCkQ8al9vc5haWQ==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.5.dmg" sparkle:version="2.7.54" sparkle:shortVersionString="XQuartz-2.7.5" length="67440114" type="application/octet-stream" sparkle:dsaSignature="MCwCFAftnj6MlR1jXHnE2YiPsULDkIAhAhRr18zx4zyzBkvMCkQ8al9vc5haWQ==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.4</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.4.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.4.html</sparkle:releaseNotesLink>
          <pubDate>Thu, 27 Sep 2012 22:42:28 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.4.dmg" sparkle:version="2.7.43" sparkle:shortVersionString="XQuartz-2.7.4" length="70144166" type="application/octet-stream" sparkle:dsaSignature="MC0CFCZXQggXgsRefGAfdqYvUPP2k6x4AhUAowapIEGjSpc0xIczAO3iTUt5Bm8=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.4.dmg" sparkle:version="2.7.43" sparkle:shortVersionString="XQuartz-2.7.4" length="70144166" type="application/octet-stream" sparkle:dsaSignature="MC0CFCZXQggXgsRefGAfdqYvUPP2k6x4AhUAowapIEGjSpc0xIczAO3iTUt5Bm8=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.3</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.3.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.3.html</sparkle:releaseNotesLink>
          <pubDate>Mon, 27 Aug 2012 18:06:31 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.3.dmg" sparkle:version="2.7.32" sparkle:shortVersionString="XQuartz-2.7.3" length="70049788" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCszzCVWqQT+04zy3hUA2Y8ppB07QIVAKv/1JF8kUrKiwMNXOw1Ha7mj0z6" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.3.dmg" sparkle:version="2.7.32" sparkle:shortVersionString="XQuartz-2.7.3" length="70049788" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCszzCVWqQT+04zy3hUA2Y8ppB07QIVAKv/1JF8kUrKiwMNXOw1Ha7mj0z6" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.2</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.2.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.2.html</sparkle:releaseNotesLink>
          <pubDate>Sat, 02 Jun 2012 00:54:20 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.2.dmg" sparkle:version="2.7.28" sparkle:shortVersionString="XQuartz-2.7.2" length="70046969" type="application/octet-stream" sparkle:dsaSignature="MC0CFDi1CsrK+gUiOW6EcQ/yOdIeqMPrAhUAvX24Ohr3Xd1efmvo5fJ03FRmnJc=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.2.dmg" sparkle:version="2.7.28" sparkle:shortVersionString="XQuartz-2.7.2" length="70046969" type="application/octet-stream" sparkle:dsaSignature="MC0CFDi1CsrK+gUiOW6EcQ/yOdIeqMPrAhUAvX24Ohr3Xd1efmvo5fJ03FRmnJc=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.1</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.1.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.1.html</sparkle:releaseNotesLink>
          <pubDate>Mon, 20 Feb 2012 21:35:31 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.1.dmg" sparkle:version="2.7.14" sparkle:shortVersionString="XQuartz-2.7.1" length="61889275" type="application/octet-stream" sparkle:dsaSignature="MC0CFEVwI6TyoPb1CYjPOrxKTurDgHV2AhUAhjyhsyFdj43YuPvGMan9ZnpYiW8=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.1.dmg" sparkle:version="2.7.14" sparkle:shortVersionString="XQuartz-2.7.1" length="61889275" type="application/octet-stream" sparkle:dsaSignature="MC0CFEVwI6TyoPb1CYjPOrxKTurDgHV2AhUAhjyhsyFdj43YuPvGMan9ZnpYiW8=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.0</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.0.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.0.html</sparkle:releaseNotesLink>
          <pubDate>Fri, 04 Nov 2011 19:09:48 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.0.dmg" sparkle:version="2.7.4" sparkle:shortVersionString="XQuartz-2.7.0" length="60518066" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCMzoiTr3QJIpunVGCuooUaJ9gR2QIVAI6CwIGLPv5cio/b9TuoXeEcTePl" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.0.dmg" sparkle:version="2.7.4" sparkle:shortVersionString="XQuartz-2.7.0" length="60518066" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCMzoiTr3QJIpunVGCuooUaJ9gR2QIVAI6CwIGLPv5cio/b9TuoXeEcTePl" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.6.3</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.3.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.3.html</sparkle:releaseNotesLink>
          <pubDate>Fri, 22 Jul 2011 01:10:24 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.6.3.dmg" sparkle:version="2.6.34" sparkle:shortVersionString="XQuartz-2.6.3" length="59827803" type="application/octet-stream" sparkle:dsaSignature="MC0CFFzeNyrF1WcMvX6VOlNvBorwRdmTAhUAlg8YLm87gXPr7bsoC4IJvJOipWU=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.6.3.dmg" sparkle:version="2.6.34" sparkle:shortVersionString="XQuartz-2.6.3" length="59827803" type="application/octet-stream" sparkle:dsaSignature="MC0CFFzeNyrF1WcMvX6VOlNvBorwRdmTAhUAlg8YLm87gXPr7bsoC4IJvJOipWU=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.6.3</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.3.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.3.html</sparkle:releaseNotesLink>
          <pubDate>Wed, 20 Jul 2011 21:43:18 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.6.3.dmg" sparkle:version="2.6.32" sparkle:shortVersionString="X11-2.6.3" length="68398092" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCvAyYihXWfMDRVp6TtxSd3dojaywIUXYZm3SwG9KlxIBxP+Jqln7DXWP0=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.6.3.dmg" sparkle:version="2.6.32" sparkle:shortVersionString="X11-2.6.3" length="68398092" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCvAyYihXWfMDRVp6TtxSd3dojaywIUXYZm3SwG9KlxIBxP+Jqln7DXWP0=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.6.2</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.2.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.2.html</sparkle:releaseNotesLink>
          <pubDate>Sun, 01 May 2011 00:31:30 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.6.2.dmg" sparkle:version="2.6.21" sparkle:shortVersionString="XQuartz-2.6.2" length="59816308" type="application/octet-stream" sparkle:dsaSignature="MC0CFAZ8cp0snn2abKGZygKUMRS97mdeAhUAsU1YlZpi4mP2veVq3b1YPpSfJ7k=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.6.2.dmg" sparkle:version="2.6.21" sparkle:shortVersionString="XQuartz-2.6.2" length="59816308" type="application/octet-stream" sparkle:dsaSignature="MC0CFAZ8cp0snn2abKGZygKUMRS97mdeAhUAsU1YlZpi4mP2veVq3b1YPpSfJ7k=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.6.1</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.1.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.1.html</sparkle:releaseNotesLink>
          <pubDate>Fri, 18 Mar 2011 02:32:48 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.6.1.dmg" sparkle:version="2.6.14" sparkle:shortVersionString="XQuartz-2.6.1" length="70004717" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCzXl8mvTQfXbXMCVSQFhwxaFBiTQIUYrpDJoGN71cfNUy20ZLdlR+e5qA=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.6.1.dmg" sparkle:version="2.6.14" sparkle:shortVersionString="XQuartz-2.6.1" length="70004717" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCzXl8mvTQfXbXMCVSQFhwxaFBiTQIUYrpDJoGN71cfNUy20ZLdlR+e5qA=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.6.1</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.1.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.1.html</sparkle:releaseNotesLink>
          <pubDate>Fri, 18 Mar 2011 02:32:29 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.6.1.dmg" sparkle:version="2.6.13" sparkle:shortVersionString="X11-2.6.1" length="77227036" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCKNaO/AEczTZRn4+JMTWMLyPHRWgIUWsYZKy0AiN6MimDv4fYeqkGMHFQ=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.6.1.dmg" sparkle:version="2.6.13" sparkle:shortVersionString="X11-2.6.1" length="77227036" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCKNaO/AEczTZRn4+JMTWMLyPHRWgIUWsYZKy0AiN6MimDv4fYeqkGMHFQ=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.6.0</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.0.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.0.html</sparkle:releaseNotesLink>
          <pubDate>Mon, 20 Dec 2010 05:08:13 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.6.0.dmg" sparkle:version="2.6.7" sparkle:shortVersionString="XQuartz-2.6.0" length="69471084" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCgtj46xmBajZ419JrBoU9ez6rY9QIUKeT0oxEAtjoO5cWDOBqz9/Ywonw=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.6.0.dmg" sparkle:version="2.6.7" sparkle:shortVersionString="XQuartz-2.6.0" length="69471084" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCgtj46xmBajZ419JrBoU9ez6rY9QIUKeT0oxEAtjoO5cWDOBqz9/Ywonw=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.6.0</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.6.0.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.6.0.html</sparkle:releaseNotesLink>
          <pubDate>Mon, 20 Dec 2010 05:08:12 UTC</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.6.0.dmg" sparkle:version="2.6.6" sparkle:shortVersionString="X11-2.6.0" length="77781672" type="application/octet-stream" sparkle:dsaSignature="MC0CFBtBOC90RSEAaHx1fl3mFIvjvpTTAhUAvaGpHXULNfrn9y2oXh4fhYst3JQ=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.6.0.dmg" sparkle:version="2.6.6" sparkle:shortVersionString="X11-2.6.0" length="77781672" type="application/octet-stream" sparkle:dsaSignature="MC0CFBtBOC90RSEAaHx1fl3mFIvjvpTTAhUAvaGpHXULNfrn9y2oXh4fhYst3JQ=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.5.3</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.3.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.3.html</sparkle:releaseNotesLink>
          <pubDate>Fri, Aug 13 2010 17:40:32 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.5.3.dmg" sparkle:version="2.5.24" sparkle:shortVersionString="XQuartz-2.5.3" length="64024006" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCLpJz4ttbi4Ax8crqOsJ+EHfWMBgIUUgD54RlT2GfvG6XQ8xNst5mV2JA=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.5.3.dmg" sparkle:version="2.5.24" sparkle:shortVersionString="XQuartz-2.5.3" length="64024006" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCLpJz4ttbi4Ax8crqOsJ+EHfWMBgIUUgD54RlT2GfvG6XQ8xNst5mV2JA=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.5.3</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.3.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.3.html</sparkle:releaseNotesLink>
          <pubDate>Fri, Aug 13 2010 17:39:07 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.5.3.dmg" sparkle:version="2.5.23" sparkle:shortVersionString="X11-2.5.3" length="68813247" type="application/octet-stream" sparkle:dsaSignature="MCwCFAEeBxgMxgIz9gSkrrK6YiSBOU/SAhQk0GWAm3tDJgQ+XQ5EKHuUpf2+Yg==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.5.3.dmg" sparkle:version="2.5.23" sparkle:shortVersionString="X11-2.5.3" length="68813247" type="application/octet-stream" sparkle:dsaSignature="MCwCFAEeBxgMxgIz9gSkrrK6YiSBOU/SAhQk0GWAm3tDJgQ+XQ5EKHuUpf2+Yg==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.5.2</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.2.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.2.html</sparkle:releaseNotesLink>
          <pubDate>Tue, Jul 20 2010 10:49:21 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.5.2.dmg" sparkle:version="2.5.22" sparkle:shortVersionString="XQuartz-2.5.2" length="63690242" type="application/octet-stream" sparkle:dsaSignature="MC0CFD6BIswADljhbwNi1Ds/syMqPhJxAhUAq9UY/kLZE8orjWR2qZVrjo5aXo4=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.5.2.dmg" sparkle:version="2.5.22" sparkle:shortVersionString="XQuartz-2.5.2" length="63690242" type="application/octet-stream" sparkle:dsaSignature="MC0CFD6BIswADljhbwNi1Ds/syMqPhJxAhUAq9UY/kLZE8orjWR2qZVrjo5aXo4=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.5.2</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.2.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.2.html</sparkle:releaseNotesLink>
          <pubDate>Tue, Jul 20 2010 10:47:52 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.5.2.dmg" sparkle:version="2.5.21" sparkle:shortVersionString="X11-2.5.2" length="69275908" type="application/octet-stream" sparkle:dsaSignature="MCwCFBeUskCHCNwUZ3oXczSlq0zEY/0uAhQ7j68tsN+jcgD/xbE5gZN/IcPpGw==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.5.2.dmg" sparkle:version="2.5.21" sparkle:shortVersionString="X11-2.5.2" length="69275908" type="application/octet-stream" sparkle:dsaSignature="MCwCFBeUskCHCNwUZ3oXczSlq0zEY/0uAhQ7j68tsN+jcgD/xbE5gZN/IcPpGw==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.5.1</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.1.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.1.html</sparkle:releaseNotesLink>
          <pubDate>Sat, Jul 10 2010 10:54:32 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.5.1.dmg" sparkle:version="2.5.20" sparkle:shortVersionString="XQuartz-2.5.1" length="63231771" type="application/octet-stream" sparkle:dsaSignature="MCwCFCsvV/mG0nWWoD/GruU2ykQMrVeqAhRXCWNFuqenxSwHp6jfeem+VXI6UA==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.5.1.dmg" sparkle:version="2.5.20" sparkle:shortVersionString="XQuartz-2.5.1" length="63231771" type="application/octet-stream" sparkle:dsaSignature="MCwCFCsvV/mG0nWWoD/GruU2ykQMrVeqAhRXCWNFuqenxSwHp6jfeem+VXI6UA==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.5.1</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.1.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.1.html</sparkle:releaseNotesLink>
          <pubDate>Sat, Jul 10 2010 10:54:30 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.5.1.dmg" sparkle:version="2.5.19" sparkle:shortVersionString="X11-2.5.1" length="68661602" type="application/octet-stream" sparkle:dsaSignature="MCwCFCk1hxKPvgg2AwaaTYZcFJ46vgVxAhRXTYNrkDbtsLMF0BMD/zl3B5cS9w==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.5.1.dmg" sparkle:version="2.5.19" sparkle:shortVersionString="X11-2.5.1" length="68661602" type="application/octet-stream" sparkle:dsaSignature="MCwCFCk1hxKPvgg2AwaaTYZcFJ46vgVxAhRXTYNrkDbtsLMF0BMD/zl3B5cS9w==" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.5.0</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.0.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.0.html</sparkle:releaseNotesLink>
          <pubDate>Mon, Mar 29 2010 17:49:53 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/SL/XQuartz-2.5.0.dmg" sparkle:version="2.5.5" sparkle:shortVersionString="XQuartz-2.5.0" length="62561176" type="application/octet-stream" sparkle:dsaSignature="MC0CFC4B8AvjObhO7ezPR7wIezT+qrQFAhUAsFcGaIYBRs9TiYWkFABBg6/1GSY=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/SL/XQuartz-2.5.0.dmg" sparkle:version="2.5.5" sparkle:shortVersionString="XQuartz-2.5.0" length="62561176" type="application/octet-stream" sparkle:dsaSignature="MC0CFC4B8AvjObhO7ezPR7wIezT+qrQFAhUAsFcGaIYBRs9TiYWkFABBg6/1GSY=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.5.0</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.5.0.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.5.0.html</sparkle:releaseNotesLink>
          <pubDate>Mon, Mar 29 2010 16:59:56 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.5.0.dmg" sparkle:version="2.5.4" sparkle:shortVersionString="X11-2.5.0" length="70851244" type="application/octet-stream" sparkle:dsaSignature="MC0CFGJBsll1+WJI8viSx20WZedDAw2uAhUAjUDJdXCdsFWDQIlSy/QWPxbeDqU=" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.5.0.dmg" sparkle:version="2.5.4" sparkle:shortVersionString="X11-2.5.0" length="70851244" type="application/octet-stream" sparkle:dsaSignature="MC0CFGJBsll1+WJI8viSx20WZedDAw2uAhUAjUDJdXCdsFWDQIlSy/QWPxbeDqU=" />
       </item>
 
       <item>
          <sparkle:minimumSystemVersion>10.5.8</sparkle:minimumSystemVersion>
          <title>X11-2.4.0</title>
-         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.4.0.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.4.0.html</sparkle:releaseNotesLink>
          <pubDate>Fri, Aug 14 2009 11:09:19 PDT</pubDate>
-         <enclosure url="http://xquartz-dl.macosforge.org/Leopard/X11-2.4.0.dmg" sparkle:version="2.4.4" sparkle:shortVersionString="X11-2.4.0" length="73250599" type="application/octet-stream" sparkle:dsaSignature="MCwCFGvDrk6eeMfJL6B6SGs21UVPZijfAhRyLlxbsYn7//7kzpKYVtq3z/31xQ==" />
+         <enclosure url="https://xquartz-dl.macosforge.org/Leopard/X11-2.4.0.dmg" sparkle:version="2.4.4" sparkle:shortVersionString="X11-2.4.0" length="73250599" type="application/octet-stream" sparkle:dsaSignature="MCwCFGvDrk6eeMfJL6B6SGs21UVPZijfAhRyLlxbsYn7//7kzpKYVtq3z/31xQ==" />
       </item>
    </channel>
 </rss>
