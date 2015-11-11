@@ -4,7 +4,7 @@ title: XQuartz 2.7.3
 version: 2.7.3
 date: 2012.08.27
 filename: XQuartz-2.7.3.dmg
-download_url: http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.3.dmg
+download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.3.dmg
 required_os_version: 10.6.3
 status: release
 ---

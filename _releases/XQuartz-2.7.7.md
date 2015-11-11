@@ -4,7 +4,7 @@ title: XQuartz 2.7.7
 version: 2.7.7
 date: 2014.08.18
 filename: XQuartz-2.7.7.dmg
-download_url: http://xquartz-dl.macosforge.org/SL/XQuartz-2.7.7.dmg
+download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.7.dmg
 required_os_version: 10.6.3
 emphasis: First release supported on Yosemite
 status: release

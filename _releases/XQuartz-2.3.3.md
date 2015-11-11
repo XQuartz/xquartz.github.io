@@ -4,7 +4,7 @@ title: XQuartz 2.3.3
 version: 2.3.3
 date: 2009.04.23
 filename: XQuartz-2.3.3.dmg
-download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.3.3.dmg
+download_url: https://xquartz-dl.macosforge.org/Leopard/X11-2.3.3.dmg
 required_os_version: 10.5.7
 status: release
 ---
@@ -28,7 +28,7 @@ status: release
     * [xextproto 7.0.5](http://lists.freedesktop.org/archives/xorg-announce/2009-January/000756.html)
     * xf86rushproto 1.1.2
   * lib:
-    * [AppleSGLX 57](http://xquartz.macosforge.org/trac/browser/AppleSGLX/trunk/RELEASE_NOTES?rev=334)
+    * [AppleSGLX 57](https://xquartz.macosforge.org/trac/browser/AppleSGLX/trunk/RELEASE_NOTES?rev=334)
       * Support the same version of OpenGL as OpenGL.framework (2.1)
         * GLSL and other features now supported
         * Many extensions from OpenGL.framework are now available

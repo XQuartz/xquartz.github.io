@@ -4,9 +4,9 @@ title: XQuartz 2.6.1
 version: 2.6.1
 date: 2011.03.17
 filename: XQuartz-2.6.1.dmg
-download_url: http://xquartz-dl.macosforge.org/SL/XQuartz-2.6.1.dmg
+download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.6.1.dmg
 leopard_filename: X11-2.6.1.dmg
-leopard_download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.6.1.dmg
+leopard_download_url: https://xquartz-dl.macosforge.org/Leopard/X11-2.6.1.dmg
 required_os_version: 10.5.8, 10.6.3,
 status: release
 ---

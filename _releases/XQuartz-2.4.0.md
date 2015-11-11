@@ -4,7 +4,7 @@ title: XQuartz 2.4.0
 version: 2.4.0
 date: 2009.08.14
 filename: XQuartz-2.4.0.dmg
-download_url: http://xquartz-dl.macosforge.org/Leopard/X11-2.4.0.dmg
+download_url: https://xquartz-dl.macosforge.org/Leopard/X11-2.4.0.dmg
 required_os_version: 10.5.8
 status: release
 ---
