@@ -4,7 +4,7 @@ title: XQuartz 2.7.6
 version: 2.7.6
 date: 2014.05.17
 filename: XQuartz-2.7.6.dmg
-download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.6.dmg
+download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.7.6.dmg
 required_os_version: 10.6.3
 status: release
 ---

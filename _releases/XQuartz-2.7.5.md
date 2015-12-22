@@ -4,7 +4,7 @@ title: XQuartz 2.7.5
 version: 2.7.5
 date: 2013.11.10
 filename: XQuartz-2.7.5.dmg
-download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.5.dmg
+download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.7.5.dmg
 required_os_version: 10.6.3
 emphasis: First release supported on Mavericks
 status: release

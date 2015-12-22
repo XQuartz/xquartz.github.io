@@ -4,7 +4,7 @@ title: XQuartz 2.3.0
 version: 2.3.0
 date: 2008.07.19
 filename: XQuartz-2.3.0.pkg
-download_url: https://xquartz-dl.macosforge.org/Leopard/X11-2.3.0.pkg
+download_url: https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-2.3.0.pkg
 required_os_version: 10.5.4
 status: release
 ---

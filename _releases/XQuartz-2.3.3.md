@@ -4,7 +4,7 @@ title: XQuartz 2.3.3
 version: 2.3.3
 date: 2009.04.23
 filename: XQuartz-2.3.3.dmg
-download_url: https://xquartz-dl.macosforge.org/Leopard/X11-2.3.3.dmg
+download_url: https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-2.3.3.dmg
 required_os_version: 10.5.7
 status: release
 ---

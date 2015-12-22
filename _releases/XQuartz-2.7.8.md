@@ -4,7 +4,7 @@ title: XQuartz 2.7.8
 version: 2.7.8
 date: 2015.10.17
 filename: XQuartz-2.7.8.dmg
-download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.7.8.dmg
+download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.7.8.dmg
 required_os_version: 10.6.3
 emphasis: First release supported on El Capitan
 status: release

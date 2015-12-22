@@ -4,9 +4,9 @@ title: XQuartz 2.5.2
 version: 2.5.2
 date: 2010.07.20
 filename: XQuartz-2.5.2.dmg
-download_url: https://xquartz-dl.macosforge.org/SL/XQuartz-2.5.2.dmg
+download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.5.2.dmg
 leopard_filename: X11-2.5.2.dmg
-leopard_download_url: https://xquartz-dl.macosforge.org/Leopard/X11-2.5.2.dmg
+leopard_download_url: https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-2.5.2.dmg
 required_os_version: 10.5.8, 10.6.3,
 status: release
 ---
