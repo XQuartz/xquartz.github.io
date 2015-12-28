@@ -7,6 +7,14 @@
       <language>en</language>
 
       <item>
+         <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.7.9_beta2</title>
+         <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.9_beta2.html</sparkle:releaseNotesLink>
+         <pubDate>Mon, 28 Dec 2015 21:31:35 UTC</pubDate>
+         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.9_beta2.dmg" sparkle:version="2.7.91" sparkle:shortVersionString="XQuartz-2.7.9_beta2" length="130944781" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC27YKMjN+JSnCfG9b5D6n0DkNkxAIUdcFeN0vb29CMhdBQyyBXDIqd3LQ=" />
+      </item>
+
+      <item>
          <sparkle:minimumSystemVersion>10.8.5</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.9_beta1</title>
          <sparkle:releaseNotesLink>http://www.xquartz.org/releases/bare/XQuartz-2.7.9_beta1.html</sparkle:releaseNotesLink>
