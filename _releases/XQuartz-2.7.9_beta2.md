@@ -17,7 +17,7 @@ status: prerelease
     * [xinput 1.6.2](http://lists.x.org/archives/xorg-announce/2015-October/002643.html)
     * [xterm 320](http://lists.freedesktop.org/archives/xorg/2015-August/057565.html)
   * lib:
-    * [libXfont2 2.0.0](http://lists.x.org/archives/xorg-announce/2015-December/002661.html)
+    * [libXfont2 2.0.1](http://lists.x.org/archives/xorg-announce/2015-December/002663.html)
     * [libXi 1.7.6](http://lists.x.org/archives/xorg-announce/2015-December/002664.html)
     * libXt
       * No longer linked with -flat_namespace
