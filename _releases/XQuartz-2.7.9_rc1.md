@@ -5,7 +5,7 @@ version: 2.7.9_rc1
 date: 2016.01.06
 filename: XQuartz-2.7.9_rc1.dmg
 download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.9_rc1.dmg
-required_os_version: 10.6.3
+required_os_version: 10.8.5
 status: prerelease
 ---
 
