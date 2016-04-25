@@ -49,6 +49,11 @@ If you've got the chops for coding, fix the bugs that irritate you, add features
 you're missing, or check out bugzilla to see what bugs users have reported.  Our
 [developer information page](Developer-Info.html) will help you get started.
 
+Please also note the following resources from X.org:
+
+  * [Guide to Contributors](http://www.x.org/wiki/guide/contributing)
+  * [Patch Submission Process](http://www.x.org/wiki/Development/Documentation/SubmittingPatches)
+
 ### Financial ###
 
 All of the software we package are developed through the hard work of the open
