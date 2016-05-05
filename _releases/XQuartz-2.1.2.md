@@ -12,13 +12,13 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.1.1](XQuartz-2.1.1.html) plus:
   * app:
-    * [xinit git 2008.01.10](http://gitweb.freedesktop.org/?p=xorg/app/xinit.git;a=summary)
+    * [xinit git 2008.01.10](https://cgit.freedesktop.org/xorg/app/xinit)
       * Updated xinit to support launchd
       * Now using xinit to start the server rather than running X11.app directly
         * X11.app is relocatable now
       * Fixed fast-user-switching X11 regression
       * Properly honor xauth and tcp/ip preferences
-    * [xauth git 2008.01.11](http://gitweb.freedesktop.org/?p=xorg/app/xauth.git;a=summary)
+    * [xauth git 2008.01.11](https://cgit.freedesktop.org/xorg/app/xauth)
       * fixed duplicate entry crash during xauth remove
   * lib:
     * [pixman 0.9.6](https://lists.freedesktop.org/archives/xorg-announce/2007-October/000423.html)

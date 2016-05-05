@@ -25,7 +25,7 @@ status: release
     * Xplugin
       * Added API for detecting if a Carbon EventRef corresponds to a Mac OSX key-equivalent action
     * [xpyb 0.9](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000623.html)
-    * [xtrans 1.2.1-git-2008.08.05](http://gitweb.freedesktop.org/?p=xorg/lib/libxtrans.git;a=shortlog;h=a78b9819cbbbddccb4a6bf364b88ec4f27d25c1f)
+    * [xtrans 1.2.1-git-2008.08.05](https://cgit.freedesktop.org/xorg/lib/libxtrans/commit/?id=a78b9819cbbbddccb4a6bf364b88ec4f27d25c1f)
   * server:
     * Xquartz fixes from [xorg-server-1.4.2-apple17](https://github.com/XQuartz/xorg-server/commits/e90dabb5a758c2cc136374daef68c148be65a3e0)
       * building with [mesa 7.0.4](https://sourceforge.net/mailarchive/message.php?msg_name=48A707B4.3050100%40tungstengraphics.com)
