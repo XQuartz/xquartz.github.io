@@ -20,4 +20,4 @@ back in. This will update your DISPLAY environment variable to point to
 XQuartz.app rather than X11.app. If you would prefer to keep using X11.app as
 your default server (you can still launch XQuartz.app manually), you'll want
 to disable /Library/LaunchAgents/org.macosforge.xquartz.startx.plist using
-[launchctl(1)](http://developer.apple.com/Mac/library/documentation/Darwin/Reference/ManPages/man1/launchctl.1.html).
+[launchctl(1)](https://developer.apple.com/Mac/library/documentation/Darwin/Reference/ManPages/man1/launchctl.1.html).
