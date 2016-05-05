@@ -20,9 +20,9 @@ status: release
     * [glproto 1.4.16](https://lists.freedesktop.org/archives/xorg-announce/2012-July/002003.html)
     * [randrproto 1.4.0](https://lists.freedesktop.org/archives/xorg-announce/2012-July/002002.html)
   * lib:
-    * [libpng 1.2.50](http://sourceforge.net/mailarchive/message.php?msg_id=29524074)
-    * [libpng 1.4.11](http://sourceforge.net/mailarchive/message.php?msg_id=29524074)
-    * [libpng 1.5.10](http://sourceforge.net/mailarchive/message.php?msg_id=29524074)
+    * [libpng 1.2.50](https://sourceforge.net/mailarchive/message.php?msg_id=29524074)
+    * [libpng 1.4.11](https://sourceforge.net/mailarchive/message.php?msg_id=29524074)
+    * [libpng 1.5.10](https://sourceforge.net/mailarchive/message.php?msg_id=29524074)
     * [libX11 1.5.0](https://lists.freedesktop.org/archives/xorg-announce/2012-June/001970.html)
     * [libXaw 1.0.11](https://lists.freedesktop.org/archives/xorg-announce/2012-June/001969.html)
     * [libXft 2.3.1](https://lists.freedesktop.org/archives/xorg-announce/2012-June/001971.html)

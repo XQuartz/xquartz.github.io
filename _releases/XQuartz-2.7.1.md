@@ -23,9 +23,9 @@ status: release
       * Fixed setting of $DISPLAY (Bug #523)
     * [xinput 1.4.5](https://lists.freedesktop.org/archives/xorg-announce/2011-December/001779.html)
   * lib:
-    * [freetype 2.4.8](http://sourceforge.net/projects/freetype/files/freetype2/2.4.8/README/view)
+    * [freetype 2.4.8](https://sourceforge.net/projects/freetype/files/freetype2/2.4.8/README/view)
       * [CVE-2011-3439](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3439)
-    * [libpng-1.5.8](http://sourceforge.net/mailarchive/message.php?msg_id=28773552)
+    * [libpng-1.5.8](https://sourceforge.net/mailarchive/message.php?msg_id=28773552)
     * [libXi 1.5.0](https://lists.freedesktop.org/archives/xorg-announce/2011-December/001776.html)
     * [mesa 7.11.2](http://www.mesa3d.org/relnotes-7.11.2.html)
     * [pixman 0.24.4](https://lists.freedesktop.org/archives/xorg-announce/2012-February/001809.html)

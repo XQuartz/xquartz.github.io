@@ -33,9 +33,9 @@ status: release
     * [xterm 276](https://lists.freedesktop.org/archives/xorg/2011-October/053641.html)
     * [xwininfo 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2011-June/001702.html)
   * lib:
-    * [freetype 2.4.7](http://sourceforge.net/projects/freetype/files/freetype2/2.4.7/README/view)
+    * [freetype 2.4.7](https://sourceforge.net/projects/freetype/files/freetype2/2.4.7/README/view)
       * [CVE-2011-3256](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3256)
-    * [libpng 1.5.5](http://sourceforge.net/mailarchive/message.php?msg_id=28126826)
+    * [libpng 1.5.5](https://sourceforge.net/mailarchive/message.php?msg_id=28126826)
       * [CVE-2011-3328](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3328)
     * [libX11 1.4.4](https://lists.freedesktop.org/archives/xorg-announce/2011-July/001717.html)
     * [libXext 1.3.0](https://lists.freedesktop.org/archives/xorg-announce/2011-May/001665.html)

@@ -29,7 +29,7 @@ status: release
   * lib:
     * [cairo 1.8.6](http://www.cairographics.org/news/cairo-1.8.6)
     * fontconfig 2.6.0
-    * [freetype 2.3.7](http://sourceforge.net/project/shownotes.php?group_id=3157&release_id=610109)
+    * [freetype 2.3.7](https://sourceforge.net/project/shownotes.php?group_id=3157&release_id=610109)
     * [libpng 1.2.33](ftp://ftp.simplesystems.org/pub/libpng/png/src/history/libpng-1.2.33-README.txt)
       * Note that our previous version was 1.2.26 and was NOT affected by [CVE-2008-3964](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-3964).
     * libxcb 1.1

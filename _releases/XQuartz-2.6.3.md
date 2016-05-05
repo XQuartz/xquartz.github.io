@@ -23,9 +23,9 @@ status: release
     * [xauth 1.0.6](https://lists.freedesktop.org/archives/xorg-announce/2011-May/001667.html)
       * Addresses an issue with home directories on AFP mount-points
   * lib:
-    * [libpng-1.2.46](http://sourceforge.net/mailarchive/forum.php?thread_name=CA%2BPdXcubc%2BH59ORvnBZQ6BN7C7MBm-_i-RV64i2Tg5gzNRFoig%40mail.gmail.com&forum_name=png-mng-announce)
-    * [libpng-1.4.8](http://sourceforge.net/mailarchive/forum.php?thread_name=CA%2BPdXcs3H_BaDO88mgX_gjoh9b32eynYYFpLbE853%2BK-8ODknA%40mail.gmail.com&forum_name=png-mng-announce)
-    * [libpng-1.5.4](http://sourceforge.net/mailarchive/forum.php?thread_name=CA%2BPdXcs3H_BaDO88mgX_gjoh9b32eynYYFpLbE853%2BK-8ODknA%40mail.gmail.com&forum_name=png-mng-announce)
+    * [libpng-1.2.46](https://sourceforge.net/mailarchive/forum.php?thread_name=CA%2BPdXcubc%2BH59ORvnBZQ6BN7C7MBm-_i-RV64i2Tg5gzNRFoig%40mail.gmail.com&forum_name=png-mng-announce)
+    * [libpng-1.4.8](https://sourceforge.net/mailarchive/forum.php?thread_name=CA%2BPdXcs3H_BaDO88mgX_gjoh9b32eynYYFpLbE853%2BK-8ODknA%40mail.gmail.com&forum_name=png-mng-announce)
+    * [libpng-1.5.4](https://sourceforge.net/mailarchive/forum.php?thread_name=CA%2BPdXcs3H_BaDO88mgX_gjoh9b32eynYYFpLbE853%2BK-8ODknA%40mail.gmail.com&forum_name=png-mng-announce)
       * [CVE-2011-2690](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2690)
       * [CVE-2011-2691](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2691)
       * [CVE-2011-2692](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2692)

@@ -19,7 +19,7 @@ status: release
     * [inputproto 1.4.4](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000622.html)
     * [xcb-proto 1.2](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000616.html)
   * lib:
-    * [mesa-7.1-rc4](http://sourceforge.net/mailarchive/message.php?msg_name=48A6FE3C.5060409%40tungstengraphics.com)
+    * [mesa-7.1-rc4](https://sourceforge.net/mailarchive/message.php?msg_name=48A6FE3C.5060409%40tungstengraphics.com)
       * For libGLU, libglut, glxgears, glxinfo
     * [pixman 0.11.8](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000615.html)
     * Xplugin
@@ -28,7 +28,7 @@ status: release
     * [xtrans 1.2.1-git-2008.08.05](http://gitweb.freedesktop.org/?p=xorg/lib/libxtrans.git;a=shortlog;h=a78b9819cbbbddccb4a6bf364b88ec4f27d25c1f)
   * server:
     * Xquartz fixes from [xorg-server-1.4.2-apple17](https://github.com/XQuartz/xorg-server/commits/e90dabb5a758c2cc136374daef68c148be65a3e0)
-      * building with [mesa 7.0.4](http://sourceforge.net/mailarchive/message.php?msg_name=48A707B4.3050100%40tungstengraphics.com)
+      * building with [mesa 7.0.4](https://sourceforge.net/mailarchive/message.php?msg_name=48A707B4.3050100%40tungstengraphics.com)
       * X11.app now properly notices button clicks with tablets
       * Partially fixed xinitrc / launchd-first-client race condition
       * Re-added old fallback keyboard map detection fallback with extra debugging

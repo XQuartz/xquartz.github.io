@@ -120,7 +120,7 @@ status: release
   * lib:
     * [cairo 1.10.0](http://cairographics.org/news/cairo-1.10.0)
     * [fontconfig 2.8.0](https://lists.freedesktop.org/archives/fontconfig/2009-November/003273.html)
-    * [freetype 2.4.4](http://sourceforge.net/projects/freetype/files/freetype2/2.4.4/NEWS/view)
+    * [freetype 2.4.4](https://sourceforge.net/projects/freetype/files/freetype2/2.4.4/NEWS/view)
       * Addresses some font rendering regressions introduced by the freetype included in [2.5.2](XQuartz-2.5.2.html)
       * [CVE-2010-3814](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-3814)
       * [CVE-2010-3855](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-3855)
