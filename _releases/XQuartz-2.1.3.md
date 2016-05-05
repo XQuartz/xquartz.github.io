@@ -12,7 +12,7 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.1.2](XQuartz-2.1.2.html) plus:
   * lib:
-    * [libXfont git 2008.01.14](http://cgit.freedesktop.org/xorg/lib/libXfont)
+    * [libXfont git 2008.01.14](https://cgit.freedesktop.org/xorg/lib/libXfont)
       * [CVE-2008-0006](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0006)
   * server:
     * [xorg-server-1.3.0-apple9](https://github.com/XQuartz/xorg-server/commits/22abea41edc434a2da03e1e6ee3dac5fdd986569)

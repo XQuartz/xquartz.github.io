@@ -13,7 +13,7 @@ status: release
   * All changes in [2.7.2](XQuartz-2.7.2.html) plus:
   * app:
     * xinit
-      * [Fixed](http://cgit.freedesktop.org/xorg/app/xinit/commit/?id=bfed997da5f083e3ddfbda440e114d1261d18b14) an issue with the dpi preference (#600)
+      * [Fixed](https://cgit.freedesktop.org/xorg/app/xinit/commit/?id=bfed997da5f083e3ddfbda440e114d1261d18b14) an issue with the dpi preference (#600)
     * [xterm 281](https://lists.freedesktop.org/archives/xorg/2012-June/054755.html)
   * proto:
     * [dri2proto 2.8](https://lists.freedesktop.org/archives/xorg-announce/2012-July/002001.html)

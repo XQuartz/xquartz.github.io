@@ -46,7 +46,7 @@ status: release
     * [xfs 1.0.6](https://lists.freedesktop.org/archives/xorg-announce/2008-March/000459.html)
     * [xgamma 1.0.2](https://lists.freedesktop.org/archives/xorg-announce/2007-August/000335.html)
     * [xhost 1.0.2](https://lists.freedesktop.org/archives/xorg-announce/2007-July/000325.html)
-    * [xinit 1.0.8-git-2008.04.13](http://cgit.freedesktop.org/xorg/app/xinit/log/?h=5ef443bb6bff0a03ee00105d9bf95bc3f6f82b11)
+    * [xinit 1.0.8-git-2008.04.13](https://cgit.freedesktop.org/xorg/app/xinit/log/?h=5ef443bb6bff0a03ee00105d9bf95bc3f6f82b11)
       * Moved font caching logic to startx rather than xinitrc
       * Added support for xinitrc.d directory, so fink, macports, et al won't clobber our xinitrc
       * Moved some stuff out of xinitrc into the xinitrc.d directory

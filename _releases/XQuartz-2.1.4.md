@@ -18,7 +18,7 @@ status: release
       * app was missing
     * [xterm 232](http://invisible-island.net/xterm/xterm.log.html)
       * fixes tek with wide chars
-    * [xinit git 2008.02.09](http://cgit.freedesktop.org/xorg/app/xinit/?h=238b74a47eb66bfa24627b099bf9c6a06e91d35a)
+    * [xinit git 2008.02.09](https://cgit.freedesktop.org/xorg/app/xinit/?h=238b74a47eb66bfa24627b099bf9c6a06e91d35a)
       * fixes fontpath to avoid "big fonts" issue commonly seen in xemacs
       * fix xinitrc to properly process .Xresources if dev tools are not installed
       * update FC cache on X11 start

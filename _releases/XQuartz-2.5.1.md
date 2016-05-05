@@ -15,7 +15,7 @@ status: release
   * All changes in [2.5.0](XQuartz-2.5.0.html) plus:
   * app:
     * luit
-      * includes [changes](http://cgit.freedesktop.org/xorg/app/luit/commit/?id=fddfe30c3ff91c83d0484b136e7673764e555555) from Thomas Dickey's luit-20100601
+      * includes [changes](https://cgit.freedesktop.org/xorg/app/luit/commit/?id=fddfe30c3ff91c83d0484b136e7673764e555555) from Thomas Dickey's luit-20100601
     * quartz-wm 1.1.1
       * Fixed an issue with focus loss (#370)
       * Fixed an issue dragging windows to other spaces (#375)
@@ -27,7 +27,7 @@ status: release
     * [xlsclients 1.1.0](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001319.html)
     * [xlsfonts 1.0.3](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001330.html)
     * xscope
-      * Fixed a wedge by [forcing TCP connections](http://cgit.freedesktop.org/xorg/app/xscope/commit/?id=344db0911e1e2447abe210b5684269a2a0daf04c)
+      * Fixed a wedge by [forcing TCP connections](https://cgit.freedesktop.org/xorg/app/xscope/commit/?id=344db0911e1e2447abe210b5684269a2a0daf04c)
     * [xterm 261](https://lists.freedesktop.org/archives/xorg/2010-June/050607.html)
   * lib:
     * [cairo 1.8.10](http://www.cairographics.org/news/cairo-1.8.10)

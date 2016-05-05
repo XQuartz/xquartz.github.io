@@ -14,7 +14,7 @@ status: release
   * All packages updated to versions intended to ship as part of [X11R7.4](http://www.x.org/wiki/Releases/7.4) (as of 2008.04.21):
   * app:
     * setxkbmap 1.0.4
-    * [xinit 1.0.8-git-2008.04.26](http://cgit.freedesktop.org/xorg/app/xinit/log/?h=280774466dc9f57b4b46c618345f7938290dbb2c)
+    * [xinit 1.0.8-git-2008.04.26](https://cgit.freedesktop.org/xorg/app/xinit/log/?h=280774466dc9f57b4b46c618345f7938290dbb2c)
       * Use CFProcessPath instead of argv![0] trick
     * xkbcomp 1.0.4
     * xkbdata 1.0.1

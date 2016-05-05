@@ -84,7 +84,7 @@ status: release
     * [libXaw3d 1.6.2](https://lists.freedesktop.org/archives/xorg/2012-March/054376.html)
     * [libXcursor 1.1.13](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001852.html)
     * [libxcb 1.8.1](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001876.html)
-      * Plus a fix for [xcb_connect incorrectly trying tcp on failure](http://cgit.freedesktop.org/xcb/libxcb/commit/?id=5f8f2ba1c4f9ac74c8f301dcca8566e296e37995)
+      * Plus a fix for [xcb_connect incorrectly trying tcp on failure](https://cgit.freedesktop.org/xcb/libxcb/commit/?id=5f8f2ba1c4f9ac74c8f301dcca8566e296e37995)
     * [libXdmcp 1.1.1](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001853.html)
     * [libXext 1.3.1](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001854.html)
     * [libXfont 1.4.5](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001840.html)
@@ -105,7 +105,7 @@ status: release
     * [libXxf86dga 1.1.3](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001865.html)
     * [libXxf86vm 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001866.html)
     * [mesa 8.0.3](http://mesa3d.org/relnotes-8.0.3.html)
-      * Including fixes for [two](http://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=bb30e76328e9dd80b0c7a7688828e3cf8e662b1b) [crashes](http://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=6095a17534c2694760300701fee59a320950f271), [a memory leak](http://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=69d8a25d429bccf960e98e5c126e1ef2ae4ffe9d), and [regres](http://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=7e624edba4c9f0fb2bcc322ef0b1b6401aa0a075)[sions](http://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=9724c8d13c09773dcf9674f15accd8f2f4d148ff) (#512, #575)
+      * Including fixes for [two](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=bb30e76328e9dd80b0c7a7688828e3cf8e662b1b) [crashes](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=6095a17534c2694760300701fee59a320950f271), [a memory leak](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=69d8a25d429bccf960e98e5c126e1ef2ae4ffe9d), and [regres](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=7e624edba4c9f0fb2bcc322ef0b1b6401aa0a075)[sions](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=9724c8d13c09773dcf9674f15accd8f2f4d148ff) (#512, #575)
     * [xpyb 1.3.1](https://lists.freedesktop.org/archives/xcb/2012-March/007701.html)
     * [xtrans 1.2.7](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001892.html)
   * misc:
