@@ -32,9 +32,9 @@ status: release
   * lib:
     * [cairo 1.8.10](http://www.cairographics.org/news/cairo-1.8.10)
     * [libpng 1.2.44](ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng-1.2.44-README.txt)
-      * [CVE-2010-1205](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1205)
+      * [CVE-2010-1205](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1205)
     * [libpng 1.4.3](ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng-1.4.3-README.txt)
-      * [CVE-2010-1205](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1205)
+      * [CVE-2010-1205](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1205)
     * [libX11 1.3.4](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001318.html)
       * Now built --with-xcb
     * [libXcomposite 0.4.2](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001324.html)

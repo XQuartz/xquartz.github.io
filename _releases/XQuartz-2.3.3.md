@@ -42,7 +42,7 @@ status: release
     * [libAppleWM 1.2.0](https://lists.freedesktop.org/archives/xorg-announce/2009-March/000798.html)
     * [libICE 1.0.5](https://lists.freedesktop.org/archives/xorg/2009-January/042171.html)
     * [libpng 1.2.35](ftp://ftp.simplesystems.org/pub/libpng/png/src/history/libpng-1.2.35-README.txt)
-      * [ CVE-2009-0040 ](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-0040)
+      * [ CVE-2009-0040 ](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-0040)
     * [libxcb 1.2](https://lists.freedesktop.org/archives/xorg-announce/2009-February/000765.html)
     * [libX11 1.2.1](https://lists.freedesktop.org/archives/xorg-announce/2009-April/000814.html)
     * libXau

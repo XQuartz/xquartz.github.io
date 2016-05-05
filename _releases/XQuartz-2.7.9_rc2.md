@@ -25,9 +25,9 @@ status: prerelease
     * [libpng 1.4.19](http://downloads.sourceforge.net/libpng/libpng14/1.4.19/libpng-1.4.19-README.txt)
     * [libpng 1.5.26](http://downloads.sourceforge.net/libpng/libpng15/1.5.26/libpng-1.5.26-README.txt)
     * [libpng 1.6.20](http://downloads.sourceforge.net/libpng/libpng16/1.6.20/libpng-1.6.20-README.txt)
-      * [CVE-2015-7981](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7981)
-      * [CVE-2015-8126](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8126)
-      * [CVE-2015-8540](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8540)
+      * [CVE-2015-7981](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7981)
+      * [CVE-2015-8126](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8126)
+      * [CVE-2015-8540](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8540)
     * libXaw
       * Remove incorrect export of vendorShellClassRec and vendorShellWidgetClass
     * libXaw3D

@@ -34,13 +34,13 @@ status: release
     * [xwininfo 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2011-June/001702.html)
   * lib:
     * [freetype 2.4.7](http://sourceforge.net/projects/freetype/files/freetype2/2.4.7/README/view)
-      * [CVE-2011-3256](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3256)
+      * [CVE-2011-3256](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3256)
     * [libpng 1.5.5](http://sourceforge.net/mailarchive/message.php?msg_id=28126826)
-      * [CVE-2011-3328](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3328)
+      * [CVE-2011-3328](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3328)
     * [libX11 1.4.4](https://lists.freedesktop.org/archives/xorg-announce/2011-July/001717.html)
     * [libXext 1.3.0](https://lists.freedesktop.org/archives/xorg-announce/2011-May/001665.html)
     * [libXfont 1.4.4](https://lists.freedesktop.org/archives/xorg-announce/2011-August/001722.html)
-      * [CVE-2011-2895](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2895)
+      * [CVE-2011-2895](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2895)
     * [libXrandr 1.3.2](https://lists.freedesktop.org/archives/xorg-announce/2011-June/001704.html)
     * [libXcursor 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2011-June/001703.html)
     * [libXi 1.4.3](https://lists.freedesktop.org/archives/xorg-announce/2011-June/001678.html)
@@ -65,6 +65,6 @@ status: release
     * [xorg-server 1.11.2](https://lists.freedesktop.org/archives/xorg-announce/2011-November/001751.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.0)
       * Initial support for GCD in the server to increase performance on multi-core systems
       * Improved logging
-      * [CVE-2011-4028](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4028)
-      * [CVE-2011-4029](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4029)
+      * [CVE-2011-4028](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4028)
+      * [CVE-2011-4029](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4029)
       * Fixed server side bug sending the AppleDRICreatePixmap request (#508)

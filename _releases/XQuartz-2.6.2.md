@@ -17,7 +17,7 @@ status: release
       * Window decoration / behavior code extensively rewritten
       * Fixed the handler for SIGTERM and SIGINT to not call non-reentrant functions
     * [xrdb 1.0.9](https://lists.freedesktop.org/archives/xorg-announce/2011-April/001635.html)
-      * [CVE-2011-0465](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0465)
+      * [CVE-2011-0465](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0465)
   * lib:
     * [libAppleWM 1.4.1](https://lists.freedesktop.org/archives/xorg-announce/2011-April/001640.html)
     * [libX11 1.4.3](https://lists.freedesktop.org/archives/xorg-announce/2011-April/001637.html)

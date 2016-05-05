@@ -22,11 +22,11 @@ status: release
       * [xset 1.2.0](https://lists.x.org/archives/xorg-announce/2010-August/001366.html)
   * lib:
       * [freetype 2.4.2](http://freetype.sourceforge.net/index2.html#release-freetype-2.4.2)
-        * [CVE-2010-1797](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1797)
-        * [CVE-2010-2805](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2805)
-        * [CVE-2010-2806](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2806)
-        * [CVE-2010-2807](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2807)
-        * [CVE-2010-2808](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2808)
+        * [CVE-2010-1797](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1797)
+        * [CVE-2010-2805](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2805)
+        * [CVE-2010-2806](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2806)
+        * [CVE-2010-2807](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2807)
+        * [CVE-2010-2808](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2808)
       * [libX11 1.3.5](https://lists.x.org/archives/xorg-announce/2010-August/001382.html)
       * [libXi 1.3.2](https://lists.x.org/archives/xorg-announce/2010-August/001364.html)
   * proto:

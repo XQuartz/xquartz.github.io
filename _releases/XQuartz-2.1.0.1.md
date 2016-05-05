@@ -24,8 +24,8 @@ status: release
       * Updated xauth to work with launchd sockets
     * [xfs 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2007-October/000415.html)
       * include fonts from {,/System}/Library/Fonts
-      * Fixes [CVE-2007-4568](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4568)
-      * Fixes [CVE-2007-4990](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4990)
+      * Fixes [CVE-2007-4568](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4568)
+      * Fixes [CVE-2007-4990](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4990)
     * xterm
       * Unicode support
   * lib:
@@ -40,7 +40,7 @@ status: release
   * server:
     * [xorg-server-1.3.0-apple2](https://github.com/XQuartz/xorg-server/commits/b6a98afe614b512029d9f8b01ef82e4899817cb2)
       * xserver codebase updated from 1.2.0 to 1.3 branch
-        * Fixes [CVE-2007-1003](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-1003)
+        * Fixes [CVE-2007-1003](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-1003)
       * Fixed support for multiple displays (Xinerama)
       * Fixed yellow cursor issue on Intel machines
       * Fixed broken 3-button mouse emulation (i.e. option-click to paste)

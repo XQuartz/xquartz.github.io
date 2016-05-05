@@ -15,12 +15,12 @@ status: release
   * All changes in [2.5.1](XQuartz-2.5.1.html) plus:
   * lib:
       * [freetype 2.4.1](http://freetype.sourceforge.net/index2.html#release-freetype-2.4.1)
-        * [CVE-2010-2497](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2497)
-        * [CVE-2010-2498](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2498)
-        * [CVE-2010-2499](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2499)
-        * [CVE-2010-2500](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2500)
-        * [CVE-2010-2519](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2519)
-        * [CVE-2010-2520](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2520)
+        * [CVE-2010-2497](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2497)
+        * [CVE-2010-2498](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2498)
+        * [CVE-2010-2499](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2499)
+        * [CVE-2010-2500](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2500)
+        * [CVE-2010-2519](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2519)
+        * [CVE-2010-2520](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2520)
       * [libXau 1.0.6](https://lists.x.org/archives/xorg-announce/2010-July/001355.html)
       * [mesa 7.8.2](http://www.mesa3d.org/relnotes-7.8.2.html)
   * server:

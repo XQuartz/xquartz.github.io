@@ -25,13 +25,13 @@ status: release
     * [xedit 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2008-November/000685.html)
     * xinit 1.1.1
     * [xterm 238](https://lists.freedesktop.org/archives/xorg/2008-December/041969.html)
-      * Addresses [CVE-2008-2383](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-2383)
+      * Addresses [CVE-2008-2383](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-2383)
   * lib:
     * [cairo 1.8.6](http://www.cairographics.org/news/cairo-1.8.6)
     * fontconfig 2.6.0
     * [freetype 2.3.7](http://sourceforge.net/project/shownotes.php?group_id=3157&release_id=610109)
     * [libpng 1.2.33](ftp://ftp.simplesystems.org/pub/libpng/png/src/history/libpng-1.2.33-README.txt)
-      * Note that our previous version was 1.2.26 and was NOT affected by [CVE-2008-3964](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-3964).
+      * Note that our previous version was 1.2.26 and was NOT affected by [CVE-2008-3964](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-3964).
     * libxcb 1.1
       * Fixed potential problems with xcb using the launchd socket
     * [libXau 1.0.4](https://lists.freedesktop.org/archives/xorg-announce/2008-August/000634.html)
