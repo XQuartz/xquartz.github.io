@@ -42,4 +42,4 @@ status: prerelease
     * [pixman 0.33.6](http://lists.x.org/archives/xorg-announce/2015-December/002666.html)
     * [xcb-util-keysyms 0.4.0](http://lists.freedesktop.org/archives/xcb/2014-October/009921.html)
   * server:
-    * [xorg-server 1.17.4](http://lists.x.org/archives/xorg-announce/2015-October/002650.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.9_rc1)
+    * [xorg-server 1.17.4](http://lists.x.org/archives/xorg-announce/2015-October/002650.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.9_rc2)
