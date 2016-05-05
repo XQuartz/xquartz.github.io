@@ -12,7 +12,7 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.3.1](XQuartz-2.3.1.html) plus:
   * app:
-    * [mkfontscale 1.0.6](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000719.html)
+    * [mkfontscale 1.0.6](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000719.html)
     * quartz-wm
       * Cleaned up parenting of dialog and utility windows
       * Respond to new AppleWMReloadPreferences notification rather than just SIGHUP
@@ -22,9 +22,9 @@ status: release
       * Cleaned up some memory leaks
       * Support added for window gravity in WM size hints 
       * Support added for WM fullscreen hints
-    * [xedit 1.1.2](http://lists.freedesktop.org/archives/xorg-announce/2008-November/000685.html)
+    * [xedit 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2008-November/000685.html)
     * xinit 1.1.1
-    * [xterm 238](http://lists.freedesktop.org/archives/xorg/2008-December/041969.html)
+    * [xterm 238](https://lists.freedesktop.org/archives/xorg/2008-December/041969.html)
       * Addresses [CVE-2008-2383](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-2383)
   * lib:
     * [cairo 1.8.6](http://www.cairographics.org/news/cairo-1.8.6)
@@ -34,28 +34,28 @@ status: release
       * Note that our previous version was 1.2.26 and was NOT affected by [CVE-2008-3964](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-3964).
     * libxcb 1.1
       * Fixed potential problems with xcb using the launchd socket
-    * [libXau 1.0.4](http://lists.freedesktop.org/archives/xorg-announce/2008-August/000634.html)
-    * [libXaw 1.0.5](http://lists.freedesktop.org/archives/xorg-announce/2008-November/000684.html)
+    * [libXau 1.0.4](https://lists.freedesktop.org/archives/xorg-announce/2008-August/000634.html)
+    * [libXaw 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2008-November/000684.html)
       * libXaw.8.dylib is still provided from libXaw-1.0.4 for compatability
-    * [libXfont 1.3.4](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000720.html)
-    * [libXi 1.2.0](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000702.html)
-    * [libX11 1.1.5](http://lists.freedesktop.org/archives/xorg-announce/2008-September/000646.html)
+    * [libXfont 1.3.4](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000720.html)
+    * [libXi 1.2.0](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000702.html)
+    * [libX11 1.1.5](https://lists.freedesktop.org/archives/xorg-announce/2008-September/000646.html)
     * [mesa-7.2](http://www.mesa3d.org/relnotes-7.2.html)
       * For libGLU, libglut, glxgears, glxinfo
-    * [pixman 0.12.0](http://lists.freedesktop.org/archives/xorg-announce/2008-September/000655.html)
+    * [pixman 0.12.0](https://lists.freedesktop.org/archives/xorg-announce/2008-September/000655.html)
     * Xplugin
       * Cleaned up parenting of dialog and utility windows
-    * [xcb-util 0.3.2](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000715.html)
-    * [xtrans 1.2.2](http://lists.freedesktop.org/archives/xorg-announce/2008-October/000661.html)
+    * [xcb-util 0.3.2](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000715.html)
+    * [xtrans 1.2.2](https://lists.freedesktop.org/archives/xorg-announce/2008-October/000661.html)
   * misc:
-    * [util-macros 1.2.1](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000716.html)
+    * [util-macros 1.2.1](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000716.html)
   * proto:
-    * [applewmproto 1.1.1](http://lists.freedesktop.org/archives/xorg-announce/2008-September/000658.html)
+    * [applewmproto 1.1.1](https://lists.freedesktop.org/archives/xorg-announce/2008-September/000658.html)
       * AppleWMReloadPreferences notification
-    * [inputproto 1.5.0](http://lists.freedesktop.org/archives/xorg-announce/2008-November/000697.html)
-    * [xcb-proto 1.3.0](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000708.html)
-    * [xextproto 7.0.4](http://lists.freedesktop.org/archives/xorg-announce/2008-December/000718.html)
-    * [xproto 7.0.14](http://lists.freedesktop.org/archives/xorg-announce/2008-October/000673.html)
+    * [inputproto 1.5.0](https://lists.freedesktop.org/archives/xorg-announce/2008-November/000697.html)
+    * [xcb-proto 1.3.0](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000708.html)
+    * [xextproto 7.0.4](https://lists.freedesktop.org/archives/xorg-announce/2008-December/000718.html)
+    * [xproto 7.0.14](https://lists.freedesktop.org/archives/xorg-announce/2008-October/000673.html)
   * server:
     * Xquartz fixes from [xorg-server-1.4.2-apple31](https://github.com/XQuartz/xorg-server/commits/9f1c26ae8d9ccf81cba0ab946326968a701f8c36)
       * Send out AppleWMReloadPreferences notification to tell quartz-wm and xpbproxy to reload preferences

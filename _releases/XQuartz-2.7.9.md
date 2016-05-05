@@ -12,11 +12,11 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.7.8](XQuartz-2.7.8.html) plus:
   * app:
-    * [glxgears 8.3.0](http://lists.freedesktop.org/archives/mesa-announce/2015-December/000191.html)
-    * [glxinfo 8.3.0](http://lists.freedesktop.org/archives/mesa-announce/2015-December/000191.html)
+    * [glxgears 8.3.0](https://lists.freedesktop.org/archives/mesa-announce/2015-December/000191.html)
+    * [glxinfo 8.3.0](https://lists.freedesktop.org/archives/mesa-announce/2015-December/000191.html)
     * [quartz-wm 1.3.2](https://github.com/XQuartz/quartz-wm/releases/tag/quartz-wm-1.3.2)
-    * [xkbcomp 1.3.1](http://lists.x.org/archives/xorg-announce/2015-November/002653.html)
-    * [xinput 1.6.2](http://lists.x.org/archives/xorg-announce/2015-October/002643.html)
+    * [xkbcomp 1.3.1](https://lists.x.org/archives/xorg-announce/2015-November/002653.html)
+    * [xinput 1.6.2](https://lists.x.org/archives/xorg-announce/2015-October/002643.html)
     * [xrandr 1.5.0](https://lists.freedesktop.org/archives/xorg-announce/2016-February/002677.html)
     * [xterm 324](https://lists.freedesktop.org/archives/xorg/2016-March/057959.html)
   * lib:
@@ -33,17 +33,17 @@ status: release
       * Remove incorrect export of vendorShellClassRec and vendorShellWidgetClass
     * libXaw3D
       * Remove incorrect export of vendorShellClassRec and vendorShellWidgetClass
-    * [libXfont2 2.0.1](http://lists.x.org/archives/xorg-announce/2015-December/002663.html)
-    * [libXi 1.7.6](http://lists.x.org/archives/xorg-announce/2015-December/002664.html)
+    * [libXfont2 2.0.1](https://lists.x.org/archives/xorg-announce/2015-December/002663.html)
+    * [libXi 1.7.6](https://lists.x.org/archives/xorg-announce/2015-December/002664.html)
     * libXplugin
       * Worked around an El Capitan regression that would cause OpenGL widgets to sometimes remain visible ([#93318](https://bugs.freedesktop.org/show_bug.cgi?id=93318))
     * libXt
       * No longer linked with -flat_namespace
       * Binary compatibility maintained for existing clients of libXt.6.dylib
     * [pixman 0.34.0](https://lists.freedesktop.org/archives/xorg-announce/2016-January/002672.html)
-    * [xcb-util-keysyms 0.4.0](http://lists.freedesktop.org/archives/xcb/2014-October/009921.html)
+    * [xcb-util-keysyms 0.4.0](https://lists.freedesktop.org/archives/xcb/2014-October/009921.html)
   * proto:
     * [inputproto 2.3.2](https://lists.freedesktop.org/archives/xorg-announce/2016-April/002682.html)
     * [videoproto 2.3.3](https://lists.freedesktop.org/archives/xorg-announce/2016-March/002680.html)
   * server:
-    * [xorg-server 1.17.4](http://lists.x.org/archives/xorg-announce/2015-October/002650.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.9)
+    * [xorg-server 1.17.4](https://lists.x.org/archives/xorg-announce/2015-October/002650.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.9)

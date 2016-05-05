@@ -22,21 +22,21 @@ status: release
       * Added LaunchAgent (org.x.fontconfig) to run fc-cache on startup
     * xauth
       * Updated xauth to work with launchd sockets
-    * [xfs 1.0.5](http://lists.freedesktop.org/archives/xorg-announce/2007-October/000415.html)
+    * [xfs 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2007-October/000415.html)
       * include fonts from {,/System}/Library/Fonts
       * Fixes [CVE-2007-4568](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4568)
       * Fixes [CVE-2007-4990](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4990)
     * xterm
       * Unicode support
   * lib:
-    * [libX11 1.1.3](http://lists.freedesktop.org/archives/xorg-announce/2007-August/000332.html)
+    * [libX11 1.1.3](https://lists.freedesktop.org/archives/xorg-announce/2007-August/000332.html)
       * Fixes gtk and related crashes
     * libXtrans
       * Updated /usr/X11/include/X11/Xtranssock.c
         * Fix for incorrect processing of recycled launchd socket
   * proto:
-    * [damageproto 1.1.0](http://lists.freedesktop.org/archives/xorg-announce/2007-January/000238.html)
-    * [randrproto 1.2.1](http://lists.freedesktop.org/archives/xorg-announce/2007-February/000255.html)
+    * [damageproto 1.1.0](https://lists.freedesktop.org/archives/xorg-announce/2007-January/000238.html)
+    * [randrproto 1.2.1](https://lists.freedesktop.org/archives/xorg-announce/2007-February/000255.html)
   * server:
     * [xorg-server-1.3.0-apple2](https://github.com/XQuartz/xorg-server/commits/b6a98afe614b512029d9f8b01ef82e4899817cb2)
       * xserver codebase updated from 1.2.0 to 1.3 branch

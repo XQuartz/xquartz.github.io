@@ -14,5 +14,5 @@ status: release
   * lib:
     * [freetype 2.3.6](http://sourceforge.net/project/shownotes.php?group_id=3157&release_id=605780)
       * Note from freetype developers: "A bunch of potential security problems have been found [fixed](and) in this release"
-    * [pixman 0.11.4](http://lists.freedesktop.org/archives/xorg-announce/2008-June/000572.html)
+    * [pixman 0.11.4](https://lists.freedesktop.org/archives/xorg-announce/2008-June/000572.html)
 

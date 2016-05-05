@@ -12,9 +12,9 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.1.3](XQuartz-2.1.3.html) plus:
   * app:
-    * [fontconfig 2.5.0](http://lists.freedesktop.org/archives/xorg-announce/2007-March/000278.html)
+    * [fontconfig 2.5.0](https://lists.freedesktop.org/archives/xorg-announce/2007-March/000278.html)
       * fixes a bunch of compatability issues (including Trolltech QT4)
-    * [xinput 1.3.0](http://lists.freedesktop.org/archives/xorg-announce/2008-January/000438.html)
+    * [xinput 1.3.0](https://lists.freedesktop.org/archives/xorg-announce/2008-January/000438.html)
       * app was missing
     * [xterm 232](http://invisible-island.net/xterm/xterm.log.html)
       * fixes tek with wide chars

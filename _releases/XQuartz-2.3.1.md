@@ -12,19 +12,19 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.3.0](XQuartz-2.3.0.html) plus:
   * app:
-    * [xedit 1.1.1](http://lists.freedesktop.org/archives/xorg-announce/2008-July/000625.html)
+    * [xedit 1.1.1](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000625.html)
     * quartz-wm
       * Added --no-pasteboard command line option
   * proto:
-    * [inputproto 1.4.4](http://lists.freedesktop.org/archives/xorg-announce/2008-July/000622.html)
-    * [xcb-proto 1.2](http://lists.freedesktop.org/archives/xorg-announce/2008-July/000616.html)
+    * [inputproto 1.4.4](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000622.html)
+    * [xcb-proto 1.2](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000616.html)
   * lib:
     * [mesa-7.1-rc4](http://sourceforge.net/mailarchive/message.php?msg_name=48A6FE3C.5060409%40tungstengraphics.com)
       * For libGLU, libglut, glxgears, glxinfo
-    * [pixman 0.11.8](http://lists.freedesktop.org/archives/xorg-announce/2008-July/000615.html)
+    * [pixman 0.11.8](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000615.html)
     * Xplugin
       * Added API for detecting if a Carbon EventRef corresponds to a Mac OSX key-equivalent action
-    * [xpyb 0.9](http://lists.freedesktop.org/archives/xorg-announce/2008-July/000623.html)
+    * [xpyb 0.9](https://lists.freedesktop.org/archives/xorg-announce/2008-July/000623.html)
     * [xtrans 1.2.1-git-2008.08.05](http://gitweb.freedesktop.org/?p=xorg/lib/libxtrans.git;a=shortlog;h=a78b9819cbbbddccb4a6bf364b88ec4f27d25c1f)
   * server:
     * Xquartz fixes from [xorg-server-1.4.2-apple17](https://github.com/XQuartz/xorg-server/commits/e90dabb5a758c2cc136374daef68c148be65a3e0)

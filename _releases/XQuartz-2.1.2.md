@@ -21,12 +21,12 @@ status: release
     * [xauth git 2008.01.11](http://gitweb.freedesktop.org/?p=xorg/app/xauth.git;a=summary)
       * fixed duplicate entry crash during xauth remove
   * lib:
-    * [pixman 0.9.6](http://lists.freedesktop.org/archives/xorg-announce/2007-October/000423.html)
+    * [pixman 0.9.6](https://lists.freedesktop.org/archives/xorg-announce/2007-October/000423.html)
   * proto:
-    * [compositeproto 0.4](http://lists.freedesktop.org/archives/xorg-announce/2007-July/000319.html)
-    * [glproto 1.4.9](http://lists.freedesktop.org/archives/xorg-announce/2007-October/000424.html)
-    * [inputproto-1.4.2.1](http://lists.freedesktop.org/archives/xorg-announce/2007-August/000371.html)
-    * [renderproto-0.9.3](http://lists.freedesktop.org/archives/xorg-announce/2007-August/000372.html)
+    * [compositeproto 0.4](https://lists.freedesktop.org/archives/xorg-announce/2007-July/000319.html)
+    * [glproto 1.4.9](https://lists.freedesktop.org/archives/xorg-announce/2007-October/000424.html)
+    * [inputproto-1.4.2.1](https://lists.freedesktop.org/archives/xorg-announce/2007-August/000371.html)
+    * [renderproto-0.9.3](https://lists.freedesktop.org/archives/xorg-announce/2007-August/000372.html)
   * server:
     * [xorg-server-1.3.0-apple7](https://github.com/XQuartz/xorg-server/commits/be7598b6202f1e09877509f09af41b0f89a95e57)
       * XQuartz comes to the foreground later in the startup process to not cause 'XQuartz -version' to flash a dock icon

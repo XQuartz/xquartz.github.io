@@ -21,14 +21,14 @@ status: release
     * xkbevd 1.0.2
     * xkbprint 1.0.1
     * xkbutils 1.0.1
-    * [xterm 235](http://lists.freedesktop.org/archives/xorg/2008-April/034822.html)
+    * [xterm 235](https://lists.freedesktop.org/archives/xorg/2008-April/034822.html)
   * lib:
-    * [cairo 1.6.4](http://lists.freedesktop.org/archives/cairo-announce/2008-April/000092.html)
+    * [cairo 1.6.4](https://lists.freedesktop.org/archives/cairo-announce/2008-April/000092.html)
     * [mesa 7.0.3](http://www.mesa3d.org/relnotes-7.0.3.html)
       * for libGLU, libglut, libOSMesa, Xfake, and Xephyr
-    * [libxkbfile 1.0.5](http://lists.freedesktop.org/archives/xorg-announce/2008-March/000482.html)
-    * [libXv 1.0.4](http://lists.freedesktop.org/archives/xorg-announce/2008-March/000483.html)
-    * [pixman 0.10.0](http://lists.freedesktop.org/archives/xorg-announce/2008-March/000529.html)
+    * [libxkbfile 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2008-March/000482.html)
+    * [libXv 1.0.4](https://lists.freedesktop.org/archives/xorg-announce/2008-March/000483.html)
+    * [pixman 0.10.0](https://lists.freedesktop.org/archives/xorg-announce/2008-March/000529.html)
   * proto:
     * dri2proto 1.1
     * xf86driproto 2.0.4

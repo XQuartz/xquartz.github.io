@@ -12,9 +12,9 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.3.3](XQuartz-2.3.3.html) plus:
   * apps:
-    * [xinput 1.4.2](http://lists.freedesktop.org/archives/xorg-announce/2009-May/000840.html)
+    * [xinput 1.4.2](https://lists.freedesktop.org/archives/xorg-announce/2009-May/000840.html)
   * libs:
     * libXplugin
       * Fixed a possible crash when closing windows
   * proto:
-    * [dri2proto 2.0](http://lists.freedesktop.org/archives/xorg-announce/2009-April/000827.html)
+    * [dri2proto 2.0](https://lists.freedesktop.org/archives/xorg-announce/2009-April/000827.html)
