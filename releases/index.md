@@ -8,10 +8,10 @@ stylesheet: releases.css
 {% assign releases = site.releases | where:"status","release" | sort:"date" | reverse %}
 {% assign prereleases = site.releases | where:"status","prerelease" | sort:"date" | reverse %}
 {% if releases[0].date < prereleases[0].date %}
-  * [XQuartz {{ prereleases[0].version }}](XQuartz-{{ prereleases[0].version }}.html) - {{ prereleases[0].date }} - **Pre-Release{% if prereleases[0].emphasis %}, {{ prereleases[0].emphasis }}{% endif %}**
+  * [XQuartz {{ prereleases[0].version }}](XQuartz-{{ prereleases[0].version }}.html) - {{ prereleases[0].date | date: "%Y-%m-%d" }} - **Pre-Release{% if prereleases[0].emphasis %}, {{ prereleases[0].emphasis }}{% endif %}**
 {% endif %}
 {% for release in releases limit:5 %}
-  * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date }}{% if release.emphasis %} - **{{ release.emphasis }}**{% endif %}
+  * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date | date: "%Y-%m-%d" }}{% if release.emphasis %} - **{{ release.emphasis }}**{% endif %}
 {% endfor %}
   * [(See More)](archive.html)
 

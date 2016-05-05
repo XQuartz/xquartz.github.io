@@ -9,9 +9,9 @@ stylesheet: releases.css
 
 {% for release in releases %}
   {% if release.status == "prerelease" %}
-  * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date }} - **Pre-Release{% if release.emphasis %}, {{ release.emphasis }}{% endif %}**
+  * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date | date: "%Y-%m-%d" }} - **Pre-Release{% if release.emphasis %}, {{ release.emphasis }}{% endif %}**
   {% else %}
-  * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date }}{% if release.emphasis %} - **{{ release.emphasis }}**{% endif %}
+  * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date | date: "%Y-%m-%d" }}{% if release.emphasis %} - **{{ release.emphasis }}**{% endif %}
   {% endif %}
 {% endfor %}
 

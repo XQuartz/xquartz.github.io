@@ -1,4 +1,4 @@
-Released: {{ release.date }}
+Released: {{ release.date | date: "%Y-%m-%d" }}
 
 ### Installation ###
 
