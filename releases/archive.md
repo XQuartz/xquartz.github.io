@@ -32,7 +32,7 @@ The 2008-002 Security Update version of X11 is the same as 10.5.2 with some secu
   * X11 starts fullscreen for some users
     * Hit cmd-opt-a to leave fullscreen and edit your preferences
   * Clipboard doesn't work after editing preferences
-    * Install the [localization updates](http://static.macosforge.org/xquartz/downloads/X11-Locales-2.3.3.2.dmg) that contain the clipboard preferences
+    * Install the [localization updates](https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-Locales-2.3.3.2.dmg) that contain the clipboard preferences
   * Keyboard mapping is sometimes incorrect
     * This only occurs if you installed xquartz 2.2.x and have not installed newer releases.  Install the latest release from this site.
 
