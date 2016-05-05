@@ -128,7 +128,7 @@ status: release
     * [xproto 7.0.23](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001884.html)
   * pkg:
     * The installer and executables are now signed with an Apple DeveloperID for increased security.
-      * You should be able to install it with [Gatekeeper](http://www.apple.com/macosx/mountain-lion/features.html#gatekeeper) set to "Mac App Store and identified developers"
+      * You should be able to install it with [Gatekeeper](https://en.wikipedia.org/wiki/Gatekeeper_(OS_X)) set to "Mac App Store and identified developers"
   * server:
     * [xf86-input-void 1.4.0](https://lists.x.org/archives/xorg-announce/2011-May/001658.html)
     * [xf86-video-dummy 0.3.5](https://lists.x.org/archives/xorg-announce/2011-December/001785.html)
