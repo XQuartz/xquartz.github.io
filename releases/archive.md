@@ -8,7 +8,8 @@ stylesheet: releases.css
 {% assign releases = site.releases sort:"date" | reverse %}
 
 {% for release in releases %}
-  {% if release.status == "prerelease" %}
+  {% if release.status == "unreleased" %}
+  {% elsif release.status == "prerelease" %}
   * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date | date: "%Y-%m-%d" }} - **Pre-Release{% if release.emphasis %}, {{ release.emphasis }}{% endif %}**
   {% else %}
   * [XQuartz {{ release.version }}](XQuartz-{{ release.version }}.html) - {{ release.date | date: "%Y-%m-%d" }}{% if release.emphasis %} - **{{ release.emphasis }}**{% endif %}
