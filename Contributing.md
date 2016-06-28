@@ -41,7 +41,7 @@ building each upstream project their tarball releases.  We can certainly do
 better.  If you are passionate about build engineering, continuous integration,
 and infrastructure, there is a lot of room for improvement in this area.  Join
 our [mailing lists](Mailing-Lists.html), read our [developer information](Developer-Info.html),
-and let's buidl a new build system for XQuartz.
+and let's build a new build system for XQuartz.
 
 ### Fixing Bugs ###
 
