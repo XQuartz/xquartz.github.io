@@ -7,7 +7,7 @@
       <language>en</language>
 
       <item>
-         <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
+         <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.10_rc1</title>
          <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.7.10_rc1.html</sparkle:releaseNotesLink>
          <pubDate>Thu, 08 Sep 2016 23:15:53 UTC</pubDate>
