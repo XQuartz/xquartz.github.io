@@ -35,7 +35,7 @@ status: prerelease
       * Fix a buffer overrun ([#83224](https://bugs.freedesktop.org/show_bug.cgi?id=83224))
     * libXt
       * Both libXt.6.dylib and libXt.7.dylib are two-level-namespaced now
-      * A flat_namespace version of libXt is available in /opt/X11/lib/flat_namespace to help ease the transition
+      * A flat_namespace version of libXt is available in /opt/X11/lib/flat_namespace to help ease the transition ([#96292](https://bugs.freedesktop.org/show_bug.cgi?id=96292))
          * Set DYLD_LIBRARY_PATH=/opt/X11/lib/flat_namespace when executing older non-compliant software (eg: Motif-based applications)
          * Motif users are encouraged to file bugs against Motif to encourage them to fix that library
     * [mesa 11.2.2](http://mesa3d.org/relnotes/11.2.2.html)
