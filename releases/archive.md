@@ -5,7 +5,7 @@ stylesheet: releases.css
 ---
 
 #### Installer Packages ####
-{% assign releases = site.releases sort:"date" | reverse %}
+{% assign releases = site.releases | sort:"date" | reverse %}
 
 {% for release in releases %}
   {% if release.status == "unreleased" %}
