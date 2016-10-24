@@ -8,6 +8,14 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.7.11_rc1</title>
+         <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.7.11_rc1.html</sparkle:releaseNotesLink>
+         <pubDate>Mon, 24 Oct 2016 21:24:43 UTC</pubDate>
+         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11_rc1.dmg" sparkle:version="2.7.110" sparkle:shortVersionString="XQuartz-2.7.11_rc1" length="79596345" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCzrYgJwcz2TM2bydOIO8mQtP7woAIUK+1iUPFh/Pkr+rqADnFUV9w/7zI=" />
+      </item>
+
+      <item>
+         <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.10</title>
          <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.7.10.html</sparkle:releaseNotesLink>
          <pubDate>Sat, 22 Oct 2016 08:11:05 UTC</pubDate>
