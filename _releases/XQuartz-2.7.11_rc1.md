@@ -12,7 +12,5 @@ status: prerelease
 ### Changes in {{ page.version }} ###
   * All changes in [2.7.10](XQuartz-2.7.10.html) plus:
   * lib:
-    * fontconfig
-      * Fix font caching ([#97546](https://bugs.freedesktop.org/show_bug.cgi?id=97546))
     * [libpng 1.6.26](https://downloads.sourceforge.net/libpng/libpng16/1.6.26/libpng-1.6.26-README.txt)
     * [mesa 12.0.1](http://mesa3d.org/relnotes/12.0.1.html)
