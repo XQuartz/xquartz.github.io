@@ -23,7 +23,7 @@ Go to <https://developer.apple.com/xcode/download> and follow Apple's instructio
 
 #### Dependencies ####
 
-The latest releases of xserver require updates to other X11 packages to compile.  Running ./configure should cause an error if you are missing any of these dependencies.  These requirements are included in the latest binary package from our [releases page](Releases.html).  It is recommended that you install the latest binary package before rebuilding any of its components.
+The latest releases of xserver require updates to other X11 packages to compile.  Running ./configure should cause an error if you are missing any of these dependencies.  These requirements are included in the latest binary package from our [releases page](/releases).  It is recommended that you install the latest binary package before rebuilding any of its components.
 
 #### pkg-config ####
 
@@ -62,7 +62,7 @@ You may encounter some problems if you have Fink, MacPorts, Gentoo, NetBSD Pkgsr
 
 #### xorg-server ####
 
-Before attempting to compile the server, you should first install the latest Xquartz [release](Releases.html) to ensure you have the latest headers and libraries.
+Before attempting to compile the server, you should first install the latest Xquartz [release](/releases) to ensure you have the latest headers and libraries.
 
 To recompile xserver (which provides Xquartz, X11.app), you can use a tarball or use git for the latest sources:
 
