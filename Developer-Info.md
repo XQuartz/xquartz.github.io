@@ -89,7 +89,7 @@ To build and install Xvfb, Xnest, Xephyr, and Xfake instead of Xquartz/X11.app, 
 
 #### Other X.org Packages ####
 
-Most upstream packages (other than xserver) can be rebuilt and reinstalled if necessary (new versions, etc) by a means common to moth UNIX developers:
+Most upstream packages (other than xserver) can be rebuilt and reinstalled if necessary (new versions, etc) by a means common to most UNIX developers:
 
     tar xjf <package>-<version>.tar.bz2
     cd <package>-<version>
