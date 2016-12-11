@@ -69,7 +69,7 @@ To recompile xserver (which provides Xquartz, X11.app), you can use a tarball or
     tar jxvf xorg-server-<version>.tar.bz2
     cd xorg-server-<version>
     # or
-    git git@github.com:XQuartz/xorg-server.git
+    git clone git@github.com:XQuartz/xorg-server.git
     cd xserver
     
     export ACLOCAL="aclocal -I /opt/X11/share/aclocal -I /usr/local/share/aclocal"
