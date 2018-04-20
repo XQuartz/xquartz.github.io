@@ -26,7 +26,8 @@ If in doubt, just choose this component for filing new bugs.
 
 ### Legacy Systems ###
 
-This bug tracking system is deprecated in favor of the freedesktop.org bugzilla.
-However, not all tickets have been migrated, and it is useful for historical context.
+The XQuartz trac instance on MacOSForge has been taken offline.  Many of the
+tickets on it have been migrated to freedesktop.org bugzilla.  However, we have
+archived the tickets for reference purposes:
 
-  * [XQuartz trac on MacOSForge](http://xquartz.macosforge.org/trac/query)
+  * [XQuartz Trac Tickets](https://github.com/XQuartz/xquartz-old-tickets)
