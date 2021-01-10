@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>XQuartz Changelog</title>
+      <link>https://www.xquartz.org/releases/sparkle/alpha.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+
+      <item>
+         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.8.0_alpha1</title>
+         <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.8.0_alpha1.html</sparkle:releaseNotesLink>
+         <pubDate>Sun, 10 Jan 2021 21:40:05 UTC</pubDate>
+         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha1.dmg" sparkle:version="2.8.0" sparkle:shortVersionString="XQuartz-2.8.0_alpha1" length="77685160" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCOQM495oQosw/9x/Zi2DWQgYpTdAIUZyBKsoI04JRUnpRrIgwwAS6AjWI=" />
+      </item>
+
+   </channel>
+</rss>
