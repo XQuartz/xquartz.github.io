@@ -4,13 +4,13 @@ Released: {{ release.date | date: "%Y-%m-%d" }}
 
 Download {% if release.leopard_filename %}[{{ release.leopard_filename}}]({{ release.leopard_download_url }}) (Leopard) or {% endif %}
 [{{ release.filename }}]({{ release.download_url }}){% if release.leopard_filename %}(Snow Leopard){% endif %},
-and open it in OSX's Installer.
+and open it in macOS's Installer.
 
 ### Important Notices ###
 
-#### OS X Requirements ####
+#### OS Requirements ####
 
-OS X {{ release.required_os_version }} or later is required to install
+macOS {{ release.required_os_version }} or later is required to install
 this package.
 
 #### Default X11 Server ####

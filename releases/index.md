@@ -27,7 +27,7 @@ command:
 
 Another way to get a current X11 installation on your system is through
 MacPorts.  This is currently tested and supported on Tiger and newer versions
-of OS X. Visit [MacPorts](http://www.macports.org) to install it on your
+of macOS. Visit [MacPorts](http://www.macports.org) to install it on your
 system.  Once installed, run this command from Terminal.app to install the
 latest X11 server on your system:
 
