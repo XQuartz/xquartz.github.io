@@ -14,5 +14,13 @@
          <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha1.dmg" sparkle:version="2.8.0" sparkle:shortVersionString="XQuartz-2.8.0_alpha1" length="77685160" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCOQM495oQosw/9x/Zi2DWQgYpTdAIUZyBKsoI04JRUnpRrIgwwAS6AjWI=" />
       </item>
 
+      <item>
+         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.8.0_alpha2</title>
+         <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.8.0_alpha2.html</sparkle:releaseNotesLink>
+         <pubDate>Mon, 11 Jan 2021 20:34:21 UTC</pubDate>
+         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha2.dmg" sparkle:version="2.8.1" sparkle:shortVersionString="XQuartz-2.8.0_alpha2" length="77683114" type="application/octet-stream" sparkle:dsaSignature="MC0CFGpLtpwVVemgz3fO3eSTG3CnTmh6AhUAs0fbDt0fLbJOLx7w0AM0iiGXCmU=" />
+      </item>
+
    </channel>
 </rss>
