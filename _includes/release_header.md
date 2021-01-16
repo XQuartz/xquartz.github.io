@@ -16,8 +16,4 @@ this package.
 #### Default X11 Server ####
 
 If this is your first time installing XQuartz, you may wish to logout and log
-back in. This will update your DISPLAY environment variable to point to
-XQuartz.app rather than X11.app. If you would prefer to keep using X11.app as
-your default server (you can still launch XQuartz.app manually), you'll want
-to disable /Library/LaunchAgents/org.macosforge.xquartz.startx.plist using
-[launchctl(1)](https://developer.apple.com/Mac/library/documentation/Darwin/Reference/ManPages/man1/launchctl.1.html).
+back in to update your DISPLAY environment variable.
