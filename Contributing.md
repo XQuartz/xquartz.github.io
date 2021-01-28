@@ -16,7 +16,7 @@ to others or get advice.
 
 ### Bug Screening and Triage ###
 
-XQuartz gets a low volume of bug reports, but they do pile up.  It is helpful to
+XQuartz gets a low volume of bug reports, but they can pile up.  It is helpful to
 have extra eyes on incoming bug reports and do initial screening to help determine
 when regressions were introduced, duplicate bugs when appropriate, or raise the
 alarm when a serious issue is discovered.
@@ -34,19 +34,18 @@ so it's easy to fork the site and send pull requests.
 Take a look at the [GitHub's Jekyll Documentation](https://help.github.com/articles/using-jekyll-with-pages)
 for setting up jekyll for local testing, and then send us your pull requests.
 
-### Build System ###
+### Release Management ###
 
-The current build system is a hack of perl scripts and Makefiles, patching and
-building each upstream project their tarball releases.  We can certainly do
-better.  If you are passionate about build engineering, continuous integration,
-and infrastructure, there is a lot of room for improvement in this area.  Join
-our [mailing lists](Mailing-Lists.html), read our [developer information](Developer-Info.html),
-and let's build a new build system for XQuartz.
+As of XQuartz-2.8.0, we now have a pretty simple build system based on a shell script with some
+external dependencies.  All projects that contribute to XQuartz are referenced through git submoodules.
+
+If you'd like to help out with driving updates to XQuartz, join our [mailing lists](Mailing-Lists.html)
+and let us know.
 
 ### Fixing Bugs ###
 
 If you've got the chops for coding, fix the bugs that irritate you, add features
-you're missing, or check out bugzilla to see what bugs users have reported.  Our
+you're missing, or check out what bugs have been filed by others.  Our
 [developer information page](Developer-Info.html) will help you get started.
 
 Please also note the following resources from X.org:
