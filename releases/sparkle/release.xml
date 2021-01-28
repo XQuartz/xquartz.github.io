@@ -9,7 +9,7 @@
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.11</title>
-         <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.7.11.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.11.html</sparkle:releaseNotesLink>
          <pubDate>Sat, 29 Oct 2016 08:09:59 UTC</pubDate>
          <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg" sparkle:version="2.7.112" sparkle:shortVersionString="XQuartz-2.7.11" length="79573325" type="application/octet-stream" sparkle:dsaSignature="MCwCFEPYLLaQTN7g+n7MBP5LM6dvpYw4AhR4qGshlzdUHRMin5eZWHoHrmdtPg==" />
       </item>
@@ -17,7 +17,7 @@
       <item>
          <sparkle:minimumSystemVersion>10.6.3</sparkle:minimumSystemVersion>
          <title>XQuartz-2.7.10</title>
-         <sparkle:releaseNotesLink>http://xquartz.org/releases/bare/XQuartz-2.7.10.html</sparkle:releaseNotesLink>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.7.10.html</sparkle:releaseNotesLink>
          <pubDate>Sat, 22 Oct 2016 08:11:05 UTC</pubDate>
          <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.10.dmg" sparkle:version="2.7.108" sparkle:shortVersionString="XQuartz-2.7.10" length="78987319" type="application/octet-stream" sparkle:dsaSignature="MCwCFELuM+HKtR1v/BsHrVer12aH1OHDAhRyeUNNe3fEnI5vFv0KW3nAEjh3Fg==" />
       </item>
