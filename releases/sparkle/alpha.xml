@@ -7,7 +7,7 @@
       <language>en</language>
 
       <item>
-         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+         <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
          <title>XQuartz-2.8.0_beta3</title>
          <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_beta3.html</sparkle:releaseNotesLink>
          <pubDate>Tue, 02 Feb 2021 06:45:16 UTC</pubDate>
