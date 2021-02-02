@@ -8,50 +8,10 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_alpha1</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_alpha1.html</sparkle:releaseNotesLink>
-         <pubDate>Sun, 10 Jan 2021 21:40:05 UTC</pubDate>
-         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha1.dmg" sparkle:version="2.8.0" sparkle:shortVersionString="XQuartz-2.8.0_alpha1" length="77685160" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCOQM495oQosw/9x/Zi2DWQgYpTdAIUZyBKsoI04JRUnpRrIgwwAS6AjWI=" />
-      </item>
-
-      <item>
-         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_alpha2</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_alpha2.html</sparkle:releaseNotesLink>
-         <pubDate>Mon, 11 Jan 2021 20:34:21 UTC</pubDate>
-         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha2.dmg" sparkle:version="2.8.1" sparkle:shortVersionString="XQuartz-2.8.0_alpha2" length="77683114" type="application/octet-stream" sparkle:dsaSignature="MC0CFGpLtpwVVemgz3fO3eSTG3CnTmh6AhUAs0fbDt0fLbJOLx7w0AM0iiGXCmU=" />
-      </item>
-
-      <item>
-         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_alpha3</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_alpha3.html</sparkle:releaseNotesLink>
-         <pubDate>Wed, 13 Jan 2021 04:31:52 UTC</pubDate>
-         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha3.dmg" sparkle:version="2.8.2" sparkle:shortVersionString="XQuartz-2.8.0_alpha3" length="78745137" type="application/octet-stream" sparkle:dsaSignature="MC0CFB5wM44zya/2u0ycWobiL0XVUiIbAhUAvOmWOybC1HH3mKt0S1ek2ZI0C/s=" />
-      </item>
-
-      <item>
-         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_alpha4</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_alpha4.html</sparkle:releaseNotesLink>
-         <pubDate>Sun, 17 Jan 2021 08:09:53 UTC</pubDate>
-         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha4.dmg" sparkle:version="2.8.3" sparkle:shortVersionString="XQuartz-2.8.0_alpha4" length="75701894" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCFTuA9Mv7X9usFkFMh58LlaN/PmAIUI0aE7Y460UV53UXdLDXd7K3gw8k=" />
-      </item>
-
-      <item>
-         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_alpha5</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_alpha5.html</sparkle:releaseNotesLink>
-         <pubDate>Wed, 27 Jan 2021 06:47:47 UTC</pubDate>
-         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha5.dmg" sparkle:version="2.8.4" sparkle:shortVersionString="XQuartz-2.8.0_alpha5" length="78720448" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCuydzenwfx89LD40TqcJKZ1JaqFQIUbB0wvXDUx20TkyCyDyxvfHWa9WY=" />
-      </item>
-
-      <item>
-         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_beta1</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_beta1.html</sparkle:releaseNotesLink>
-         <pubDate>Sat, 30 Jan 2021 04:38:12 UTC</pubDate>
-         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_beta1.dmg" sparkle:version="2.8.5" sparkle:shortVersionString="XQuartz-2.8.0_beta1" length="77675122" type="application/octet-stream" sparkle:dsaSignature="MCwCFA3jEyZ4Ew1t00NQWPQOle+GsNHiAhQ3L5eiY4n5McU00+mNV2Hyx9VyXw==" />
+         <title>XQuartz-2.8.0_beta2</title>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_beta2.html</sparkle:releaseNotesLink>
+         <pubDate>Tue, 02 Feb 2021 02:03:45 UTC</pubDate>
+         <enclosure url="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_beta2.dmg" sparkle:version="2.8.6" sparkle:shortVersionString="XQuartz-2.8.0_beta2" length="80327325" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCPWA5rB1/Qj0oz+2D8cwoCI47vfQIVAIuPT0dyKkl43u7TsPipe5311+Sl" />
       </item>
 
    </channel>
