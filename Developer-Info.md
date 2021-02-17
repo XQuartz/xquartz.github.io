@@ -79,7 +79,7 @@ To recompile xserver (which provides Xquartz, X11.app), you can use a tarball or
     export LDFLAGS=$CFLAGS
     
     autoreconf -fvi
-    ./configure --prefix=/opt/X11 --disable-dependency-tracking --enable-maintainer-mode --with-apple-application-name=XQuartz --with-bundle-id-prefix=org.macosforge.xquartz
+    ./configure --prefix=/opt/X11 --disable-dependency-tracking --enable-maintainer-mode --with-apple-application-name=XQuartz --with-bundle-id-prefix=org.xquartz
     make
     sudo make install
 
@@ -109,7 +109,7 @@ Most upstream packages (other than xserver) can be rebuilt and reinstalled if ne
 Recent changes have added support for installing outside the /usr/X11 location for the system X11.  X11-2.4.1 for SnowLeopard installs to /opt/X11.  To duplicate this environment, you will need to use the following configure options:
 
     All Packages: --prefix=/opt/X11
-    xorg-server and xinit: --with-bundle-id-prefix=org.macosforge.xquartz
+    xorg-server and xinit: --with-bundle-id-prefix=org.xquartz
     xorg-server: --with-apple-application-name=XQuartz
 
 

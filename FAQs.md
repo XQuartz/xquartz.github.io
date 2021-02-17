@@ -6,22 +6,25 @@ layout: default
 ## Don't like launchd automatically setting up DISPLAY for you? ##
 Run the following to prevent launchd from setting $DISPLAY and creating its socket.
 
-    (XQuartz.app) launchctl unload -w /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
+    (XQuartz.app 2.8.x and later) launchctl unload -w /Library/LaunchAgents/org.xquartz.startx.plist
+    (XQuartz.app 2.7.x and earlier) launchctl unload -w /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
     (Apple's X11.app) launchctl unload -w /System/Library/LaunchAgents/org.x.startx.plist
     (MacPorts' X11.app) launchctl unload -w /Library/LaunchAgents/org.macports.startx.plist
 
 ## ssh X forwarding debugging ##
 
-The XQuartz installer should automatically setup xauth for by editing ssh_config and sshd_config during its post-install script.  If you are sshing to another system, be sure that remote server allows ssh forwarding.  You may need to have an administrator edit that system's sshd_config file.
+The XQuartz installer should automatically setup xauth for by editing ssh_config and sshd_config during 
+its post-install script.  If you are sshing to another system, be sure that remote server allows ssh 
+forwarding.  You may need to have an administrator edit that system's sshd_config file.
 
 Try these SSH troubleshooting steps. This list shows the expected behavior of the system.
 
-local $ — refers to commands run on your local Mac running Leopard
+local $ — refers to commands run on your local Mac
 
 remote $ — refers to commands run on a remote Unix machine, of any type
 
     [1] local $ echo $DISPLAY
-    /tmp/launch-Bh0fLm/:0
+    /private/tmp/com.apple.launchd.UFeDJu0S1Q/org.xquartz:0
     [2] local $ grep DISPLAY ~/.*rc ~/.login ~/.*profile ~/.MacOSX/environment.plist 2>/dev/null
     [3] local $ grep -r DISPLAY /opt/local/etc /sw/etc /etc 2>/dev/null
     [4] local $ ssh -Y remote
@@ -34,35 +37,66 @@ remote $ — refers to commands run on a remote Unix machine, of any type
 
 Notes:
 
-If step 1 returns :0, localhost:0 or anything similar, you have a configuration file that is overriding launchd's $DISPLAY.
+If step 1 returns :0, localhost:0 or anything similar, you have a configuration file that is overriding 
+launchd's $DISPLAY.
 
-If step 2 outputs anything, it indicates that a configuration file in your home directory may be the culprit; try creating a new user and repeating the steps with that user.
+If step 2 outputs anything, it indicates that a configuration file in your home directory may be the 
+culprit; try creating a new user and repeating the steps with that user.
 
-If step 3 outputs anything, it indicates that a system-wide change was made that is overriding your environment. If it begins with /opt/local, it is MacPorts; if it begins with /sw, it is Fink. Otherwise, it is probably a commercial program that uses X11; contact your vendor for an updated version.
+If step 3 outputs anything, it indicates that a system-wide change was made that is overriding your 
+environment. If it begins with /opt/local, it is MacPorts; if it begins with /sw, it is Fink. Otherwise, 
+it is probably a commercial program that uses X11; contact your vendor for an updated version.
 
 The warning message in step 4 is harmless.
 
-If step 5 does not output anything, then step 6's results probably include X11Forwarding no. In this case, you must fix the configuration on the remote side.
+If step 5 does not output anything, then step 6's results probably include X11Forwarding no. In this 
+case, you must fix the configuration on the remote side.
 
-If step 5 outputs anything other than localhost:xx.0, then your remote configuration is overriding the DISPLAY environment variable set by sshd on the remote side.
+If step 5 outputs anything other than localhost:xx.0, then your remote configuration is overriding the 
+DISPLAY environment variable set by sshd on the remote side.
 
 ## Suppressing xterm launching by default ##
 
 You can change the initial application launched by XQuartz.app to something else by doing the following:
 
-    (XQuartz.app) defaults write org.macosforge.xquartz.X11 app_to_run <whatever you want to run>
+    (XQuartz.app) defaults write org.xquartz.X11 app_to_run <whatever you want to run>
     (Apple's X11.app) defaults write org.x.X11 app_to_run <whatever you want to run>
     (MacPorts' X11.app) defaults write org.macports.X11 app_to_run <whatever you want to run>
 
 So if you want nothing to run, you can accomplish this by:
 
-    defaults write org.macosforge.xquartz.X11 app_to_run /usr/bin/true
+    defaults write org.xquartz.X11 app_to_run /usr/bin/true
 
 If you launch XQuartz.app from the dock or run "open -a XQuartz" it will run app_to_run.
 
-Note: For versions prior to the X11-2.1.1 package, use the following instead:
+Note: For versions prior to 2.8.0, use the org.macosforge.xquartz.X11 preference domain instead.  For versions propr to 2.1.1, use the org.x.X11_launcher domain.
 
-    defaults write org.x.X11_launcher app_to_run /usr/X11/bin/xdpyinfo
+## Uninstall (XQuartz 2.8 and later) ##
+
+To uninstall XQuartz 2.8 and later, execute the following in Terminal:
+
+    launchctl unload /Library/LaunchAgents/org.xquartz.startx.plist
+    sudo launchctl unload /Library/LaunchDaemons/org.xquartz.privileged_startx.plist
+    sudo rm -rf /opt/X11* /Library/Launch*/org.xquartz.* /Applications/Utilities/XQuartz.app /etc/*paths.d/*XQuartz
+    sudo pkgutil --forget org.xquartz.pkg
+
+## Uninstall (XQuartz 2.7.x and earlier) ##
+
+To uninstall XQuartz 2.8 and later, execute the following in Terminal:
+
+    launchctl unload /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
+    sudo launchctl unload /Library/LaunchDaemons/org.macosforge.xquartz.privileged_startx.plist
+    sudo rm -rf /opt/X11* /Library/Launch*/org.macosforge.xquartz.* /Applications/Utilities/XQuartz.app /etc/*paths.d/*XQuartz
+    sudo pkgutil --forget org.macosforge.xquartz.pkg
+
+## Switching DISPLAY on Snow Leopard ##
+
+XQuartz does not replace the system X11 on Snow Leopard, so you can go back to the Apple-provided X11.app 
+rather easily.  Just launch X11.app rather than XQuartz.app to get the older server.  If you want to make 
+Apple's X11.app the default server (owning the launchd $DISPLAY socket), then you should disable the 
+org.macosforge.xquartz.startx.plist as described in the
+[first question](#dont-like-launchd-automatically-setting-up-display-for-you).  After logging out and back in,
+Apple's X11.app will be default.
 
 ## Messed it up, got confused, want to start over? (Leopard) ##
 
@@ -81,16 +115,7 @@ Note: For versions prior to the X11-2.1.1 package, use the following instead:
   * Install X11SDK.pkg from Leopard's installation DVD, which is in `/Volumes/Mac OS X Install DVD/Optional Installs/Xcode Tools/Packages/`
   * Install the [OS X 10.5.8 Combo Update](http://www.apple.com/downloads/macosx/apple/macosx_updates/macosx1058comboupdate.html) (make sure you get the "Combo Update" and not the "Update")
 * **If you want the latest release**
-  * Install the [latest X11 package release](http://xquartz.github.io).
-
-## Uninstall (Snow Leopard or Later) ##
-
-XQuartz does not replace the system X11 on Snow Leopard, so you can go back to the Apple-provided X11.app rather easily.  Just launch X11.app rather than XQuartz.app to get the older server.  If you want to make Apple's X11.app the default server (owning the launchd $DISPLAY socket), then you should disable the org.macosforge.xquartz.startx.plist as described in the [first question](#dont-like-launchd-automatically-setting-up-display-for-you).  After logging out and back in, Apple's X11.app will be default.  If you still want to remove XQuartz.app from your system, you can do that with these two steps:
-
-    launchctl unload /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
-    sudo launchctl unload /Library/LaunchDaemons/org.macosforge.xquartz.privileged_startx.plist
-    sudo rm -rf /opt/X11* /Library/Launch*/org.macosforge.xquartz.* /Applications/Utilities/XQuartz.app /etc/*paths.d/*XQuartz
-    sudo pkgutil --forget org.macosforge.xquartz.pkg
+  * Install the [latest X11 package release](http://www.xquartz.org).
 
 ## How can my launched applications inherit my tcsh environment? (Old) ##
 

@@ -21,7 +21,7 @@ If you would like to receive automatic updates for beta versions in addition to
 release versions, please update to our beta SU feed by running the following
 command:
 
-    $ defaults write org.macosforge.xquartz.X11 SUFeedURL https://www.xquartz.org/releases/sparkle/beta.xml
+    $ defaults write org.xquartz.X11 SUFeedURL https://www.xquartz.org/releases/sparkle/beta.xml
 
 #### MacPorts ####
 
