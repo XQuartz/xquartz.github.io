@@ -2,7 +2,7 @@
 title: XQuartz 2.8.0_beta4
 
 version: 2.8.0_beta4
-date: 2021.02.
+date: 2021.02.17
 filename: XQuartz-2.8.0_beta4.dmg
 download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_beta4.dmg
 required_os_version: 10.9
