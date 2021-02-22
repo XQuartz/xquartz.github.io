@@ -18,7 +18,12 @@ The XQuartz project is an open-source effort to develop a version of the <a href
 </thead>
 <tbody>
 
-<tr id="snow"><td><a href="https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg"><span class="download-icon"></span>XQuartz-2.7.11.dmg</a></td>
+<tr id="mav"><td><a href="https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_rc1.dmg"><span class="download-icon"></span>XQuartz-2.8.0_rc1.dmg</a></td>
+<td>2.8.0_rc1</td>
+<td>2021-02-22</td>
+<td>For macOS 10.9 or later</td></tr>
+
+<tr id="snow" class="collapsed"><td><a href="https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg"><span class="download-icon"></span>XQuartz-2.7.11.dmg</a></td>
 <td>2.7.11</td>
 <td>2016-10-29</td>
 <td>For OS X 10.6.3 or later</td></tr>
@@ -39,22 +44,32 @@ OS X Software Updates have included some of the work done by the XQuartz project
 </span>
 
 <script type="text/javascript">
-/* If we can detect OS X 10.5 in the user agent string,
- * set #snow to collapse and #leopard to visible
+/* If we can detect OS X 10.5-10.8 in the user agent string,
+ * set #mav to collapse and #leopard or #snow to visible
  */
   try {
     if (/Mac[ ]+OS[ ]+X[ ]+10[._]5[^0-9]/i.test(window.navigator.userAgent)) {
-      var snow, leopard, leopard2;
-      snow = document.getElementById('snow');
+      var mav, leopard, leopard2;
+      mav = document.getElementById('mav');
       leopard = document.getElementById('leopard');
       leopard2 = document.getElementById('leopard2');
-      if (snow) {
+      if (mav) {
         if (leopard) {
           leopard.className = '';
           if (leopard2) {
             leopard2.className = '';
           }
-          snow.className = 'collapsed';
+          mav.className = 'collapsed';
+        }
+      }
+    } else if (/Mac[ ]+OS[ ]+X[ ]+10[._][6-8][^0-9]/i.test(window.navigator.userAgent)) {
+      var mav, snow;
+      mav = document.getElementById('mav');
+      snow = document.getElementById('snow');
+      if (mav) {
+        if (snow) {
+          snow.className = '';
+          mav.className = 'collapsed';
         }
       }
     }
