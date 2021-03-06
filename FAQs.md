@@ -82,7 +82,7 @@ To uninstall XQuartz 2.8 and later, execute the following in Terminal:
 
 ## Uninstall (XQuartz 2.7.x and earlier) ##
 
-To uninstall XQuartz 2.8 and later, execute the following in Terminal:
+To uninstall XQuartz 2.7.x and earlier, execute the following in Terminal:
 
     launchctl unload /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
     sudo launchctl unload /Library/LaunchDaemons/org.macosforge.xquartz.privileged_startx.plist
