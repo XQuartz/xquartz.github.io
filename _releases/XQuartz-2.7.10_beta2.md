@@ -4,7 +4,7 @@ title: XQuartz 2.7.10_beta2
 version: 2.7.10_beta2
 date: 2016.05.31
 filename: XQuartz-2.7.10_beta2.dmg
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.10_beta2.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.10_beta2/XQuartz-2.7.10_beta2.dmg
 required_os_version: 10.8.5
 status: prerelease
 ---

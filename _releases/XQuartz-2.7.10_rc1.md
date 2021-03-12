@@ -4,7 +4,7 @@ title: XQuartz 2.7.10_rc1
 version: 2.7.10_rc1
 date: 2016.09.08
 filename: XQuartz-2.7.10_rc1.dmg
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.10_rc1.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.10_rc1/XQuartz-2.7.10_rc1.dmg
 required_os_version: 10.12.0
 status: prerelease
 ---

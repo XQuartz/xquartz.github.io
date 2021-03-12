@@ -4,7 +4,7 @@ title: XQuartz 2.8.0_rc2
 version: 2.8.0_rc2
 date: 2021.02.27
 filename: XQuartz-2.8.0_rc2.dmg
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_rc2.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0_rc2/XQuartz-2.8.0_rc2.dmg
 required_os_version: 10.9
 status: prerelease
 ---

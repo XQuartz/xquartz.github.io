@@ -4,7 +4,7 @@ title: XQuartz 2.7.11
 version: 2.7.11
 date: 2016.10.29
 filename: XQuartz-2.7.11.dmg
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.11/XQuartz-2.7.11.dmg
 required_os_version: 10.6.3
 status: release
 emphasis: Last release to support Snow Leopard, Lion, and Mountain Lion

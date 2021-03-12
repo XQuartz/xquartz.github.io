@@ -4,7 +4,7 @@ title: XQuartz 2.6.2
 version: 2.6.2
 date: 2011.04.30
 filename: XQuartz-2.6.2.dmg
-download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.6.2.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.6.2/XQuartz-2.6.2.dmg
 required_os_version: 10.6.3
 emphasis: No Leopard Release
 status: release

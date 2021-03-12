@@ -4,7 +4,7 @@ title: XQuartz 2.2.1
 version: 2.2.1
 date: 2008.05.01
 filename: XQuartz-2.2.1.pkg
-download_url: https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-2.2.1.pkg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.2.1-Leopard/X11-2.2.1.pkg
 required_os_version: 10.5.2
 status: release
 ---

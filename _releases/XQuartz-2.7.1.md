@@ -4,7 +4,7 @@ title: XQuartz 2.7.1
 version: 2.7.1
 date: 2012.02.20
 filename: XQuartz-2.7.1.dmg
-download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.7.1.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.1/XQuartz-2.7.1.dmg
 required_os_version: 10.6.3
 status: release
 ---

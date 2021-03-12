@@ -4,7 +4,7 @@ title: XQuartz 2.8.0_alpha1
 version: 2.8.0_alpha1
 date: 2021.01.10
 filename: XQuartz-2.8.0_alpha1.dmg
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha1.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0_alpha1/XQuartz-2.8.0_alpha1.dmg
 required_os_version: 10.9
 status: prerelease
 emphasis: First pre-release with native Apple Silicon support

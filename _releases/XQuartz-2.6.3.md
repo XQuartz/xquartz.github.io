@@ -4,9 +4,9 @@ title: XQuartz 2.6.3
 version: 2.6.3
 date: 2011.07.20
 filename: XQuartz-2.6.3.dmg
-download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.6.3.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.6.3/XQuartz-2.6.3.dmg
 leopard_filename: X11-2.6.3.dmg
-leopard_download_url: https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-2.6.3.dmg
+leopard_download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.6.3-Leopard/X11-2.6.3.dmg
 required_os_version: 10.5.8, 10.6.3,
 emphasis: Final Leopard Release
 status: release

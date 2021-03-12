@@ -4,7 +4,7 @@ title: XQuartz 2.7.0
 version: 2.7.0
 date: 2011.11.04
 filename: XQuartz-2.7.0.dmg
-download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.7.0.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.0/XQuartz-2.7.0.dmg
 required_os_version: 10.6.3
 emphasis: First release supported on Lion
 status: release

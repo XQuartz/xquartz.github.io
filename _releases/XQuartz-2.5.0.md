@@ -4,9 +4,9 @@ title: XQuartz 2.5.0
 version: 2.5.0
 date: 2010.03.29
 filename: XQuartz-2.5.0.dmg
-download_url: https://dl.bintray.com/xquartz/legacy-downloads/SL/XQuartz-2.5.0.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.5.0/XQuartz-2.5.0.dmg
 leopard_filename: X11-2.5.0.dmg
-leopard_download_url: https://dl.bintray.com/xquartz/legacy-downloads/Leopard/X11-2.5.0.dmg
+leopard_download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.5.0-Leopard/X11-2.5.0.dmg
 required_os_version: 10.5.8, 10.6.3,
 emphasis: First release supported on Snow Leopard
 status: release

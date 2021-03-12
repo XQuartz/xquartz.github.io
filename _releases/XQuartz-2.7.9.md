@@ -4,7 +4,7 @@ title: XQuartz 2.7.9
 version: 2.7.9
 date: 2016.05.05
 filename: XQuartz-2.7.9
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.9.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.9/XQuartz-2.7.9.dmg
 required_os_version: 10.6.3
 status: release
 ---

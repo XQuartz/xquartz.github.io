@@ -4,7 +4,7 @@ title: XQuartz 2.8.0_alpha3
 version: 2.8.0_alpha3
 date: 2021.01.12
 filename: XQuartz-2.8.0_alpha3.dmg
-download_url: https://dl.bintray.com/xquartz/downloads/XQuartz-2.8.0_alpha3.dmg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0_alpha3/XQuartz-2.8.0_alpha3.dmg
 required_os_version: 10.9
 status: prerelease
 ---
