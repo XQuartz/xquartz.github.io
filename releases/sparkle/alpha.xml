@@ -8,10 +8,10 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <title>XQuartz-2.8.0_rc4</title>
-         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0_rc4.html</sparkle:releaseNotesLink>
-         <pubDate>Tue, 16 Mar 2021 03:18:17 UTC</pubDate>
-         <enclosure url="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0_rc4/XQuartz-2.8.0_rc4.dmg" sparkle:version="2.8.12" sparkle:shortVersionString="XQuartz-2.8.0_rc4" length="109588483" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCUdnhssDQl1wTt5/aRgVDf07UspQIUR2oAwT2C22qEkqcTHPMSSa0rwHQ=" sparkle:installationType="package" />
+         <title>XQuartz-2.8.0</title>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.0.html</sparkle:releaseNotesLink>
+         <pubDate>Mon, 22 Mar 2021 05:31:55 UTC</pubDate>
+         <enclosure url="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0/XQuartz-2.8.0.dmg" sparkle:version="2.8.13" sparkle:shortVersionString="XQuartz-2.8.0" length="108570025" type="application/octet-stream" sparkle:dsaSignature="MCwCFHTq5w3XpjCAiUgXB/bQQ5Y2dWFRAhQEqyw32lmKvBt3Feaef99dV3w5cg==" sparkle:installationType="package" />
       </item>
 
    </channel>
