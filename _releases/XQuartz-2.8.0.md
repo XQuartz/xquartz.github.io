@@ -13,6 +13,7 @@ emphasis: First release with native Apple Silicon support
 ### Changes in {{ page.version }} ###
   * Adds native support for Apple Silicon Macs.
   * Removes support for versions of macOS older than 10.9
+  * Uses system libXplugin
   * Removes build-time support for deprecated X11 libraries:
     * libXaw8
     * libXevie
@@ -21,7 +22,12 @@ emphasis: First release with native Apple Silicon support
     * libXp
     * libXTrap
     * libXxf86misc
-  * Removes Xfake
+  * Removes deprecated commands:
+    * gccmakedep
+    * makedepend
+    * xdmshell
+    * xfindproxy
+    * Xfake
   * Removes xpyb
   * Removes older libpng
 
