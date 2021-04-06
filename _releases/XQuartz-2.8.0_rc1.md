@@ -11,12 +11,12 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_beta4](XQuartz-2.8.0_beta4.html) plus:
-    * XQuartz now launches natively on Apple Silicon when started via LaunchServices
-    * Fixed an issue that prevented filesystem access to some directories for X11 clients launched from the Applications menu ([#6](https://github.com/XQuartz/XQuartz/issues/6))
-    * The Applications customization window now uses appropriate colors in dark mode ([#32](https://github.com/XQuartz/XQuartz/issues/32))
-    * Fixed an issue that was preventing cycling through windows on Catalina and Big Sur ([#56](https://github.com/XQuartz/XQuartz/issues/56))
-    * Installer no longer incorrectly offers an option to install to another drive ([#87](https://github.com/XQuartz/XQuartz/issues/87))
-    * Sparkle Updater no longer silently fails to update XQuartz ([#88](https://github.com/XQuartz/XQuartz/issues/88))
+  * XQuartz now launches natively on Apple Silicon when started via LaunchServices
+  * Fixed an issue that prevented filesystem access to some directories for X11 clients launched from the Applications menu ([#6](https://github.com/XQuartz/XQuartz/issues/6))
+  * The Applications customization window now uses appropriate colors in dark mode ([#32](https://github.com/XQuartz/XQuartz/issues/32))
+  * Fixed an issue that was preventing cycling through windows on Catalina and Big Sur ([#56](https://github.com/XQuartz/XQuartz/issues/56))
+  * Installer no longer incorrectly offers an option to install to another drive ([#87](https://github.com/XQuartz/XQuartz/issues/87))
+  * Sparkle Updater no longer silently fails to update XQuartz ([#88](https://github.com/XQuartz/XQuartz/issues/88))
 
 ### Base Project Sources ###
 

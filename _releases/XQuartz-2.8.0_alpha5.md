@@ -11,9 +11,9 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_alpha4](XQuartz-2.8.0_alpha4.html) plus:
-    * The package can now be installed offline (the notarization is now stapled onto the disk image)
-    * Xephyr binary no longer contains an i386 slice and has been updated to pass notarization
-    * Path to the openssl binary has been fixed in startx [#29](https://github.com/XQuartz/XQuartz/issues/29)
+  * The package can now be installed offline (the notarization is now stapled onto the disk image)
+  * Xephyr binary no longer contains an i386 slice and has been updated to pass notarization
+  * Path to the openssl binary has been fixed in startx [#29](https://github.com/XQuartz/XQuartz/issues/29)
 
 ### Base Project Sources ###
 

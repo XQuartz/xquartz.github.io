@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_beta2](XQuartz-2.8.0_beta2.html) plus:
-    * Fixed a regression in beta2 which caused a crash when syncing the system keymap ([#48](https://github.com/XQuartz/XQuartz/issues/48))
+  * Fixed a regression in beta2 which caused a crash when syncing the system keymap ([#48](https://github.com/XQuartz/XQuartz/issues/48))
 
 ### Base Project Sources ###
 

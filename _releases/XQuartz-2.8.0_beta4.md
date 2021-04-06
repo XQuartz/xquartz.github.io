@@ -11,10 +11,10 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_beta3](XQuartz-2.8.0_beta3.html) plus:
-    * Updated the installer to require logout on first install or upgrading from incompatible versions ([#42](https://github.com/XQuartz/XQuartz/issues/42), [#52](https://github.com/XQuartz/XQuartz/issues/52))
-    * Re-added /opt/X11/bin/freetype-config ([#73](https://github.com/XQuartz/XQuartz/issues/73))
-    * Added a step to migrate preferences from the previous preference domain ([#49](https://github.com/XQuartz/XQuartz/issues/49))
-    * The package is now signed in a way that will work on macOS 10.11 and earlier ([#50](https://github.com/XQuartz/XQuartz/issues/50))
+  * Updated the installer to require logout on first install or upgrading from incompatible versions ([#42](https://github.com/XQuartz/XQuartz/issues/42), [#52](https://github.com/XQuartz/XQuartz/issues/52))
+  * Re-added /opt/X11/bin/freetype-config ([#73](https://github.com/XQuartz/XQuartz/issues/73))
+  * Added a step to migrate preferences from the previous preference domain ([#49](https://github.com/XQuartz/XQuartz/issues/49))
+  * The package is now signed in a way that will work on macOS 10.11 and earlier ([#50](https://github.com/XQuartz/XQuartz/issues/50))
 
 ### Base Project Sources ###
 

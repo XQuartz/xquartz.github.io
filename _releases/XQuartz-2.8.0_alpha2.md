@@ -11,23 +11,23 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_alpha1](XQuartz-2.8.0_alpha1.html) plus:
-    * app
-      * fonttosfnt 1.2.1
-      * twm 1.0.11
-      * viewres 1.0.6
-      * xev 1.2.4
-      * xkbprint 1.0.5
-      * xprop 1.2.5
-      * xrandr 1.5.1
-    * font
-      * font-alias 1.0.4
-      * font-misc-ethiopic 1.0.4
-      * font-util 1.3.2
-    * lib
-      * fontconfig 2.13.93
-      * freetype 2.10.4
-      * libXpm 3.5.13
-      * pixman 0.40.0
+  * app
+    * fonttosfnt 1.2.1
+    * twm 1.0.11
+    * viewres 1.0.6
+    * xev 1.2.4
+    * xkbprint 1.0.5
+    * xprop 1.2.5
+    * xrandr 1.5.1
+  * font
+    * font-alias 1.0.4
+    * font-misc-ethiopic 1.0.4
+    * font-util 1.3.2
+  * lib
+    * fontconfig 2.13.93
+    * freetype 2.10.4
+    * libXpm 3.5.13
+    * pixman 0.40.0
 
 ### Base Project Sources ###
 

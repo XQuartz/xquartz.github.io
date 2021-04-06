@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_alpha3](XQuartz-2.8.0_alpha3.html) plus:
-    * The installer now runs the installation scripts
+  * The installer now runs the installation scripts
 
 ### Base Project Sources ###
 

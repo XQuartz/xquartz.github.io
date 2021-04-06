@@ -11,9 +11,9 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_alpha2](XQuartz-2.8.0_alpha2.html) plus:
-    * Fixed a compatability issue in libpng with macOS versions older than 10.15
-    * lib
-      * mesa 18.3.6
+  * Fixed a compatability issue in libpng with macOS versions older than 10.15
+  * lib
+    * mesa 18.3.6
 
 ### Base Project Sources ###
 

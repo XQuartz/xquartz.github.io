@@ -11,13 +11,13 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_beta1](XQuartz-2.8.0_beta1.html) plus:
-    * Fixed post-installation script to remove the older LaunchAgent ([#36](https://github.com/XQuartz/XQuartz/issues/36))
-    * Fixed the /opt/X11/bin/X symlink to point to Xquartz ([#37](https://github.com/XQuartz/XQuartz/issues/37))
-    * Fixed libGL compatibility version ([#38](https://github.com/XQuartz/XQuartz/issues/38))
-    * Include libOSMesa ([#39](https://github.com/XQuartz/XQuartz/issues/39))
-    * Fixed a crash when changing keyboard layout ([#40](https://github.com/XQuartz/XQuartz/issues/40))
-    * Updated installer disk image to use JHFS+ for compatibility with older versions of macOS ([#41](https://github.com/XQuartz/XQuartz/issues/41))
-    * Enabled some hardening options in the build (stack protector and -D_FORTIFY_SOURCE=2))
+  * Fixed post-installation script to remove the older LaunchAgent ([#36](https://github.com/XQuartz/XQuartz/issues/36))
+  * Fixed the /opt/X11/bin/X symlink to point to Xquartz ([#37](https://github.com/XQuartz/XQuartz/issues/37))
+  * Fixed libGL compatibility version ([#38](https://github.com/XQuartz/XQuartz/issues/38))
+  * Include libOSMesa ([#39](https://github.com/XQuartz/XQuartz/issues/39))
+  * Fixed a crash when changing keyboard layout ([#40](https://github.com/XQuartz/XQuartz/issues/40))
+  * Updated installer disk image to use JHFS+ for compatibility with older versions of macOS ([#41](https://github.com/XQuartz/XQuartz/issues/41))
+  * Enabled some hardening options in the build (stack protector and -D_FORTIFY_SOURCE=2))
 
 ### Base Project Sources ###
 

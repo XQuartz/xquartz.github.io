@@ -11,8 +11,8 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_rc3](XQuartz-2.8.0_rc3.html) plus:
-    * Re-added libraries for legacy X11 protocols and cairo for improved binary compatibility ([#124](https://github.com/XQuartz/XQuartz/issues/124))
-    * Updated startx script to include '+extension GLX' when enabling IGLX ([#54](https://github.com/XQuartz/XQuartz/issues/54))
+  * Re-added libraries for legacy X11 protocols and cairo for improved binary compatibility ([#124](https://github.com/XQuartz/XQuartz/issues/124))
+  * Updated startx script to include '+extension GLX' when enabling IGLX ([#54](https://github.com/XQuartz/XQuartz/issues/54))
 
 ### Base Project Sources ###
 

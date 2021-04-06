@@ -11,9 +11,9 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_rc1](XQuartz-2.8.0_rc1.html) plus:
-    * Re-added suport for i386 clients to all libraries ([#93](https://github.com/XQuartz/XQuartz/issues/93))
-    * Re-added bincompat liibraries for libXt (libXt.7.dylib and flat_namespace/libXt.6.dylib) ([#95](https://github.com/XQuartz/XQuartz/issues/95))
-    * Additional man pages and documentation are now provided ([#94](https://github.com/XQuartz/XQuartz/issues/94))
+  * Re-added suport for i386 clients to all libraries ([#93](https://github.com/XQuartz/XQuartz/issues/93))
+  * Re-added bincompat liibraries for libXt (libXt.7.dylib and flat_namespace/libXt.6.dylib) ([#95](https://github.com/XQuartz/XQuartz/issues/95))
+  * Additional man pages and documentation are now provided ([#94](https://github.com/XQuartz/XQuartz/issues/94))
 
 ### Base Project Sources ###
 

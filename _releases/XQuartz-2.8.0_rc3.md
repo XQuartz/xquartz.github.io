@@ -11,11 +11,11 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.0_rc2](XQuartz-2.8.0_rc2.html) plus:
-    * Font caching script will now detect an invalid lock file which was previously preventing caching ([#97](https://github.com/XQuartz/XQuartz/issues/97))
-    * System fonts (/System/Library/Fonts) are now available on macOS Catalina and later ([#99](https://github.com/XQuartz/XQuartz/issues/99))
-    * The mouse pointer now re-appears when focus switches to a native window (eg: quit dialog) ([#100](https://github.com/XQuartz/XQuartz/issues/100))
-    * The working directory is now forced to $HOME when ~/.xinitrc is executed ([#114](https://github.com/XQuartz/XQuartz/issues/114))
-    * Installer will no longer leave remnants of older versions of XQuartz when doing an upgrade install.
+  * Font caching script will now detect an invalid lock file which was previously preventing caching ([#97](https://github.com/XQuartz/XQuartz/issues/97))
+  * System fonts (/System/Library/Fonts) are now available on macOS Catalina and later ([#99](https://github.com/XQuartz/XQuartz/issues/99))
+  * The mouse pointer now re-appears when focus switches to a native window (eg: quit dialog) ([#100](https://github.com/XQuartz/XQuartz/issues/100))
+  * The working directory is now forced to $HOME when ~/.xinitrc is executed ([#114](https://github.com/XQuartz/XQuartz/issues/114))
+  * Installer will no longer leave remnants of older versions of XQuartz when doing an upgrade install.
 
 ### Base Project Sources ###
 
