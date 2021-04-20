@@ -2,7 +2,7 @@
 title: XQuartz 2.8.1_beta1
 
 version: 2.8.1_beta1
-date: 2021.05.06
+date: 2021.04.06
 filename: XQuartz-2.8.1_beta1.dmg
 download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.1_beta1/XQuartz-2.8.1_beta1.dmg
 required_os_version: 10.9
