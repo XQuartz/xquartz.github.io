@@ -8,6 +8,14 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.8.1_rc1</title>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.1_rc1.html</sparkle:releaseNotesLink>
+         <pubDate>Tue, 20 Apr 2021 19:28:23 UTC</pubDate>
+         <enclosure url="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.1_rc1/XQuartz-2.8.1_rc1.dmg" sparkle:version="2.8.18" sparkle:shortVersionString="XQuartz-2.8.1_rc1" length="109638131" type="application/octet-stream" sparkle:dsaSignature="MC0CFFY8rZ9Je15HQAqB+WEviy5D0qmfAhUAoGFOwsFP63+aFjKrSE+lPCbwJjQ=" sparkle:installationType="package" />
+      </item>
+
+      <item>
+         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
          <title>XQuartz-2.8.1_beta1</title>
          <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.1_beta1.html</sparkle:releaseNotesLink>
          <pubDate>Wed, 07 Apr 2021 03:14:22 UTC</pubDate>
