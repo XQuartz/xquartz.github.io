@@ -13,22 +13,44 @@ Run the following to prevent launchd from setting $DISPLAY and creating its sock
 
 ## ssh X forwarding debugging ##
 
-The XQuartz installer should automatically setup xauth for by editing ssh_config and sshd_config during 
-its post-install script.  If you are sshing to another system, be sure that remote server allows ssh 
-forwarding.  You may need to have an administrator edit that system's sshd_config file.
+You can forward X11 over an SSH connection by using either 'ssh -X' or 'ssh -Y'. Since 'ssh -X' provides
+tighter security, it is preferred over 'ssh -Y'; see the SSH manual.
 
-Try these SSH troubleshooting steps. This list shows the expected behavior of the system.
+If you are sshing to another system, be sure that remote server allows ssh forwarding. You may need to
+have an administrator edit that system's sshd_config file.
 
-local $ — refers to commands run on your local Mac
+The XQuartz installer should automatically point SSH to the correct location of xauth by editing ssh_config and sshd_config
+during its post-install script. Unfortunately, these two files are often overwritten during a macOS update,
+and the specific SSH settings that XQuartz needs are then lost. When that happens, X11 forwarding over
+SSH will suddenly fail with one of the following error messages:
 
-remote $ — refers to commands run on a remote Unix machine, of any type
+ssh -X : "Warning: untrusted X11 forwarding setup failed: xauth key data not generated."
+ssh -Y : "Warning: No xauth data; using fake authentication data for X11 forwarding."
+
+This problem can be fixed as follows.
+
+1. Start XQuartz, go to Preferences with "Cmd-," and go to the Security tab. Enable the first option: "Authenticate connections".
+2. Edit or create the file "~/.ssh/config" on the Mac and add these three lines:
+```
+# XAuthLocation added by XQuartz (https://www.xquartz.org)
+Host *
+    XAuthLocation /opt/X11/bin/xauth
+```
+3. Use 'chmod 600 ~/.ssh/config' to set the correct permissions for this file.
+4. Use 'ssh -X' to connect to a remote server including X11.
+5. To disable the 20 minute timeout on new X11 connections in a running session, add the line `ForwardX11Timeout 0` to the file "~/.ssh/config".
+
+In general, you can try these SSH troubleshooting steps. This list shows the expected behavior of the system.
+
+local $ - refers to commands run on your local Mac
+
+remote $ - refers to commands run on a remote Unix machine, of any type
 
     [1] local $ echo $DISPLAY
     /private/tmp/com.apple.launchd.UFeDJu0S1Q/org.xquartz:0
     [2] local $ grep DISPLAY ~/.*rc ~/.login ~/.*profile ~/.MacOSX/environment.plist 2>/dev/null
     [3] local $ grep -r DISPLAY /opt/local/etc /sw/etc /etc 2>/dev/null
-    [4] local $ ssh -Y remote
-    Warning: No xauth data; using fake authentication data for X11 forwarding.
+    [4] local $ ssh -X remote
     [5] remote $ echo $DISPLAY
     localhost:10.0
     [6] remote $ grep X11 /etc/ssh/sshd_config ~/.ssh/*
@@ -47,7 +69,8 @@ If step 3 outputs anything, it indicates that a system-wide change was made that
 environment. If it begins with /opt/local, it is MacPorts; if it begins with /sw, it is Fink. Otherwise, 
 it is probably a commercial program that uses X11; contact your vendor for an updated version.
 
-The warning message in step 4 is harmless.
+Step 4 should not return any error or warning messages. If you get any messages about 'xauth': see above.
+If you get any other messages: use 'ssh -vvv -X remote' to obtain more information.
 
 If step 5 does not output anything, then step 6's results probably include X11Forwarding no. In this 
 case, you must fix the configuration on the remote side.
@@ -162,7 +185,7 @@ You should replace 133 by some other number appropriate to your display if it is
 
 If you want to run multiple X11.app servers, you can do that by just copying the X11.app bundle to another name (like X11256.app) and editing the Info.plist to change the CFBundleIdentifier to a different value (like org.x.X11.256color).  This will let you launch a different X11 server with different options.  The launchd DISPLAY socket will always correspond to the original X11.app.  Do not change the CFBundleIdentifier of the original X11.app or you will run into problems.  Your xinitrc inherits the CFBundleIdentifier as the X11_PREFS_DOMAIN environment variable, so you can use this in your xinitrc to start up differently.
 
-### Example: A dedicated server for The Gimp:###
+### Example: A dedicated server for The Gimp: ###
 
 1) Copy X11.app to X11Gimp.app
 
