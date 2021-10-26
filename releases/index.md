@@ -39,3 +39,11 @@ instead of "xorg-server" in the command above.
 If you want all of the X.org client applications as well, run:
 
     $ sudo port -v install xorg
+
+#### Homebrew ####
+
+Alternatively, it is possible to install XQuartz with Homebrew. Visit
+[Homebrew](http://brew.sh) to install it on your system. Once installed, run
+this command from Terminal.app to install the latest X11 server on your system:
+
+    $ brew install --cask xquartz
