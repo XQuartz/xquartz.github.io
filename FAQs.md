@@ -101,7 +101,7 @@ To uninstall XQuartz 2.8 and later, execute the following in Terminal:
     launchctl unload /Library/LaunchAgents/org.xquartz.startx.plist
     sudo launchctl unload /Library/LaunchDaemons/org.xquartz.privileged_startx.plist
     sudo rm -rf /opt/X11* /Library/Launch*/org.xquartz.* /Applications/Utilities/XQuartz.app /etc/*paths.d/*XQuartz
-    sudo pkgutil --forget org.xquartz.pkg
+    sudo pkgutil --forget org.xquartz.X11
 
 ## Uninstall (XQuartz 2.7.x and earlier) ##
 
@@ -110,7 +110,7 @@ To uninstall XQuartz 2.7.x and earlier, execute the following in Terminal:
     launchctl unload /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
     sudo launchctl unload /Library/LaunchDaemons/org.macosforge.xquartz.privileged_startx.plist
     sudo rm -rf /opt/X11* /Library/Launch*/org.macosforge.xquartz.* /Applications/Utilities/XQuartz.app /etc/*paths.d/*XQuartz
-    sudo pkgutil --forget org.macosforge.xquartz.pkg
+    sudo pkgutil --forget org.macosforge.xquartz.X11
 
 ## Switching DISPLAY on Snow Leopard ##
 
@@ -131,7 +131,7 @@ Apple's X11.app will be default.
     sudo pkgutil --forget com.apple.pkg.X11DocumentationLeo
     sudo pkgutil --forget com.apple.pkg.X11User
     sudo pkgutil --forget com.apple.pkg.X11SDKLeo
-    sudo pkgutil --forget org.x.X11.pkg
+    sudo pkgutil --forget org.x.X11
 </pre>
 * **If you want Apple's X11**
   * Install X11User.pkg from Leopard's installation DVD, which is in `/Volumes/Mac OS X Install DVD/Optional Install/Optional Installs.mpkg`
