@@ -11,9 +11,9 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.2_beta3](XQuartz-2.8.2_beta3.html) plus:
-    * Updated xorg libraries and apps to newer upstream versions
-    * Fixed an issue that prevented processes spawned by XQuartz from using the microphone or camera ([#245](https://github.com/XQuartz/XQuartz/issues/245))
-    * Transitioned to new Sparkle feed ([#199](https://github.com/XQuartz/XQuartz/issues/199))
+  * Updated xorg libraries and apps to newer upstream versions
+  * Fixed an issue that prevented processes spawned by XQuartz from using the microphone or camera ([#245](https://github.com/XQuartz/XQuartz/issues/245))
+  * Transitioned to new Sparkle feed ([#199](https://github.com/XQuartz/XQuartz/issues/199))
 
 ### Base Project Sources ###
 
