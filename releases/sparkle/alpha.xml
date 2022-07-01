@@ -8,6 +8,14 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.8.2</title>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.2.html</sparkle:releaseNotesLink>
+         <pubDate>Fri, 01 Jul 2022 04:21:12 UTC</pubDate>
+         <enclosure url="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.2/XQuartz-2.8.2.dmg" sparkle:version="2.8.24" sparkle:shortVersionString="XQuartz-2.8.2" type="application/octet-stream" sparkle:dsaSignature="MCwCFEYdQRQNr6i+ukQmsE1dweMYjjTKAhQJhwC0YbmeQrVUeCVZkdKwdPqAQw==" sparkle:edSignature="ATxAlqoUY/MO5F0+TU9GMA8wOL9tcUTOepto+QCUrnb7tSBA6JTsm2kVlxXH5iaAvMWFz0s0hBkxLo6EvRu4Cw==" length="113425943" sparkle:installationType="package" />
+      </item>
+
+      <item>
+         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
          <title>XQuartz-2.8.2_beta4</title>
          <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.2_beta4.html</sparkle:releaseNotesLink>
          <pubDate>Sun, 26 Jun 2022 19:46:01 UTC</pubDate>
