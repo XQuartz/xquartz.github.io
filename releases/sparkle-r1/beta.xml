@@ -8,6 +8,14 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.8.3_rc3</title>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.3_rc3.html</sparkle:releaseNotesLink>
+         <pubDate>Mon, 28 Nov 2022 17:08:36 UTC</pubDate>
+         <enclosure url="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.3_rc3/XQuartz-2.8.3_rc3.pkg" sparkle:version="2.8.33" sparkle:shortVersionString="XQuartz-2.8.3_rc3" type="application/octet-stream" sparkle:edSignature="32NGHRZI1d7kdxlMFW/oRrvIlkstgLPazkZSo3A9myZPXAhM6y8gpSE41eo+6ycJJLD6hAYQW88V1NlUJn8TAw==" length="108310190" sparkle:installationType="package" />
+      </item>
+
+      <item>
+         <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
          <title>XQuartz-2.8.3_rc2</title>
          <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.3_rc2.html</sparkle:releaseNotesLink>
          <pubDate>Thu, 24 Nov 2022 21:44:52 UTC</pubDate>
