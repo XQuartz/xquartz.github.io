@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.3_beta1](XQuartz-2.8.3_beta1.html) plus:
-  * Fixed a crash when editing the Applications menu ([#267](https://github.com/XQuartz/XQuartz/issues/267)]
+  * Fixed a crash when editing the Applications menu ([#267](https://github.com/XQuartz/XQuartz/issues/267))
   * Fixed a performance issue impacting gtk3 apps ([quartz-wm:!2](https://gitlab.freedesktop.org/xorg/app/quartz-wm/-/merge_requests/2))
   * Updated server to 21.1.4 to address [CVE-2022-2319](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2319) and [CVE-2022-2320](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2320)
   * Updated multiple projects to newer upstream versions
