@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.3](XQuartz-2.8.3.html) plus:
-  * Updated server to 21.1.6 to address [CVE-2022-4283](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4283), [CVE-2022-46340](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46340), [CVE-2022-46341](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46341), [CVE-2022-46342](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46342), [CVE-2022-46343](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46343), and [CVE-2022-46344](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46344)
+  * Updated server to 21.1.6 to address [CVE-2022-3550](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3550), [CVE-2022-3551](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3551), [CVE-2022-4283](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4283), [CVE-2022-46340](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46340), [CVE-2022-46341](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46341), [CVE-2022-46342](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46342), [CVE-2022-46343](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46343), and [CVE-2022-46344](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46344)
 
 ### Base Project Sources ###
 
