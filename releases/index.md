@@ -15,7 +15,7 @@ stylesheet: releases.css
 {% endfor %}
   * [(See More)](archive.html)
 
-#### Automatic Updates for Beta Versions ####
+#### Automatic Updates for Pre-release Versions ####
 
 If you would like to receive automatic updates for pre-release versions in addition to
 release versions, please update to our alpha, beta, or rc SU feed by running one of the following
