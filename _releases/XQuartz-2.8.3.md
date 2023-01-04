@@ -12,7 +12,7 @@ status: release
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.2](XQuartz-2.8.2.html) plus:
   * Fixed a crash when editing the Applications menu ([#267](https://github.com/XQuartz/XQuartz/issues/267))
-  * Fixed a performance issue impacting gtk3 apps ([quartz-wm:!2](https://gitlab.freedesktop.org/xorg/app/quartz-wm/-/merge_requests/2))
+  * Fixed a performance issue impacting gtk3 apps ([quartz-wm!2](https://gitlab.freedesktop.org/xorg/app/quartz-wm/-/merge_requests/2))
   * Updated server to 21.1.4 to address [CVE-2022-2319](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2319) and [CVE-2022-2320](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2320)
   * Re-added support for system-wide app preferences ([#274](https://github.com/XQuartz/XQuartz/issues/274))
   * Updated pixman to 0.42.2 to address [CVE-2022-44638](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-44638)
