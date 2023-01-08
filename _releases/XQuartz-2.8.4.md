@@ -6,7 +6,7 @@ date: 2022.12.24
 filename: XQuartz-2.8.4.pkg
 download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.4/XQuartz-2.8.4.pkg
 required_os_version: 10.9
-status: prerelease
+status: release
 ---
 
 ### Changes in {{ page.version }} ###
