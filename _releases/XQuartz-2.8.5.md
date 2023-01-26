@@ -13,7 +13,7 @@ status: release
   * All changes in [2.8.4](XQuartz-2.8.4.html) plus:
   * Fixed a regression introduced in 2.8.3 that broke MIT-SHM clients going through an ssh tunnel ([#314](https://github.com/XQuartz/XQuartz/issues/314))
   * Updates to the XQuartz server to address a few issues in resize handling and window content rendering ([#233](https://github.com/XQuartz/XQuartz/issues/233) and [#307](https://github.com/XQuartz/XQuartz/issues/307))
-  * Fixed issues when resizing motif applications (([#308](https://github.com/XQuartz/XQuartz/issues/308)) and [#309](https://github.com/XQuartz/XQuartz/issues/309))
+  * Fixed issues when resizing motif applications ([#308](https://github.com/XQuartz/XQuartz/issues/308) and [#309](https://github.com/XQuartz/XQuartz/issues/309))
   * Fixed a crash that could occur when opening menus in motif applications ([#317](https://github.com/XQuartz/XQuartz/issues/317))
   * Changed XQuartz server to build COMPOSITE (although it is disabled at runtime)
   * Adjusted thread priorities to be user interactive or user initiated where appropriate

@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.3_rc2](XQuartz-2.8.3_rc2.html) plus:
-  * Disabled COMPOSITE extenstion to address a regression introduced in 2.8.3_beta1 ([#275](https://github.com/XQuartz/XQuartz/issues/275))
+  * Disabled COMPOSITE extension to address a regression introduced in 2.8.3_beta1 ([#275](https://github.com/XQuartz/XQuartz/issues/275))
 
 ### Base Project Sources ###
 

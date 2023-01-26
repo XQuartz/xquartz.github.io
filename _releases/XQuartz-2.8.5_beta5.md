@@ -11,8 +11,8 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.5_beta4](XQuartz-2.8.5_beta4.html) plus:
-  * Removed a bashism from a startup script, making it more compatable with using dash as /bin/sh ([#316](https://github.com/XQuartz/XQuartz/issues/316))
-  * Addressed additional issues when resizing motif applications (([#308](https://github.com/XQuartz/XQuartz/issues/308)) and [#309](https://github.com/XQuartz/XQuartz/issues/309))
+  * Removed a bashism from a startup script, making it more compatible with using dash as /bin/sh ([#316](https://github.com/XQuartz/XQuartz/issues/316))
+  * Addressed additional issues when resizing motif applications ([#308](https://github.com/XQuartz/XQuartz/issues/308) and [#309](https://github.com/XQuartz/XQuartz/issues/309))
   * Updated xterm and libX11
 
 ### Base Project Sources ###

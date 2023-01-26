@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.5_beta2](XQuartz-2.8.5_beta2.html) plus:
-  * Updated libX11 to currnet master to address a regression in libX11-2.8.3 ([libX11!174](https://gitlab.freedesktop.org/xorg/lib/libx11/-/merge_requests/174) and [libX11!176](https://gitlab.freedesktop.org/xorg/lib/libx11/-/merge_requests/176))
+  * Updated libX11 to current master to address a regression in libX11-2.8.3 ([libX11!174](https://gitlab.freedesktop.org/xorg/lib/libx11/-/merge_requests/174) and [libX11!176](https://gitlab.freedesktop.org/xorg/lib/libx11/-/merge_requests/176))
   * Updates to the XQuartz server to address a few issues in resize handling and window content rendering ([#233](https://github.com/XQuartz/XQuartz/issues/233) and [#307](https://github.com/XQuartz/XQuartz/issues/307))
 
 ### Base Project Sources ###

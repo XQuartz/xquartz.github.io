@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.5_beta1](XQuartz-2.8.5_beta1.html) plus:
-  * Adjusted thread priotiries to be user interactive or user initiated where appropriate
+  * Adjusted thread priorities to be user interactive or user initiated where appropriate
   * Changed XQuartz server to build COMPOSITE (although it is disabled at runtime)
 
 ### Base Project Sources ###
