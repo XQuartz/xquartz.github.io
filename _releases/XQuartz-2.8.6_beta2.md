@@ -4,7 +4,7 @@ title: XQuartz 2.8.6_beta2
 version: 2.8.6_beta2
 date: 2023.06.05
 filename: XQuartz-2.8.6_beta2.pkg
-download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.6_beta1/XQuartz-2.8.6_beta2.pkg
+download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.6_beta2/XQuartz-2.8.6_beta2.pkg
 required_os_version: "10.10"
 status: prerelease
 ---
