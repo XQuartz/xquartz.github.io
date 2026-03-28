@@ -12,6 +12,7 @@ status: prerelease
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.6_beta2](XQuartz-2.8.6_beta2.html) plus:
   * Addressed an issue that could cause some X11 surfaces to appear black on Apple Silicon hardware ([#31](https://github.com/XQuartz/XQuartz/issues/31))
+  * Addressed a rendering regression introduced in 2.8.5 ([#323](https://github.com/XQuartz/XQuartz/issues/323))
   * Updated multiple projects to newer upstream versions, addressing a number of CVEs that were fixed over the past three years.
 
 ### Base Project Sources ###
