@@ -9,7 +9,7 @@ depending on what component is affected.
 
 ### XQuartz and General Screening ###
 
-If in doubt, just file a ticket on Github.  You might be directed elsewhere, but it's a good first step if you aren't sure where to file your issue.
+If in doubt, just file a ticket on GitHub.  You might be directed elsewhere, but it's a good first step if you aren't sure where to file your issue.
 
   * [XQuartz](https://github.com/XQuartz/XQuartz/issues)
 
