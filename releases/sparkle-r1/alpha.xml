@@ -8,6 +8,14 @@
 
       <item>
          <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+         <title>XQuartz-2.8.6_beta5</title>
+         <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.6_beta5.html</sparkle:releaseNotesLink>
+         <pubDate>Mon, 20 Apr 2026 04:36:36 UTC</pubDate>
+         <enclosure url="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.6_beta5/XQuartz-2.8.6_beta5.pkg" sparkle:version="2.8.64" sparkle:shortVersionString="XQuartz-2.8.6_beta5" type="application/octet-stream" sparkle:edSignature="xKs5HFRnRimJQ/k7Gs2ghz0y2B17VezYP/BAp1XJgTA45Z2oEnthcXukwTKwKdQgdox6E0XjCKz6Jh/qtYavAQ==" length="171432896" sparkle:installationType="package" />
+      </item>
+
+      <item>
+         <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
          <title>XQuartz-2.8.6_beta4</title>
          <sparkle:releaseNotesLink>https://www.xquartz.org/releases/bare/XQuartz-2.8.6_beta4.html</sparkle:releaseNotesLink>
          <pubDate>Sat, 28 Mar 2026 08:16:03 UTC</pubDate>
