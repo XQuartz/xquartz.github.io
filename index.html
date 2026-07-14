@@ -18,7 +18,12 @@ The XQuartz project is an open-source effort to develop a version of the <a href
 </thead>
 <tbody>
 
-<tr id="mav"><td><a href="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.5/XQuartz-2.8.5.pkg"><span class="download-icon"></span>XQuartz-2.8.5.pkg</a></td>
+<tr id="highsierra"><td><a href="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.6/XQuartz-2.8.6.pkg"><span class="download-icon"></span>XQuartz-2.8.6.pkg</a></td>
+<td>2.8.6</td>
+<td>2026-07-14</td>
+<td>For macOS 10.13 or later</td></tr>
+
+<tr id="mav" class="collapsed"><td><a href="https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.5/XQuartz-2.8.5.pkg"><span class="download-icon"></span>XQuartz-2.8.5.pkg</a></td>
 <td>2.8.5</td>
 <td>2023-01-26</td>
 <td>For macOS 10.9 or later</td></tr>
@@ -44,32 +49,45 @@ OS X Software Updates have included some of the work done by the XQuartz project
 </span>
 
 <script type="text/javascript">
-/* If we can detect OS X 10.5-10.8 in the user agent string,
- * set #mav to collapse and #leopard or #snow to visible
+/* By default we advertise the newest release (#highsierra, macOS 10.13+).
+ * If we can detect an older OS X version in the user agent string, collapse
+ * #highsierra and reveal the appropriate older release instead:
+ *   10.5        -> #leopard (+ #leopard2)
+ *   10.6 - 10.8 -> #snow
+ *   10.9 - 10.12 -> #mav
  */
   try {
-    if (/Mac[ ]+OS[ ]+X[ ]+10[._]5[^0-9]/i.test(window.navigator.userAgent)) {
-      var mav, leopard, leopard2;
-      mav = document.getElementById('mav');
+    var ua = window.navigator.userAgent;
+    var highsierra = document.getElementById('highsierra');
+    if (/Mac[ ]+OS[ ]+X[ ]+10[._]5[^0-9]/i.test(ua)) {
+      var leopard, leopard2;
       leopard = document.getElementById('leopard');
       leopard2 = document.getElementById('leopard2');
-      if (mav) {
+      if (highsierra) {
         if (leopard) {
           leopard.className = '';
           if (leopard2) {
             leopard2.className = '';
           }
-          mav.className = 'collapsed';
+          highsierra.className = 'collapsed';
         }
       }
-    } else if (/Mac[ ]+OS[ ]+X[ ]+10[._][6-8][^0-9]/i.test(window.navigator.userAgent)) {
-      var mav, snow;
-      mav = document.getElementById('mav');
+    } else if (/Mac[ ]+OS[ ]+X[ ]+10[._][6-8][^0-9]/i.test(ua)) {
+      var snow;
       snow = document.getElementById('snow');
-      if (mav) {
+      if (highsierra) {
         if (snow) {
           snow.className = '';
-          mav.className = 'collapsed';
+          highsierra.className = 'collapsed';
+        }
+      }
+    } else if (/Mac[ ]+OS[ ]+X[ ]+10[._](9|1[0-2])[^0-9]/i.test(ua)) {
+      var mav;
+      mav = document.getElementById('mav');
+      if (highsierra) {
+        if (mav) {
+          mav.className = '';
+          highsierra.className = 'collapsed';
         }
       }
     }

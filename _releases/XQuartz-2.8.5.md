@@ -7,6 +7,7 @@ filename: XQuartz-2.8.5.pkg
 download_url: https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.5/XQuartz-2.8.5.pkg
 required_os_version: 10.9
 status: release
+emphasis: Last release to support Mavericks, Yosemite, El Capitan, and Sierra
 ---
 
 ### Changes in {{ page.version }} ###
