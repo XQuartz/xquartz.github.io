@@ -27,7 +27,7 @@ status: release
     * [twm 1.0.9](https://lists.x.org/archives/xorg-announce/2015-April/002565.html)
     * [x11perf 1.6.0](https://lists.x.org/archives/xorg-announce/2015-April/002566.html)
     * xauth
-      * Fix support for Yosemite launchd socket (#2068)
+      * Fix support for Yosemite launchd socket ([#2068](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/2068.md))
     * [xcalc 1.0.6](https://lists.x.org/archives/xorg-announce/2015-January/002523.html)
     * [xcmsdb 1.0.5](https://lists.x.org/archives/xorg-announce/2015-April/002567.html)
     * [xcompmgr 1.1.7](https://lists.x.org/archives/xorg-announce/2015-April/002568.html)
@@ -99,7 +99,7 @@ status: release
     * [libXvMC 1.0.9](https://lists.x.org/archives/xorg-announce/2015-March/002548.html)
     * [libXxf86vm 1.1.4](https://lists.x.org/archives/xorg-announce/2015-February/002539.html)
     * [mesa 11.0.3](http://www.mesa3d.org/relnotes/11.0.3.html)
-      * Fixes GLhandleARB declaration (#858)
+      * Fixes GLhandleARB declaration ([#858](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/858.md))
     * [pixman 0.32.8](https://lists.freedesktop.org/archives/pixman/2015-September/004065.html)
     * [xcb-util 0.4.0](https://lists.x.org/archives/xorg-announce/2014-October/002490.html)
     * [xcb-util-cursor 0.1.2](https://lists.x.org/archives/xorg-announce/2015-March/002555.html)

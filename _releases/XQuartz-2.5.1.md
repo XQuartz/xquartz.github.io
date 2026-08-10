@@ -17,11 +17,11 @@ status: release
     * luit
       * includes [changes](https://cgit.freedesktop.org/xorg/app/luit/commit/?id=fddfe30c3ff91c83d0484b136e7673764e555555) from Thomas Dickey's luit-20100601
     * quartz-wm 1.1.1
-      * Fixed an issue with focus loss (#370)
-      * Fixed an issue dragging windows to other spaces (#375)
+      * Fixed an issue with focus loss ([#370](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/370.md))
+      * Fixed an issue dragging windows to other spaces ([#375](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/375.md))
     * [sessreg 1.0.6](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001322.html)
     * xinit
-      * Fixed startx to be POSIX compliant for users of non-bash /bin/sh (#399)
+      * Fixed startx to be POSIX compliant for users of non-bash /bin/sh ([#399](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/399.md))
     * [xinput 1.5.2](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001323.html)
     * [xlsatoms 1.1.0](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001320.html)
     * [xlsclients 1.1.0](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001319.html)
@@ -44,7 +44,7 @@ status: release
     * [libXfont 1.4.2](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001336.html)
     * [libXrender 0.9.6](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001327.html)
     * [libxcb 1.6](https://lists.freedesktop.org/archives/xorg-announce/2010-April/001299.html)
-      * Fixed $DISPLAY parsing (#390)
+      * Fixed $DISPLAY parsing ([#390](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/390.md))
     * [mesa 7.8.1](http://www.mesa3d.org/relnotes-7.8.1.html)
     * [pixman 0.18.2](https://lists.freedesktop.org/archives/xorg-announce/2010-May/001312.html)
   * misc:
@@ -57,8 +57,8 @@ status: release
   * server:
     * [xorg-server 1.8.2](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.5.1)
       * Move to the 1.8 branch
-      * Fixed shift-arrow keys sending math symbols in wine (#295)
-      * Added a preference to toggle between Alt_L, Alt_R and Mode_switch (#374)
+      * Fixed shift-arrow keys sending math symbols in wine ([#295](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/295.md))
+      * Added a preference to toggle between Alt_L, Alt_R and Mode_switch ([#374](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/374.md))
       * Fixed possible errors with GLX pixel formats [Bugzilla #27654](https://bugs.freedesktop.org/show_bug.cgi?id=27654)
-      * Worked around another instance of the graphics context clipping bug that was causing border render errors (#290)
-      * Fix some misreported pointer coordinates with middle click and scrolling (#389)
+      * Worked around another instance of the graphics context clipping bug that was causing border render errors ([#290](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/290.md))
+      * Fix some misreported pointer coordinates with middle click and scrolling ([#389](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/389.md))

@@ -25,7 +25,7 @@ status: release
     * [libpng 1.5.1](ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng-1.5.1-README.txt)
       * SDKs from previous releases are not provided, but binaries remain for ABI compatibility
     * [libX11 1.4.2](https://lists.freedesktop.org/archives/xorg-announce/2011-March/001629.html)
-      * Fixes some error handler issues with xcb (#469)
+      * Fixes some error handler issues with xcb ([#469](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/469.md))
     * [libXaw 1.0.9](https://lists.freedesktop.org/archives/xorg-announce/2011-January/001590.html)
     * [libXfixes 5.0](https://lists.freedesktop.org/archives/xorg-announce/2011-March/001623.html)
     * [libXi 1.4.1](https://lists.freedesktop.org/archives/xorg-announce/2011-January/001596.html)
@@ -44,6 +44,6 @@ status: release
     * [xineramaproto 1.2.1](https://lists.freedesktop.org/archives/xorg-announce/2011-January/001582.html)
   * server:
     * [xorg-server 1.9.5](https://lists.freedesktop.org/archives/xorg-announce/2011-March/001627.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.1)
-    * fixed monitor hot-swapping regression (#460)
-    * Windows have the correct color profile when first created (#425)
+    * fixed monitor hot-swapping regression ([#460](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/460.md))
+    * Windows have the correct color profile when first created ([#425](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/425.md))
     * Localization updates

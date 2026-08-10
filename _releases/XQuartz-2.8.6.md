@@ -16,7 +16,7 @@ status: release
   * Automatically migrate SUFeedURL to the latest URL for the selected reslease type ([#337](https://github.com/XQuartz/XQuartz/issues/337))
   * Addressed an issue that could cause some X11 surfaces to appear black on Apple Silicon hardware ([#31](https://github.com/XQuartz/XQuartz/issues/31))
   * Addressed a rendering regression introduced in 2.8.5 ([#323](https://github.com/XQuartz/XQuartz/issues/323))
-  * Fixed a crash in xrandr (#462)
+  * Fixed a crash in xrandr ([#462](https://github.com/XQuartz/XQuartz/issues/462))
 
 ### Base Project Sources ###
 

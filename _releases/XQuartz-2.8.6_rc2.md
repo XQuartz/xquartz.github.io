@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.6_rc1](XQuartz-2.8.6_rc1.html) plus:
-  * Fixed build to not use ASan (#488)
+  * Fixed build to not use ASan ([#488](https://github.com/XQuartz/XQuartz/issues/488))
 
 ### Base Project Sources ###
 

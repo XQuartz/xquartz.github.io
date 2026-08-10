@@ -13,11 +13,11 @@ status: release
   * All changes in [2.7.3](XQuartz-2.7.3.html) plus:
   * app:
     * xinit
-      * Address a possible startup bug if a user is named "0" on the system (#637).
+      * Address a possible startup bug if a user is named "0" on the system ([#637](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/637.md)).
   * lib:
     * [fontconfig 2.10.1](https://lists.freedesktop.org/archives/fontconfig/2012-July/004229.html)
     * mesa 8.0.4
-      * Fix an issue with GLX pixmaps (#536) plaguing wine
+      * Fix an issue with GLX pixmaps ([#536](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/536.md)) plaguing wine
   * server:
     * [xf86-video-dummy 0.3.6](https://lists.x.org/archives/xorg-announce/2012-July/002033.html)
     * xorg-server 1.13.0 plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.4)

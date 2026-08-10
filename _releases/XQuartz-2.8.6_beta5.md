@@ -11,7 +11,7 @@ status: prerelease
 
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.6_beta4](XQuartz-2.8.6_beta4.html) plus:
-  * Fixed a crash in xrandr (#462)
+  * Fixed a crash in xrandr ([#462](https://github.com/XQuartz/XQuartz/issues/462))
   * Updated to xorg-server-21.1.22 to pull in multiple upstream bug fixes
 
 ### Base Project Sources ###

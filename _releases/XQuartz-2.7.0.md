@@ -67,4 +67,4 @@ status: release
       * Improved logging
       * [CVE-2011-4028](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4028)
       * [CVE-2011-4029](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4029)
-      * Fixed server side bug sending the AppleDRICreatePixmap request (#508)
+      * Fixed server side bug sending the AppleDRICreatePixmap request ([#508](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/508.md))

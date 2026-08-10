@@ -32,6 +32,6 @@ status: release
     * [xcb-proto 1.11](https://lists.x.org/archives/xorg-announce/2014-August/002468.html)
   * server:
     * [xorg-server 1.15.2](https://lists.x.org/archives/xorg-announce/2014-June/002450.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.7)
-      * Fixes multimonitor support on Mavericks (#832, #1876)
-      * Fix Xephyr "failed to create root window" bug (#822)
-      * Fix a crash resulting from a rare race condition in fd handoff (#869)
+      * Fixes multimonitor support on Mavericks ([#832](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/832.md), [#1876](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/1876.md))
+      * Fix Xephyr "failed to create root window" bug ([#822](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/822.md))
+      * Fix a crash resulting from a rare race condition in fd handoff ([#869](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/869.md))

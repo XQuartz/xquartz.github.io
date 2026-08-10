@@ -16,7 +16,7 @@ status: release
     * [mkfontscale 1.1.0](https://lists.freedesktop.org/archives/xorg-announce/2012-February/001819.html)
     * [oclock 1.0.3](https://lists.freedesktop.org/archives/xorg-announce/2012-February/001820.html)
     * quartz-wm 1.3.0
-      * Fixes a possible crash when restoring from the dock (#538)
+      * Fixes a possible crash when restoring from the dock ([#538](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/538.md))
     * [xclipboard 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2012-February/001821.html)
     * [xclock 1.0.6](https://lists.freedesktop.org/archives/xorg-announce/2012-February/001822.html)
     * [xinit 1.3.2](https://lists.freedesktop.org/archives/xorg-announce/2012-January/001804.html)

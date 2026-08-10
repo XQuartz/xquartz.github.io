@@ -12,8 +12,8 @@ status: prerelease
 ### Changes in {{ page.version }} ###
   * All changes in [2.8.6](XQuartz-2.8.6.html) plus:
   * Updated multiple projects to newer upstream versions
-  * GLX now supports Core Profiles with hardware support through OpenGL.framework up to OpenGL 4.1 (#335)
-  * GLX now supports AppleGL, llvmpipe, softpipe, or indirect backends (#446)
+  * GLX now supports Core Profiles with hardware support through OpenGL.framework up to OpenGL 4.1 ([#335](https://github.com/XQuartz/XQuartz/issues/335))
+  * GLX now supports AppleGL, llvmpipe, softpipe, or indirect backends ([#446](https://github.com/XQuartz/XQuartz/issues/446))
     * Tahoe and later use llvmpipe due to a bug in macOS
     * Defaults can be overridden by setting environment variables: `MESA_LOADER_DRIVER_OVERRIDE=applegl`, `GALLIUM_DRIVER=llvmpipe`, `GALLIUM_DRIVER=softpipe`, or `LIBGL_ALWAYS_INDIRECT=1`
 

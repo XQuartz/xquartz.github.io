@@ -45,4 +45,4 @@ status: release
     * [util-macros 1.19.0](https://lists.x.org/archives/xorg-announce/2014-March/002411.html)
   * server:
     * [xorg-server 1.14.6](https://lists.x.org/archives/xorg-announce/2014-April/002418.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.7.6)
-      * Fix the deletion of display lock files (#823)
+      * Fix the deletion of display lock files ([#823](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/823.md))

@@ -180,7 +180,7 @@ status: release
     * [xcmiscproto 1.2.1](https://lists.freedesktop.org/archives/xorg-announce/2010-October/001477.html)
   * server:
     * [xorg-server 1.9.3](https://lists.freedesktop.org/archives/xorg-announce/2010-December/001567.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.0)
-      * Initial RandR support (#6)
+      * Initial RandR support ([#6](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/6.md))
       * Fullscreen mode disables the Mac OS screensaver
       * Localization Updates
       * CoreAudio path for XBell() removed in favor of always using NSBell()

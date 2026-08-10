@@ -105,7 +105,7 @@ status: release
     * [libXxf86dga 1.1.3](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001865.html)
     * [libXxf86vm 1.1.2](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001866.html)
     * [mesa 8.0.3](http://mesa3d.org/relnotes-8.0.3.html)
-      * Including fixes for [two](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=bb30e76328e9dd80b0c7a7688828e3cf8e662b1b) [crashes](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=6095a17534c2694760300701fee59a320950f271), [a memory leak](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=69d8a25d429bccf960e98e5c126e1ef2ae4ffe9d), and [regres](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=7e624edba4c9f0fb2bcc322ef0b1b6401aa0a075)[sions](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=9724c8d13c09773dcf9674f15accd8f2f4d148ff) (#512, #575)
+      * Including fixes for [two](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=bb30e76328e9dd80b0c7a7688828e3cf8e662b1b) [crashes](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=6095a17534c2694760300701fee59a320950f271), [a memory leak](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=69d8a25d429bccf960e98e5c126e1ef2ae4ffe9d), and [regres](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=7e624edba4c9f0fb2bcc322ef0b1b6401aa0a075)[sions](https://cgit.freedesktop.org/mesa/mesa/commit/?h=8.0&id=9724c8d13c09773dcf9674f15accd8f2f4d148ff) ([#512](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/512.md), [#575](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/575.md))
     * [xpyb 1.3.1](https://lists.freedesktop.org/archives/xcb/2012-March/007701.html)
     * [xtrans 1.2.7](https://lists.freedesktop.org/archives/xorg-announce/2012-March/001892.html)
   * misc:
@@ -138,4 +138,4 @@ status: release
       * Xorg binary is now installed as well, for use with the dummy, nested, or vnc drivers (experts only, not yet fully supported)
       * Improved support for Xi2 including sub-pixel resolution of valuators and smooth scrolling
       * Workaround a wine bug in mouse input
-      * Address a race condition at startup that affects tablets and VMWare users (#579)
+      * Address a race condition at startup that affects tablets and VMWare users ([#579](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/579.md))

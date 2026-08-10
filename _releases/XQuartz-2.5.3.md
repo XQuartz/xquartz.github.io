@@ -15,7 +15,7 @@ status: release
   * All changes in [2.5.2](XQuartz-2.5.2.html) plus:
   * app:
       * quartz-wm 1.1.2
-        * Addresses an issue where quartz-wm would not release the KB if there were no meta keys in the modmap (#427)
+        * Addresses an issue where quartz-wm would not release the KB if there were no meta keys in the modmap ([#427](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/427.md))
       * [xditview 1.0.2](https://lists.x.org/archives/xorg-announce/2010-August/001367.html)
       * [xmore 1.0.2](https://lists.x.org/archives/xorg-announce/2010-July/001360.html)
       * [xrandr 1.3.3](https://lists.x.org/archives/xorg-announce/2010-July/001361.html)
@@ -38,6 +38,6 @@ status: release
       * [xextproto 7.1.2](https://lists.x.org/archives/xorg-announce/2010-August/001373.html)
   * server:
     * [xorg-server 1.8.2](https://lists.freedesktop.org/archives/xorg-announce/2010-June/001342.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.5.3)
-      * Finish cleanup of /tmp on server quit (#421)
-      * Address an indirect GLX regressions introduced in 2.5.1 (#423, #426)
+      * Finish cleanup of /tmp on server quit ([#421](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/421.md))
+      * Address an indirect GLX regressions introduced in 2.5.1 ([#423](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/423.md), [#426](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/426.md))
 

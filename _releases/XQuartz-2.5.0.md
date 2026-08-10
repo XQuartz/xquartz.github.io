@@ -27,7 +27,7 @@ status: release
     * [mkfontscale 1.0.7](https://lists.freedesktop.org/archives/xorg-announce/2009-October/001134.html)
     * [mkfontdir 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2009-October/001135.html)
     * quartz-wm 1.1.0
-      * Fixed a bug (#329) where windows could get lost behind the dock
+      * Fixed a bug ([#329](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/329.md)) where windows could get lost behind the dock
     * [sessreg 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2009-October/001139.html)
     * [viewres 1.0.2](https://lists.freedesktop.org/archives/xorg-announce/2009-December/001220.html)
     * [x11perf 1.5.1](https://lists.freedesktop.org/archives/xorg-announce/2009-October/001161.html)
@@ -196,5 +196,5 @@ status: release
       * Add support for side-by-side installation with system X11 (SnowLeopard Only)
       * Allow 16bit accumulation buffers
       * Properly set the key repeat rates in the server rather than relying on xinitrc
-      * Partially fixed the "borders don't show up" bug (#290)
-      * Fixed the rare stuck mouse pointer bug (#64)
+      * Partially fixed the "borders don't show up" bug ([#290](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/290.md))
+      * Fixed the rare stuck mouse pointer bug ([#64](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/64.md))

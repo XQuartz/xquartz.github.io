@@ -18,7 +18,7 @@ status: release
     * [iceauth 1.0.5](https://lists.freedesktop.org/archives/xorg-announce/2011-May/001668.html)
       * Addresses an issue with home directories on AFP mount-points
     * quartz-wm 1.2.1
-      * Improved initial placement of windows (#481)
+      * Improved initial placement of windows ([#481](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/481.md))
       * Window sizes are bounded to the current display size rather than the initial display size (should improve fullscreen games at native resolution)
     * [xauth 1.0.6](https://lists.freedesktop.org/archives/xorg-announce/2011-May/001667.html)
       * Addresses an issue with home directories on AFP mount-points
@@ -31,7 +31,7 @@ status: release
       * [CVE-2011-2692](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2692)
   * server:
     * [xorg-server 1.10.3](https://lists.freedesktop.org/archives/xorg-announce/2011-July/001710.html) plus [other patches](https://github.com/XQuartz/xorg-server/commits/XQuartz-2.6.3)
-      * Fixed a crash in RandR when resizing while displays are asleep (#463)
+      * Fixed a crash in RandR when resizing while displays are asleep ([#463](https://github.com/XQuartz/xquartz-old-tickets/blob/master/ticket/463.md))
       * Fixed a crash in RandR when launching X11 while displays are asleep
       * Fixed a crash in rootless when resizing to a larger display
       * Fixed a possible race crash at shutdown
